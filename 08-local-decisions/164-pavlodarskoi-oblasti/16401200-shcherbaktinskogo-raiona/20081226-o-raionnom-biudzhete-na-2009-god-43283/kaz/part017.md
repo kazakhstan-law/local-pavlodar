@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43283/kaz/26.12.2008
+source: https://zan.gov.kz/client/#!/doc/43283/kaz/12.01.2009
 ---
 
 ## Ильич селолық округі бойынша
