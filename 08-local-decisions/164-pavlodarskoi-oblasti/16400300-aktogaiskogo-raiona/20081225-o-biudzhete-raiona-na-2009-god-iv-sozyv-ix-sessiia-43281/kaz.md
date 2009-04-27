@@ -1,5 +1,5 @@
 ---
-version_id: AI43281_2
+version_id: AI43281_3
 act_code: '43281'
 language: kaz
 title: 2009 жылға арналған аудандық бюджет туралы (IV шақырылған, IX сессия)
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '164003000002'
 approval_date: 2008-12-25
-version_date: 2009-01-01
+version_date: 2009-04-27
 registry_number: '43281'
-source: https://zan.gov.kz/client/#!/doc/43281/kaz/01.01.2009
+caused_by:
+  code: '45569'
+  title: Аудандық мәслихаттың (IV шақырылым, IX сессия) 2008 жылғы 25 желтоқсандағы "2009 жылға арналған аудандық бюджет туралы" № 56/9 шешіміне өзгертулер мен толықтырулар енгізу туралы"
+  link: https://zan.gov.kz/client/#!/doc/45569/kaz
+source: https://zan.gov.kz/client/#!/doc/43281/kaz/27.04.2009
 ---
 
 # 2009 жылға арналған аудандық бюджет туралы (IV шақырылған, IX сессия)
