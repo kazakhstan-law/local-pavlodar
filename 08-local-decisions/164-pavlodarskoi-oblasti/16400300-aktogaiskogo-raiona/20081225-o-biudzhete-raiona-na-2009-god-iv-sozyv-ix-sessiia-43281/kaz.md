@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/43281/kaz/01.01.2009
+source: https://zan.gov.kz/client/#!/doc/43281/kaz/27.04.2009
 ---
 
 # 2009 жылға арналған аудандық бюджет туралы (IV шақырылған, IX сессия)
