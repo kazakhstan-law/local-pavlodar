@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/43283/rus/12.01.2009
+source: https://zan.gov.kz/client/#!/doc/43283/rus/07.05.2009
 ---
 
 ## Чигириновского сельского округа
