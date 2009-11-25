@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43414/kaz/28.07.2009
+source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.11.2009
 ---
 
 ## 2009 жылға арналған аудан бюджетінің ауылдық округі бойынша бағдарламаларының тізбесі
