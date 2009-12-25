@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/43414/rus/25.11.2009
+source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 ---
 
 ## Перечень бюджетных программ в разрезе сельских округов района на 2009 год
