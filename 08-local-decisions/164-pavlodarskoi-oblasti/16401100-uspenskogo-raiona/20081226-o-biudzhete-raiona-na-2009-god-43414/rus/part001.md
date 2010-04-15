@@ -1,11 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
+source: https://zan.gov.kz/client/#!/doc/43414/rus/15.04.2010
 ---
+
+> *Приложение 1*  
+> *к решению Успенского районного*  
+> *маслихата (XII сессия IV созыв)*  
+> *от 26 декабря 2008 года № 58/12*
 
 ## Районный бюджет на 2009 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Успенского района Павлодарской области от 25.12.2009 N 107/19 (вводится в действие с 01.01.2009).*
+> *Сноска. Приложение 1 в редакции решения маслихата Успенского района Павлодарской области от 25.12.2009 № 107/19 (вводится в действие с 01.01.2009).*
 
 <table>
 <tr>
@@ -323,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>113666</td>
 </tr>
 <tr>
-<td>1</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -332,8 +337,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>100141</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>112</td>
 <td></td>
 <td></td>
@@ -341,17 +346,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>6640</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>112</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности маслихата района (города областного значения)</td>
 <td>6640</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -359,26 +364,26 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>30570</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>122</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности акима района (города областного значения)</td>
 <td>29501</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>122</td>
+<td></td>
+<td></td>
+<td></td>
 <td>115</td>
 <td></td>
 <td>Выполнение обязательств местных исполнительных органов по решениям судов за счет средств резерва местного исполнительного органа</td>
 <td>1069</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -386,25 +391,25 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>62931</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Функционирование аппарата акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>62517</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>115</td>
 <td></td>
 <td>Выполнение обязательств местных исполнительных органов по решениям судов за счет средств резерва местного исполнительного органа</td>
 <td>414</td>
 </tr>
 <tr>
-<td>1</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -440,7 +445,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>111</td>
 </tr>
 <tr>
-<td>1</td>
+<td></td>
 <td>05</td>
 <td></td>
 <td></td>
@@ -476,7 +481,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>3365</td>
 </tr>
 <tr>
-<td>2</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -485,8 +490,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>3355</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -494,16 +499,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>3355</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
-<td>122</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Мероприятия в рамках исполнения всеобщей воинской обязанности</td>
 <td>3355</td>
 </tr>
 <tr>
-<td>2</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -512,8 +517,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>10</td>
 </tr>
 <tr>
-<td>2</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -539,7 +544,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>684933</td>
 </tr>
 <tr>
-<td>4</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -548,8 +553,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>40226</td>
 </tr>
 <tr>
-<td>4</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -557,16 +562,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>40226</td>
 </tr>
 <tr>
-<td>4</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td>Поддержка организаций дошкольного воспитания и обучения</td>
 <td>40226</td>
 </tr>
 <tr>
-<td>4</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -575,8 +580,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>603708</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -584,17 +589,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>3152</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Организация бесплатного подвоза учащихся до школы и обратно в аульной (сельской) местности</td>
 <td>3152</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>464</td>
 <td></td>
 <td></td>
@@ -602,18 +607,18 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>600556</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Общеобразовательное обучение</td>
 <td>570548</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>Дополнительное образование для детей</td>
@@ -629,7 +634,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>6508</td>
 </tr>
 <tr>
-<td>4</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -638,8 +643,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>40999</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>464</td>
 <td></td>
 <td></td>
@@ -647,27 +652,27 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>40999</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела образования</td>
 <td>7861</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Приобретение и доставка учебников, учебно-методических комплексов для государственных учреждений образования района (города областного значения)</td>
 <td>5472</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Проведение школьных олимпиад, внешкольных мероприятий и конкурсов районного (городского) масштаба</td>
@@ -683,9 +688,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>27600</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>115</td>
 <td></td>
 <td>Выполнение обязательств местных исполнительных органов по решениям судов за счет средств резерва местного исполнительного органа</td>
@@ -701,7 +706,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>151</td>
 </tr>
 <tr>
-<td>5</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -710,8 +715,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>151</td>
 </tr>
 <tr>
-<td>5</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -719,9 +724,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>151</td>
 </tr>
 <tr>
-<td>5</td>
-<td>09</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td>Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
@@ -737,7 +742,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>80159</td>
 </tr>
 <tr>
-<td>6</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -746,8 +751,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>67239</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -755,17 +760,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>10078</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
 <td>10078</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td></td>
 <td></td>
@@ -773,61 +778,61 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>57161</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td>Программа занятости</td>
 <td>18202</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Государственная адресная социальная помощь</td>
 <td>6870</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
 <td>27069</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>010</td>
 <td></td>
 <td>Материальное обеспечение детей-инвалидов, воспитывающихся и обучающихся на дому</td>
 <td>401</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>016</td>
 <td></td>
 <td>Государственные пособия на детей до 18 лет</td>
 <td>2315</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>017</td>
 <td></td>
 <td>Обеспечение нуждающихся инвалидов обязательными гигиеническими средствами и предоставление услуг специалистами жестового языка, индивидуальными помощниками в соответствии с индивидуальной программой реабилитации инвалида</td>
 <td>2304</td>
 </tr>
 <tr>
-<td>6</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -836,8 +841,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>12920</td>
 </tr>
 <tr>
-<td>6</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td></td>
 <td></td>
@@ -845,18 +850,18 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>12920</td>
 </tr>
 <tr>
-<td>6</td>
-<td>09</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела занятости и социальных программ</td>
 <td>12402</td>
 </tr>
 <tr>
-<td>6</td>
-<td>09</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td></td>
 <td>Оплата услуг по зачислению, выплате и доставке пособий и других социальных выплат</td>
@@ -872,7 +877,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>59294</td>
 </tr>
 <tr>
-<td>7</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -881,8 +886,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>2887</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -890,25 +895,25 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>2887</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Организация сохранения государственного жилищного фонда</td>
 <td>1400</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Снос аварийного и ветхого жилья</td>
 <td>1487</td>
 </tr>
 <tr>
-<td>7</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -917,8 +922,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>30365</td>
 </tr>
 <tr>
-<td>7</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -935,8 +940,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>16884</td>
 </tr>
 <tr>
-<td>7</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -944,9 +949,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>13481</td>
 </tr>
 <tr>
-<td>7</td>
-<td>02</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>012</td>
 <td></td>
 <td>Функционирование системы водоснабжения и водоотведения</td>
@@ -962,7 +967,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>9156</td>
 </tr>
 <tr>
-<td>7</td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -971,8 +976,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>26042</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -980,44 +985,44 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>12592</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>008</td>
 <td></td>
 <td>Освещение улиц населенных пунктов</td>
 <td>5552</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>009</td>
 <td></td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>1807</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>010</td>
 <td></td>
 <td>Содержание мест захоронений и погребение безродных</td>
 <td>259</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
 <td>4974</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1025,17 +1030,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>1650</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>015</td>
 <td></td>
 <td>Освещение улиц в населенных пунктах</td>
 <td>1650</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -1043,9 +1048,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>11800</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Развитие благоустройства городов и населенных пунктов</td>
@@ -1061,7 +1066,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>82875</td>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1070,8 +1075,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>49712</td>
 </tr>
 <tr>
-<td>8</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -1079,17 +1084,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>749</td>
 </tr>
 <tr>
-<td>8</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
 <td>749</td>
 </tr>
 <tr>
-<td>8</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -1097,16 +1102,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>48963</td>
 </tr>
 <tr>
-<td>8</td>
-<td>01</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Поддержка культурно-досуговой работы</td>
 <td>48963</td>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -1115,8 +1120,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>3169</td>
 </tr>
 <tr>
-<td>8</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>465</td>
 <td></td>
 <td></td>
@@ -1124,25 +1129,25 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>3169</td>
 </tr>
 <tr>
-<td>8</td>
-<td>02</td>
-<td>465</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>Проведение спортивных соревнований на районном (города областного значения) уровне</td>
 <td>2770</td>
 </tr>
 <tr>
-<td>8</td>
-<td>02</td>
-<td>465</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Подготовка и участие членов сборных команд района (города областного значения) по различным видам спорта на областных спортивных соревнованиях</td>
 <td>399</td>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -1151,8 +1156,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>18803</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -1160,26 +1165,26 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>13501</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>Функционирование районных (городских) библиотек</td>
 <td>12409</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Развитие государственного языка и других языков народа Казахстана</td>
 <td>1092</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -1187,16 +1192,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>5302</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td>Проведение государственной информационной политики через средства массовой информации</td>
 <td>5302</td>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -1205,8 +1210,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>11191</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -1214,17 +1219,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>4026</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела культуры и развития языков</td>
 <td>4026</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -1232,36 +1237,36 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>3760</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела внутренней политики</td>
 <td>2649</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Реализация региональных программ в сфере молодежной политики</td>
 <td>1111</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>465</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Отдел физической культуры и спорта района (города областного значения)</td>
 <td>3405</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>465</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела физической культуры и спорта</td>
@@ -1277,7 +1282,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>121764</td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1304,8 +1309,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>4946</td>
 </tr>
 <tr>
-<td>10</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>462</td>
 <td></td>
 <td></td>
@@ -1313,16 +1318,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>6308</td>
 </tr>
 <tr>
-<td>10</td>
-<td>01</td>
-<td>462</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела сельского хозяйства</td>
 <td>6308</td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -1331,8 +1336,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>84638</td>
 </tr>
 <tr>
-<td>10</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -1340,16 +1345,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>84638</td>
 </tr>
 <tr>
-<td>10</td>
-<td>02</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>012</td>
 <td></td>
 <td>Развитие системы водоснабжения</td>
 <td>84638</td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -1358,8 +1363,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>7672</td>
 </tr>
 <tr>
-<td>10</td>
-<td>06</td>
+<td></td>
+<td></td>
 <td>463</td>
 <td></td>
 <td></td>
@@ -1367,18 +1372,18 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>7672</td>
 </tr>
 <tr>
-<td>10</td>
-<td>06</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела земельных отношений</td>
 <td>5465</td>
 </tr>
 <tr>
-<td>10</td>
-<td>06</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td>Организация работ по зонированию земель</td>
@@ -1421,7 +1426,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>7989</td>
 </tr>
 <tr>
-<td>11</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -1430,8 +1435,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>7989</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -1439,17 +1444,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>5795</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела строительства</td>
 <td>5795</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>468</td>
 <td></td>
 <td></td>
@@ -1457,9 +1462,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>2194</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
-<td>468</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела архитектуры и градостроительства</td>
@@ -1475,7 +1480,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>67755</td>
 </tr>
 <tr>
-<td>12</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1484,8 +1489,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>25855</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -1493,17 +1498,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>5002</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>013</td>
 <td></td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, аулах (селах), аульных (сельских) округах</td>
 <td>5002</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1511,16 +1516,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>20853</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>023</td>
 <td></td>
 <td>Обеспечение функционирования автомобильных дорог</td>
 <td>20853</td>
 </tr>
 <tr>
-<td>12</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -1529,8 +1534,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>41900</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -1547,8 +1552,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>7699</td>
 </tr>
 <tr>
-<td>12</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1574,7 +1579,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>12367</td>
 </tr>
 <tr>
-<td>13</td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -1583,8 +1588,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>4359</td>
 </tr>
 <tr>
-<td>13</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>469</td>
 <td></td>
 <td></td>
@@ -1592,25 +1597,25 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>4359</td>
 </tr>
 <tr>
-<td>13</td>
-<td>03</td>
-<td>469</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела предпринимательства</td>
 <td>4096</td>
 </tr>
 <tr>
-<td>13</td>
-<td>03</td>
-<td>469</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Поддержка предпринимательской деятельности</td>
 <td>263</td>
 </tr>
 <tr>
-<td>13</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -1637,8 +1642,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>13</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1646,9 +1651,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>8008</td>
 </tr>
 <tr>
-<td>13</td>
-<td>09</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Обеспечение деятельности отдела жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог</td>
@@ -1664,7 +1669,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>804</td>
 </tr>
 <tr>
-<td>15</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1673,8 +1678,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>804</td>
 </tr>
 <tr>
-<td>15</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td></td>
@@ -1682,8 +1687,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>804</td>
 </tr>
 <tr>
-<td>15</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td></td>
 <td>006</td>
 <td></td>
@@ -1756,9 +1761,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 </table>
 
 > *Приложение 2*  
-> *к решению Успенского районного маслихата*  
-> *(XII сессия IV созыв)*  
-> *от 26 декабря 2008 года N 58/12*
+> *к решению Успенского районного*  
+> *маслихата (XII сессия IV созыв)*  
+> *от 26 декабря 2008 года № 58/12*
 
 ## Перечень бюджетных программ развития района на 2009 год
 
@@ -1856,9 +1861,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 </table>
 
 > *Приложение 3*  
-> *к решению Успенского районного маслихата*  
-> *(XII сессия IV созыв)*  
-> *от 26 декабря 2008 года N 58/12*
+> *к решению Успенского районного*  
+> *маслихата (XII сессия IV созыв)*  
+> *от 26 декабря 2008 года № 58/12*
 
 ## Перечень бюджетных программ не подлежащих секвестру в процессе исполнения бюджета района на 2009 год
 
@@ -1945,8 +1950,3 @@ source: https://zan.gov.kz/client/#!/doc/43414/rus/25.12.2009
 <td>Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
 </tr>
 </table>
-
-> *Приложение 4*  
-> *к решению Успенского районного маслихата*  
-> *(XII сессия IV созыв)*  
-> *от 26 декабря 2008 года N 58/12*

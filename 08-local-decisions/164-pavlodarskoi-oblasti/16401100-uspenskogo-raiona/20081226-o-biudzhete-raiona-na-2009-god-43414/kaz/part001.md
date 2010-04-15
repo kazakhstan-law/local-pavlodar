@@ -1,11 +1,17 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
+source: https://zan.gov.kz/client/#!/doc/43414/kaz/15.04.2010
 ---
+
+> *Успен аудандық мәслихатының*  
+> *2008 жылғы 26 желтоқсандағы*  
+> *(IV сайланған кезекті ХII сессия)*  
+> *№ 58/12 шешіміне*  
+> *1 қосымша*
 
 ## 2009 жылға арналған аудан бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Павлодар облысы Успен аудандық мәслихатының 2009.12.25 N 107/19 (2009.01.01 бастап қолданысқа енеді) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Павлодар облысы Успен аудандық мәслихатының 2009.12.25 № 107/19 (2009.01.01 бастап қолданысқа енеді) шешімімен.*
 
 <table>
 <tr>
@@ -331,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>113666</td>
 </tr>
 <tr>
-<td>1</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -340,8 +346,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>100141</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>112</td>
 <td></td>
 <td></td>
@@ -349,17 +355,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>6640</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>112</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) мәслихатының қызметін қамтамасыз ету</td>
 <td>6640</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -367,26 +373,26 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>30570</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>122</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің қызметін қамтамасыз ету</td>
 <td>29501</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>122</td>
+<td></td>
+<td></td>
+<td></td>
 <td>115</td>
 <td></td>
 <td>Жергілікті атқарушы органы резервінің қаражаты есебінен соттардың шешімдері бойынша жергілікті атқарушы органдардың міндеттемелерін орындау</td>
 <td>1069</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -394,18 +400,18 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>62931</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Қаладағы ауданның, аудандық маңызы бар қаланың, кенттің, ауылдың (селоның), ауылдық (селолық) округтің әкімі аппаратының қызметін қамтамасыз ету</td>
 <td>62517</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>115</td>
 <td></td>
 <td>Жергілікті атқарушы органы резервінің қаражаты есебінен соттардың шешімдері бойынша жергілікті атқарушы органдардың міндеттемелерін орындау</td>
@@ -448,7 +454,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>111</td>
 </tr>
 <tr>
-<td>1</td>
+<td></td>
 <td>05</td>
 <td></td>
 <td></td>
@@ -468,7 +474,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <tr>
 <td></td>
 <td></td>
-<td>453</td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Экономика және бюджеттік жоспарлау басқармасының қызметін қамтамасыз ету</td>
@@ -484,7 +490,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>3365</td>
 </tr>
 <tr>
-<td>2</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -493,8 +499,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>3355</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -502,16 +508,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>3355</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
-<td>122</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Жалпыға бірдей әскери міндетті атқару шеңберіндегі іс-шаралар</td>
 <td>3355</td>
 </tr>
 <tr>
-<td>2</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -520,8 +526,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>10</td>
 </tr>
 <tr>
-<td>2</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -529,9 +535,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>10</td>
 </tr>
 <tr>
-<td>2</td>
-<td>02</td>
-<td>122</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Аудандық (қалалық) ауқымдағы дала өрттерінің, сондай-ақ мемлекеттік өртке қарсы қызмет органдары құрылмаған елдi мекендерде өрттердің алдын алу және оларды сөндіру жөніндегі іс-шаралар</td>
@@ -547,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>684933</td>
 </tr>
 <tr>
-<td>4</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -556,8 +562,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>40226</td>
 </tr>
 <tr>
-<td>4</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -565,16 +571,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>40226</td>
 </tr>
 <tr>
-<td>4</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
 <td>40226</td>
 </tr>
 <tr>
-<td>4</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -583,8 +589,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>603708</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -592,17 +598,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>3152</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
 <td>3152</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>464</td>
 <td></td>
 <td></td>
@@ -610,18 +616,18 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>600556</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Жалпы білім беру</td>
 <td>570548</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>Балалар үшін қосымша білім беру</td>
@@ -637,7 +643,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>6508</td>
 </tr>
 <tr>
-<td>4</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -646,8 +652,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>40999</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>464</td>
 <td></td>
 <td></td>
@@ -655,45 +661,45 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>40999</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Білім беру бөлімінің қызметін қамтамасыз ету</td>
 <td>7861</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Ауданның (областык маңызы бар қаланың) мемлекеттік білім беру мекемелер үшін оқулықтар мен оқу-әдiстемелiк кешендерді сатып алу және жеткізу</td>
 <td>5472</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Аудандық (қалалалық) ауқымдағы мектеп олимпиадаларын және мектептен тыс іс-шараларды өткiзу</td>
 <td>49</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td></td>
 <td>Өңірлік жұмыспен қамту және кадрларды қайта даярлау стратегиясын іске асыру шеңберінде білім беру объектілерін күрделі, ағымды жөндеу</td>
 <td>27600</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>115</td>
 <td></td>
 <td>Жергілікті атқарушы органы резервінің қаражаты есебінен соттардың шешімдері бойынша жергілікті атқарушы органдардың міндеттемелерін орындау</td>
@@ -709,7 +715,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>151</td>
 </tr>
 <tr>
-<td>5</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -718,8 +724,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>151</td>
 </tr>
 <tr>
-<td>5</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -727,9 +733,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>151</td>
 </tr>
 <tr>
-<td>5</td>
-<td>09</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td>Ерекше жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына жеткізуді ұйымдастыру</td>
@@ -745,7 +751,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>80159</td>
 </tr>
 <tr>
-<td>6</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -754,8 +760,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>67239</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -763,17 +769,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>10078</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
 <td>10078</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td></td>
 <td></td>
@@ -781,61 +787,61 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>57161</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td>Еңбекпен қамту бағдарламасы</td>
 <td>18202</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Мемлекеттік атаулы әлеуметтік көмек</td>
 <td>6870</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Жергілікті өкілетті органдардың шешімі бойынша мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек</td>
 <td>27069</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>010</td>
 <td></td>
 <td>Үйден тәрбиеленіп оқытылатын мүгедек балаларды материалдық қамтамасыз ету</td>
 <td>401</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>016</td>
 <td></td>
 <td>18 жасқа дейіні балаларға мемлекеттік жәрдемақылар</td>
 <td>2315</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>017</td>
 <td></td>
 <td>Мүгедектерді оңалту жеке бағдарламасына сәйкес, мұқтаж мүгедектерді міндетті гигиеналық құралдармен қамтамасыз етуге, және ымдау тілі мамандарының, жеке көмекшілердің қызмет көрсету</td>
 <td>2304</td>
 </tr>
 <tr>
-<td>6</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -844,8 +850,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>12920</td>
 </tr>
 <tr>
-<td>6</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td></td>
 <td></td>
@@ -853,18 +859,18 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>12920</td>
 </tr>
 <tr>
-<td>6</td>
-<td>09</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Жұмыспен қамту және әлеуметтік бағдарламалар бөлімінің қызметін қамтамасыз ету</td>
 <td>12402</td>
 </tr>
 <tr>
-<td>6</td>
-<td>09</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td></td>
 <td>Жәрдемақыларды және басқа да әлеуметтік төлемдерді есептеу, төлеу мен жеткізу бойынша қызметтерге ақы төлеу</td>
@@ -880,7 +886,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>59294</td>
 </tr>
 <tr>
-<td>7</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -889,8 +895,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>2887</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -898,25 +904,25 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>2887</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Мемлекеттік тұрғын үй қорының сақтаулуын үйымдастыру</td>
 <td>1400</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td>Авариялық және ескі тұрғын үйлерді бұзу</td>
 <td>1487</td>
 </tr>
 <tr>
-<td>7</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -925,8 +931,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>30365</td>
 </tr>
 <tr>
-<td>7</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -943,8 +949,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>16884</td>
 </tr>
 <tr>
-<td>7</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -952,9 +958,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>13481</td>
 </tr>
 <tr>
-<td>7</td>
-<td>02</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>012</td>
 <td></td>
 <td>Сумен жабдықтау және су бөлу жүйесінің қызмет етуі</td>
@@ -970,7 +976,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>9156</td>
 </tr>
 <tr>
-<td>7</td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -979,8 +985,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>26042</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -988,44 +994,44 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>12592</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>008</td>
 <td></td>
 <td>Елді мекендерде көшелерді жарықтандыру</td>
 <td>5552</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>009</td>
 <td></td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
 <td>1807</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>010</td>
 <td></td>
 <td>Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу</td>
 <td>259</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td></td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td>4974</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1033,17 +1039,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>1650</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>015</td>
 <td></td>
 <td>Елдi мекендердегі көшелердi жарықтандыру</td>
 <td>1650</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -1051,9 +1057,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>11800</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Қаланы және елді мекендерді көркейтуді дамыту</td>
@@ -1069,7 +1075,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>82875</td>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1078,8 +1084,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>49712</td>
 </tr>
 <tr>
-<td>8</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -1087,17 +1093,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>749</td>
 </tr>
 <tr>
-<td>8</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
 <td>749</td>
 </tr>
 <tr>
-<td>8</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -1105,16 +1111,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>48963</td>
 </tr>
 <tr>
-<td>8</td>
-<td>01</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Мәдени-демалыс жұмысын қолдау</td>
 <td>48963</td>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -1123,8 +1129,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>3169</td>
 </tr>
 <tr>
-<td>8</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>465</td>
 <td></td>
 <td></td>
@@ -1132,25 +1138,25 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>3169</td>
 </tr>
 <tr>
-<td>8</td>
-<td>02</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>Аудандық (облыстық маңызы бар қалалық) деңгейде спорттық жарыстар өткiзу</td>
 <td>2770</td>
 </tr>
 <tr>
-<td>8</td>
-<td>02</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Әртүрлi спорт түрлерi бойынша аудан (облыстық маңызы бар қала) құрама командаларының мүшелерiн дайындау және олардың облыстық спорт жарыстарына қатысуы</td>
 <td>399</td>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -1159,8 +1165,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>18803</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -1168,26 +1174,26 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>13501</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td>Аудандық (қалалық) кiтапханалардың жұмыс iстеуi</td>
 <td>12409</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td>Мемлекеттік тілді және Қазақстан халықтарының басқа да тілді дамыту</td>
 <td>1092</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -1195,16 +1201,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>5302</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td>Бұқаралық ақпарат құралдары арқылы мемлекеттiк ақпарат саясатын жүргізу</td>
 <td>5302</td>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -1213,8 +1219,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>11191</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -1222,17 +1228,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>4026</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Мәдениет және тілдерді дамыту бөлімінің қызметін қамтамасыз ету</td>
 <td>4026</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -1240,26 +1246,26 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>3760</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Ішкі саясат бөлімінің қызметін қамтамасыз ету</td>
 <td>2649</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Жастар саясаты саласындағы өңірлік бағдарламаларды iске асыру</td>
 <td>1111</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>465</td>
 <td></td>
 <td></td>
@@ -1267,9 +1273,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>3405</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>465</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Дене шынықтыру және спорт бөлімі қызметін қамтамасыз ету</td>
@@ -1285,8 +1291,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>121764</td>
 </tr>
 <tr>
-<td>10</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1312,8 +1318,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>4946</td>
 </tr>
 <tr>
-<td>10</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>462</td>
 <td></td>
 <td></td>
@@ -1321,16 +1327,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>6308</td>
 </tr>
 <tr>
-<td>10</td>
-<td>01</td>
-<td>462</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Ауыл шаруашылығы бөлімінің қызметін қамтамасыз ету</td>
 <td>6308</td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -1339,8 +1345,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>84638</td>
 </tr>
 <tr>
-<td>10</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -1348,16 +1354,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>84638</td>
 </tr>
 <tr>
-<td>10</td>
-<td>02</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>012</td>
 <td></td>
 <td>Сумен жабдықтау жүйесін дамыту</td>
 <td>84638</td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -1366,8 +1372,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>7672</td>
 </tr>
 <tr>
-<td>10</td>
-<td>06</td>
+<td></td>
+<td></td>
 <td>463</td>
 <td></td>
 <td></td>
@@ -1375,18 +1381,18 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>7672</td>
 </tr>
 <tr>
-<td>10</td>
-<td>06</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Жер қатынастары бөлімінің қызметін қамтамасыз ету</td>
 <td>5465</td>
 </tr>
 <tr>
-<td>10</td>
-<td>06</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td>Жердi аймақтарға бөлу жөнiндегi жұмыстарды ұйымдастыру</td>
@@ -1429,7 +1435,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>7989</td>
 </tr>
 <tr>
-<td>11</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
@@ -1438,8 +1444,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>7989</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -1447,17 +1453,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>5795</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Құрылыс бөлімінің қызметін қамтамасыз ету</td>
 <td>5795</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>468</td>
 <td></td>
 <td></td>
@@ -1465,9 +1471,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>2194</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
-<td>468</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Қала құрылысы және сәулет бөлімінің қызметін қамтамасыз ету</td>
@@ -1483,7 +1489,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>67755</td>
 </tr>
 <tr>
-<td>12</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1492,8 +1498,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>25855</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -1501,17 +1507,17 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>5002</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>013</td>
 <td></td>
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда (селоларда), ауылдық (селолық) округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>5002</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1519,16 +1525,16 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>20853</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>023</td>
 <td></td>
 <td>Автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>20853</td>
 </tr>
 <tr>
-<td>12</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -1537,8 +1543,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>41900</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -1555,8 +1561,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>7699</td>
 </tr>
 <tr>
-<td>12</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1582,7 +1588,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>12367</td>
 </tr>
 <tr>
-<td>13</td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -1591,8 +1597,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>4359</td>
 </tr>
 <tr>
-<td>13</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>469</td>
 <td></td>
 <td></td>
@@ -1600,25 +1606,25 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>4359</td>
 </tr>
 <tr>
-<td>13</td>
-<td>03</td>
-<td>469</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Кәсіпкерлік бөлімі қызметін қамтамасыз ету</td>
 <td>4096</td>
 </tr>
 <tr>
-<td>13</td>
-<td>03</td>
-<td>469</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td>Кәсіпкерлік қызметті қолдау</td>
 <td>263</td>
 </tr>
 <tr>
-<td>13</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -1645,8 +1651,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>0</td>
 </tr>
 <tr>
-<td>13</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1654,9 +1660,9 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>8008</td>
 </tr>
 <tr>
-<td>13</td>
-<td>09</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімінің қызметін қамтамасыз ету</td>
@@ -1672,7 +1678,7 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>804</td>
 </tr>
 <tr>
-<td>15</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -1681,8 +1687,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>804</td>
 </tr>
 <tr>
-<td>15</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td></td>
@@ -1690,8 +1696,8 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>804</td>
 </tr>
 <tr>
-<td>15</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td></td>
 <td>006</td>
 <td></td>
@@ -1763,9 +1769,10 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 </tr>
 </table>
 
-> *Успен аудандық мәслихатының 2008 жылғы 26*  
-> *желтоқсандағы (IV сайланған кезекті ХII сессия)*  
-> *N 58/12 шешіміне*  
+> *Успен аудандық мәслихатының*  
+> *2008 жылғы 26 желтоқсандағы*  
+> *(IV сайланған кезекті ХII сессия)*  
+> *№ 58/12 шешіміне*  
 > *2 қосымша*
 
 ## 2009 жылға арналған аудан бюджетінің даму бағдарламаларының тізбесі
@@ -1854,9 +1861,10 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 </tr>
 </table>
 
-> *Успен аудандық мәслихатының 2008 жылғы 26*  
-> *желтоқсандағы (IV сайланған кезекті ХII сессия)*  
-> *N 58/12 шешіміне*  
+> *Успен аудандық мәслихатының*  
+> *2008 жылғы 26 желтоқсандағы*  
+> *(IV сайланған кезекті ХII сессия)*  
+> *№ 58/12 шешіміне*  
 > *3 қосымша*
 
 ## 2009 жылға арналған бюджетті орындау барысында секвестрлеуге жатпайтын аудандық бюджеттік бағдарламар тізбесі
@@ -1944,8 +1952,3 @@ source: https://zan.gov.kz/client/#!/doc/43414/kaz/25.12.2009
 <td>Ерекше жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына жеткізуді ұйымдастыру</td>
 </tr>
 </table>
-
-> *Успен аудандық мәслихатының 2008 жылғы 26*  
-> *желтоқсандағы (IV сайланған кезекті ХII сессия)*  
-> *N 58/12 шешіміне*  
-> *4 қосымша*
