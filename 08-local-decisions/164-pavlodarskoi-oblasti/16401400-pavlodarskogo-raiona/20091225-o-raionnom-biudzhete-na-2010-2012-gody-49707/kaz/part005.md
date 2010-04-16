@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
+source: https://zan.gov.kz/client/#!/doc/49707/kaz/16.04.2010
 ---
 
 ## 2010 жылға арналған ауылдық округтердiң қимасындағы ағымдағы бюджеттiк бағдарламалардың тiзбесi
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Павлодар облысы Павлодар аудандық мәслихатының 2010.02.08 N 17/154 (2010.01.01 бастап қолданысқа енеді) шешімімен.*
+> *Ескерту. 5-қосымша жаңа редакцияда - Павлодар облысы Павлодар аудандық мәслихатының 2010.04.16 N 18/160 (2010.01.01 бастап қолданысқа енеді) шешімімен.*
 
 <table>
 <tr>
@@ -37,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Пресное ауылы әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -45,7 +45,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -72,7 +72,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -80,7 +80,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -100,7 +100,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -108,7 +108,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -149,7 +149,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -157,7 +157,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -185,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -208,7 +208,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Григорьевка ауылдық округi әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -216,7 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -243,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -251,7 +251,28 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мектепке дейінгі тәрбие және оқыту</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкiмiнiң аппараты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>004</td>
+<td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -271,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейiн тегiн алып баруды және керi алып келудi ұйымдастыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -279,7 +300,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -299,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -307,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
@@ -328,7 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -369,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -377,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -405,7 +426,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -428,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Ефремовка ауылдық округi әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -436,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -463,7 +484,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -471,7 +492,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -491,7 +512,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейiн тегiн алып баруды және керi алып келудi ұйымдастыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -499,7 +520,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -519,7 +540,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -527,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -568,7 +589,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -576,7 +597,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -604,7 +625,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -627,7 +648,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Жетекшi ауылы әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -635,7 +656,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -662,7 +683,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -670,7 +691,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
@@ -691,7 +712,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -732,7 +753,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -740,7 +761,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -768,7 +789,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -791,7 +812,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Заңғар ауылдық округі әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -799,7 +820,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -826,7 +847,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -834,7 +855,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -854,7 +875,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейiн тегiн алып баруды және керi алып келудi ұйымдастыру</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -862,7 +883,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
@@ -883,7 +904,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -925,7 +946,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -945,31 +966,10 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда (селоларда), ауылдық (селолық) округтерде автомобиль жолдарының жұмыс iстеуiн қамтамасыз ету</td>
 </tr>
 <tr>
-<td></td>
-<td>09</td>
-<td></td>
-<td></td>
-<td>Көлiк және коммуникациялар саласындағы өзге де қызметтер</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>020</td>
-<td>Өңірлік жұмыспен қамту және кадрларды қайта даярлау стратегиясын іске асыру шеңберінде елді-мекендер көшелерін жөндеу және ұстау</td>
-</tr>
-<tr>
 <th colspan="5">Заря ауылдық округi әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -977,7 +977,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -1004,7 +1004,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1012,7 +1012,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -1032,7 +1032,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейiн тегiн алып баруды және керi алып келудi ұйымдастыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1040,7 +1040,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -1060,7 +1060,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1068,7 +1068,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
@@ -1089,7 +1089,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -1130,7 +1130,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1138,7 +1138,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -1166,7 +1166,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -1189,7 +1189,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Кеңес ауылдық округi әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1197,7 +1197,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -1224,7 +1224,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1232,7 +1232,28 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мектепке дейінгі тәрбие және оқыту</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкiмiнiң аппараты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>004</td>
+<td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -1252,7 +1273,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейiн тегiн алып баруды және керi алып келудi ұйымдастыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1260,7 +1281,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -1280,7 +1301,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1288,7 +1309,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -1329,7 +1350,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1337,7 +1358,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -1365,7 +1386,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -1388,7 +1409,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Красноармейка ауылдық округi әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1396,7 +1417,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -1423,7 +1444,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1431,7 +1452,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мектепке дейінгі тәрбие және оқыту</td>
@@ -1452,7 +1473,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -1472,7 +1493,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейiн тегiн алып баруды және керi алып келудi ұйымдастыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1480,7 +1501,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -1500,7 +1521,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1508,7 +1529,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
@@ -1529,7 +1550,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -1570,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1578,7 +1599,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -1606,7 +1627,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -1629,7 +1650,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Луганск ауылдық округi әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1637,7 +1658,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -1664,7 +1685,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1672,7 +1693,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -1692,7 +1713,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейiн тегiн алып баруды және керi алып келудi ұйымдастыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1700,7 +1721,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -1720,7 +1741,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1728,7 +1749,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -1769,7 +1790,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1777,7 +1798,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -1800,7 +1821,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Мичурин ауылдық округi әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1808,7 +1829,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -1835,7 +1856,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1843,7 +1864,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -1863,7 +1884,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейiн тегiн алып баруды және керi алып келудi ұйымдастыру</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1871,7 +1892,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -1912,7 +1933,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1920,7 +1941,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -1948,7 +1969,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -1971,7 +1992,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Маралды ауылдық округi әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1979,7 +2000,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -2006,7 +2027,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2014,7 +2035,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -2034,7 +2055,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейiн тегiн алып баруды және керi алып келудi ұйымдастыру</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2042,7 +2063,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -2083,7 +2104,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2091,7 +2112,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -2119,7 +2140,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -2142,7 +2163,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Ольгинка ауылы әкімнің аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2150,7 +2171,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -2177,7 +2198,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2185,7 +2206,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
@@ -2205,7 +2226,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2213,7 +2234,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -2233,7 +2254,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2241,7 +2262,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елдi-мекендердi көркейту</td>
@@ -2282,7 +2303,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2290,7 +2311,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -2318,7 +2339,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -2341,7 +2362,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Рождественка ауылдық округi әкiмiнiң аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2349,7 +2370,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -2376,7 +2397,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2384,7 +2405,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
@@ -2405,7 +2426,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -2425,7 +2446,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейiн тегiн алып баруды және керi алып келудi ұйымдастыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2433,7 +2454,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -2453,7 +2474,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2461,7 +2482,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
@@ -2482,7 +2503,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елді мекендерді көркейту</td>
@@ -2523,7 +2544,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2531,7 +2552,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -2559,7 +2580,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -2582,7 +2603,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Чернорецк ауылдық округі әкімінің аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2590,7 +2611,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -2617,7 +2638,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2625,7 +2646,28 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мектепке дейiнгi тәрбие және оқыту</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>004</td>
+<td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -2645,7 +2687,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2653,7 +2695,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -2673,7 +2715,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2681,7 +2723,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елді мекендерді көркейту</td>
@@ -2722,7 +2764,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2730,7 +2772,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -2758,7 +2800,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -2781,7 +2823,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Черноярка ауылдық округi әкімінің аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2789,7 +2831,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -2816,7 +2858,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2824,7 +2866,28 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мектепке дейiнгi тәрбие және оқыту</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>004</td>
+<td>Мектепке дейінгі тәрбие ұйымдарын қолдау</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -2844,7 +2907,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2852,7 +2915,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -2872,7 +2935,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2880,7 +2943,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елді мекендерді көркейту</td>
@@ -2921,7 +2984,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2929,7 +2992,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -2957,7 +3020,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
@@ -2980,7 +3043,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <th colspan="5">Шақат ауылдық округi әкімінің аппараты</th>
 </tr>
 <tr>
-<td>1</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2988,7 +3051,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
@@ -3015,7 +3078,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
 </tr>
 <tr>
-<td>4</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3023,7 +3086,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
@@ -3043,7 +3106,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Ауылдық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
 </tr>
 <tr>
-<td>6</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3051,7 +3114,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
@@ -3071,7 +3134,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Мұқтаж азаматтарға үйiнде әлеуметтiк көмек көрсету</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3079,7 +3142,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елді мекендерді көркейту</td>
@@ -3120,7 +3183,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
-<td>8</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3128,7 +3191,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
@@ -3156,7 +3219,7 @@ source: https://zan.gov.kz/client/#!/doc/49707/kaz/08.02.2010
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
