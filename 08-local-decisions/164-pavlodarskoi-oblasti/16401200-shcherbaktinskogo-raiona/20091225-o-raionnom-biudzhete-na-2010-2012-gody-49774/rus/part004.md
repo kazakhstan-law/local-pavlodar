@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49774/rus/16.04.2010
+source: https://zan.gov.kz/client/#!/doc/49774/rus/15.06.2010
 ---
 
 ## Перечень бюджетных программ, не подлежащих секвестру в процессе исполнения бюджета на 2010 год
