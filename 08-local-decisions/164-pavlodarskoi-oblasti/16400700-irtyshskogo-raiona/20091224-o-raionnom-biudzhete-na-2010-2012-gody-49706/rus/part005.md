@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49706/rus/21.04.2010
+source: https://zan.gov.kz/client/#!/doc/49706/rus/16.06.2010
 ---
 
 ## Бюджет Иртышского района на 2012 год
