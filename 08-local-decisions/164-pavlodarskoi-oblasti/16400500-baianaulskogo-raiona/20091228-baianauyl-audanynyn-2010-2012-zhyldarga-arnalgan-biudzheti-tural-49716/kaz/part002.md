@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49716/kaz/16.06.2010
+source: https://zan.gov.kz/client/#!/doc/49716/kaz/06.09.2010
 ---
 
 ## Баянауыл ауданының 2011 жылға арналған бюджеті
