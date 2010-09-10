@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49705/kaz/12.08.2010
+source: https://zan.gov.kz/client/#!/doc/49705/kaz/10.09.2010
 ---
 
 ## Березовка ауылының (селоның) 2010 жылға арналған аудандық бюджеттік бағдарламалар тізбесі
