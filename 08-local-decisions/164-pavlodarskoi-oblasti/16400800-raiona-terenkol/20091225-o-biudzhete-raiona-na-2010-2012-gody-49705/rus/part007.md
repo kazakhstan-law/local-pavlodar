@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
+source: https://zan.gov.kz/client/#!/doc/49705/rus/11.11.2010
 ---
 
 ## Перечень бюджетных программ Березовского аульного (сельского) поселкового бюджета на 2010 год
@@ -22,14 +22,8 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td>Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -79,34 +73,6 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td>023</td>
 <td>Материально-техническое оснащение государственных органов</td>
-</tr>
-<tr>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Здравоохранение</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>Прочие услуги в области здравоохранения</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>002</td>
-<td>Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
 </tr>
 <tr>
 <td>06</td>
@@ -227,14 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -390,14 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -541,7 +493,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 </tr>
 </table>
 
-## Перечень бюджетных программ Октябрьского аульного (сельского) поселкового бюджета на 2010 год
+## Перечень бюджетных программ Октябрьского аульного (сельского) поселкового бюджета на 2009 год
 
 <table>
 <tr>
@@ -560,14 +512,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -758,14 +703,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -921,14 +859,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -1112,14 +1043,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -1303,14 +1227,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -1466,14 +1383,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -1657,14 +1567,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -1855,14 +1758,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -2018,14 +1914,7 @@ source: https://zan.gov.kz/client/#!/doc/49705/rus/10.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <th>1</th>
