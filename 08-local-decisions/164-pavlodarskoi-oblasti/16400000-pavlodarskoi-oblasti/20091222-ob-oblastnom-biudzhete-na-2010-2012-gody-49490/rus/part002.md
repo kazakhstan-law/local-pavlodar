@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49490/rus/26.10.2010
+source: https://zan.gov.kz/client/#!/doc/49490/rus/23.11.2010
 ---
 
 ## Областной бюджет на 2011 год
