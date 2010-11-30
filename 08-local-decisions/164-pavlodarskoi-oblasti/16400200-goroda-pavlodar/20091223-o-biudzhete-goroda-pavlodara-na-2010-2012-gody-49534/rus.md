@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49534/rus/09.11.2010
+source: https://zan.gov.kz/client/#!/doc/49534/rus/30.11.2010
 ---
 
 # О бюджете города Павлодара на 2010 - 2012 годы
