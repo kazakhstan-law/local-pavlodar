@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49589/kaz/03.12.2010
+source: https://zan.gov.kz/client/#!/doc/49589/kaz/22.12.2010
 ---
 
 ## 2012 жылға арналған Ақсу қаласының бюджеті
