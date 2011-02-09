@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56562/rus/24.12.2010
+source: https://zan.gov.kz/client/#!/doc/56562/rus/09.02.2011
 ---
 
 ## Перечень бюджетных программ по сельским округам района на 2011 год
