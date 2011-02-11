@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56512/kaz/24.12.2010
+source: https://zan.gov.kz/client/#!/doc/56512/kaz/11.02.2011
 ---
 
 ## 2011 жылға арналған аудан бюджетінің селолық аулдық округі бойынша бағдарламаларының тізбесі
