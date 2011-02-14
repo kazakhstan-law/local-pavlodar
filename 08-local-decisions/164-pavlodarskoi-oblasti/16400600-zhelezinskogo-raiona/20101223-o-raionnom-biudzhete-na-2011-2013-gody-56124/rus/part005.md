@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56124/rus/23.12.2010
+source: https://zan.gov.kz/client/#!/doc/56124/rus/14.02.2011
 ---
 
 ## Перечень местных бюджетных программ сельских округов на 2011 год

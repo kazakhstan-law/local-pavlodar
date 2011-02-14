@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56124/kaz/23.12.2010
+source: https://zan.gov.kz/client/#!/doc/56124/kaz/14.02.2011
 ---
 
 ## Селолық округтерінің 2011 жылдағы бюджеттік бағдарламалар тізбесі
