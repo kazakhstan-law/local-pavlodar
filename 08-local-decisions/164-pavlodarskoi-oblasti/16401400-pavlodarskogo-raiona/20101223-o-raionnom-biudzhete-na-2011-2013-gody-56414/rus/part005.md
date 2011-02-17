@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56414/rus/23.12.2010
+source: https://zan.gov.kz/client/#!/doc/56414/rus/17.02.2011
 ---
 
 ## Перечень текущих бюджетных программ в разрезе сельских округов и сел на 2011 год
