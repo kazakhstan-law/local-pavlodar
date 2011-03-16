@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56025/rus/31.01.2011
+source: https://zan.gov.kz/client/#!/doc/56025/rus/16.03.2011
 ---
 
 ## Областной бюджет на 2013 год
@@ -1845,12 +1845,12 @@ source: https://zan.gov.kz/client/#!/doc/56025/rus/31.01.2011
 
 <table>
 <tr>
-<th rowspan="2">№ п/п</th>
-<th rowspan="2">
+<th>№ п/п</th>
+<th>
 Наименование городов
 и районов
 </th>
-<th colspan="3">Сумма, тыс. тенге</th>
+<th>Сумма, тыс. тенге</th>
 </tr>
 <tr>
 <th>2011 год</th>
@@ -1865,7 +1865,7 @@ source: https://zan.gov.kz/client/#!/doc/56025/rus/31.01.2011
 <th>5</th>
 </tr>
 <tr>
-<th colspan="5">Бюджетные субвенции</th>
+<th>Бюджетные субвенции</th>
 </tr>
 <tr>
 <td>1</td>
@@ -1945,7 +1945,7 @@ source: https://zan.gov.kz/client/#!/doc/56025/rus/31.01.2011
 <td>16 122 222</td>
 </tr>
 <tr>
-<th colspan="5">Бюджетные изъятия</th>
+<th>Бюджетные изъятия</th>
 </tr>
 <tr>
 <td>1</td>
