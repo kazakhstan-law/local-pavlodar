@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56218/rus/31.03.2011
+source: https://zan.gov.kz/client/#!/doc/56218/rus/26.04.2011
 ---
 
 ## Бюджет города Павлодара на 2013 год
