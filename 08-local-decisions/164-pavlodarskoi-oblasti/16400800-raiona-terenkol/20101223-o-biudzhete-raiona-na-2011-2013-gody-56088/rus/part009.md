@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56088/rus/30.03.2011
+source: https://zan.gov.kz/client/#!/doc/56088/rus/12.05.2011
 ---
 
 ## Перечень бюджетных программ Ивановского аульного (сельского) поселкового бюджета на 2011 год
