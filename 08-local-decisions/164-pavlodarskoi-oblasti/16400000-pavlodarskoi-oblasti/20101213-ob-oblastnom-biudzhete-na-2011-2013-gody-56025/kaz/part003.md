@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56025/kaz/12.04.2011
+source: https://zan.gov.kz/client/#!/doc/56025/kaz/24.06.2011
 ---
 
 ## 2013 жылға арналған облыстық бюджет
@@ -1837,9 +1837,9 @@ source: https://zan.gov.kz/client/#!/doc/56025/kaz/12.04.2011
 
 <table>
 <tr>
-<th rowspan="2">№ п/п</th>
-<th rowspan="2">Аудандар мен қалалардың атауы</th>
-<th colspan="3">Сома, мың теңге</th>
+<th>№ п/п</th>
+<th>Аудандар мен қалалардың атауы</th>
+<th>Сома, мың теңге</th>
 </tr>
 <tr>
 <th>2011 жыл</th>
@@ -1854,7 +1854,7 @@ source: https://zan.gov.kz/client/#!/doc/56025/kaz/12.04.2011
 <th>5</th>
 </tr>
 <tr>
-<th colspan="5">Бюджеттік субвенциялар</th>
+<th>Бюджеттік субвенциялар</th>
 </tr>
 <tr>
 <td>1</td>
@@ -1934,7 +1934,7 @@ source: https://zan.gov.kz/client/#!/doc/56025/kaz/12.04.2011
 <td>16 122 222</td>
 </tr>
 <tr>
-<th colspan="5">Бюджеттік алымдар</th>
+<th>Бюджеттік алымдар</th>
 </tr>
 <tr>
 <td>1</td>
