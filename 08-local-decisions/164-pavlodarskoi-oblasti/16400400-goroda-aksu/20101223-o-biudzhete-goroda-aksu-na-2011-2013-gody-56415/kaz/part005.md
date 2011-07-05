@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56415/kaz/13.06.2011
+source: https://zan.gov.kz/client/#!/doc/56415/kaz/05.07.2011
 ---
 
 ## М. Омаров селолық округі бойынша 2011 жылға арналған бюджеттік бағдарламалардың тізбесі
