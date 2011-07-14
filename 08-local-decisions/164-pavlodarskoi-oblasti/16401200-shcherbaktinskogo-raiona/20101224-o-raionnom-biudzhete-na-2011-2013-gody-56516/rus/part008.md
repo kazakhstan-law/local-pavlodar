@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56516/rus/05.04.2011
+source: https://zan.gov.kz/client/#!/doc/56516/rus/14.07.2011
 ---
 
 ## Галкинского сельского округа
