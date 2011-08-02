@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/57279/kaz/09.02.2011
+source: https://zan.gov.kz/client/#!/doc/57279/kaz/02.08.2011
 ---
 
 # Павлодар қаласының сайлау учаскелерін құру туралы

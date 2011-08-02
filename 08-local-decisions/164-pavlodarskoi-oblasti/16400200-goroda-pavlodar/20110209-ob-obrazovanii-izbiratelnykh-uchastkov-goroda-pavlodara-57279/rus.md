@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/57279/rus/09.02.2011
+source: https://zan.gov.kz/client/#!/doc/57279/rus/02.08.2011
 ---
 
 # Об образовании избирательных участков города Павлодара
