@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56562/kaz/30.06.2011
+source: https://zan.gov.kz/client/#!/doc/56562/kaz/21.10.2011
 ---
 
 ## 2011 жылға арналған ауданның ауылдық округтері бойынша бюджеттік бағдарламалардың тізбесі
