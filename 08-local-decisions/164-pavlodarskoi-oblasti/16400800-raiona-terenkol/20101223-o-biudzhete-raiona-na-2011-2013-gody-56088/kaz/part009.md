@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56088/kaz/29.09.2011
+source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.10.2011
 ---
 
 ## Ивановка ауылының (селоның) 2011 жылға арналған аудандық бюджеттік бағдарламалар тізбесі
