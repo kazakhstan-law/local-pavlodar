@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
+source: https://zan.gov.kz/client/#!/doc/56512/kaz/14.11.2011
 ---
 
 ## 2011 жылға арналған аудан бюджетінің селолық аулдық округі бойынша бағдарламаларының тізбесі
@@ -201,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -402,7 +402,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -563,7 +563,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -756,7 +756,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -957,7 +957,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1190,7 +1190,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1439,7 +1439,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1640,7 +1640,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1873,7 +1873,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2130,7 +2130,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2331,7 +2331,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2532,7 +2532,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2709,7 +2709,7 @@ source: https://zan.gov.kz/client/#!/doc/56512/kaz/27.10.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td>07</td>
