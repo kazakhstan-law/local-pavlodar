@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56516/kaz/28.10.2011
+source: https://zan.gov.kz/client/#!/doc/56516/kaz/18.11.2011
 ---
 
 ## Галкино ауылдық округі бойынша
