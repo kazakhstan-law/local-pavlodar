@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.10.2011
+source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.11.2011
 ---
 
 ## Ивановка ауылының (селоның) 2011 жылға арналған аудандық бюджеттік бағдарламалар тізбесі
@@ -113,7 +113,7 @@ source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -297,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -828,7 +828,7 @@ source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1012,7 +1012,7 @@ source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1196,7 +1196,7 @@ source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1380,7 +1380,7 @@ source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1564,7 +1564,7 @@ source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1720,7 +1720,7 @@ source: https://zan.gov.kz/client/#!/doc/56088/kaz/21.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
