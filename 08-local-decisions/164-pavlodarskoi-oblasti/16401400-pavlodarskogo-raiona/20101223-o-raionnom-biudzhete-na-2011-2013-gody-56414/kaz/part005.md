@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56414/kaz/17.10.2011
+source: https://zan.gov.kz/client/#!/doc/56414/kaz/23.11.2011
 ---
 
 ## 2011 жылға арналған ауылдық округтердiң қимасындағы ағымдағы бюджеттiк бағдарламалардың тiзбесi
@@ -101,7 +101,7 @@ source: https://zan.gov.kz/client/#!/doc/56414/kaz/17.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
+<td>Елдi мекендердi көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -335,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/56414/kaz/17.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
+<td>Елдi мекендердi көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -527,7 +527,7 @@ source: https://zan.gov.kz/client/#!/doc/56414/kaz/17.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
+<td>Елдi мекендердi көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -834,7 +834,7 @@ source: https://zan.gov.kz/client/#!/doc/56414/kaz/17.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
+<td>Елдi мекендердi көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1019,7 +1019,7 @@ source: https://zan.gov.kz/client/#!/doc/56414/kaz/17.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
+<td>Елдi мекендердi көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1239,7 +1239,7 @@ source: https://zan.gov.kz/client/#!/doc/56414/kaz/17.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
+<td>Елдi мекендердi көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1679,7 +1679,7 @@ source: https://zan.gov.kz/client/#!/doc/56414/kaz/17.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
+<td>Елдi мекендердi көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1850,7 +1850,7 @@ source: https://zan.gov.kz/client/#!/doc/56414/kaz/17.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
+<td>Елдi мекендердi көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -2007,7 +2007,7 @@ source: https://zan.gov.kz/client/#!/doc/56414/kaz/17.10.2011
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
+<td>Елдi мекендердi көркейту</td>
 </tr>
 <tr>
 <td></td>
