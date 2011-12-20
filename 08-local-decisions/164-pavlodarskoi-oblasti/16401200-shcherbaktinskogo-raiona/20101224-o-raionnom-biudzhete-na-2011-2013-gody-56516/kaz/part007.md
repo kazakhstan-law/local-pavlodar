@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56516/kaz/18.11.2011
+source: https://zan.gov.kz/client/#!/doc/56516/kaz/20.12.2011
 ---
 
 ## Галкино ауылдық округі бойынша
@@ -2528,7 +2528,7 @@ source: https://zan.gov.kz/client/#!/doc/56516/kaz/18.11.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Тұрғын үй- коммуналдық шаруашылық</td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td></td>
@@ -3164,7 +3164,7 @@ source: https://zan.gov.kz/client/#!/doc/56516/kaz/18.11.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Тұрғын үй-коммуналдық шаруашығы</td>
+<td>Тұрғын үй-коммуналдық шаруашылығы</td>
 </tr>
 <tr>
 <td></td>
