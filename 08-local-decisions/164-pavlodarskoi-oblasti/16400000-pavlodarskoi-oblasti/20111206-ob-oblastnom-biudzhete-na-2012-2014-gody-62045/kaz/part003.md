@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62045/kaz/06.12.2011
+source: https://zan.gov.kz/client/#!/doc/62045/kaz/14.01.2012
 ---
 
 ## 2014 жылға арналған облыстық бюджет
