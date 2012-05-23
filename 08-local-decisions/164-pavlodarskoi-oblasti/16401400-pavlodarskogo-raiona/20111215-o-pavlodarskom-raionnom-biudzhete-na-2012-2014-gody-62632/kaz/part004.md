@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62632/kaz/20.04.2012
+source: https://zan.gov.kz/client/#!/doc/62632/kaz/23.05.2012
 ---
 
 ## 2012 жылға арналған бюджеттiк атқарылу үрдiсiнде
