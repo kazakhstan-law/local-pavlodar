@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62676/rus/12.04.2012
+source: https://zan.gov.kz/client/#!/doc/62676/rus/28.05.2012
 ---
 
 ## Перечень бюджетных программ Березовского аульного (сельского) поселкового бюджета на 2012 год
