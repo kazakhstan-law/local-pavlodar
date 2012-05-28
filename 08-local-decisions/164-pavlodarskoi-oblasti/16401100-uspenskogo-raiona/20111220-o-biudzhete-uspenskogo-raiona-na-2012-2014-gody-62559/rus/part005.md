@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62559/rus/13.04.2012
+source: https://zan.gov.kz/client/#!/doc/62559/rus/28.05.2012
 ---
 
 ## Перечень бюджетных программ в разрезе сельских и аульного округов на 2012 год
