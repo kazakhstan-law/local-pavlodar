@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62677/rus/28.05.2012
+source: https://zan.gov.kz/client/#!/doc/62677/rus/24.07.2012
 ---
 
 ## Александровского сельского округа
