@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62650/kaz/23.08.2012
+source: https://zan.gov.kz/client/#!/doc/62650/kaz/24.10.2012
 ---
 
 ## 2012 жылға арналған ауданның селолық округтің бюджеттік бағдарламалары
