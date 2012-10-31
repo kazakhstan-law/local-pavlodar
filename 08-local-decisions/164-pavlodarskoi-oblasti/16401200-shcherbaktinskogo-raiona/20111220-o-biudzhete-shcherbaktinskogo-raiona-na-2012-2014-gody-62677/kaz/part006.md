@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62677/kaz/24.07.2012
+source: https://zan.gov.kz/client/#!/doc/62677/kaz/31.10.2012
 ---
 
 ## Александровка ауылдық округі бойынша
