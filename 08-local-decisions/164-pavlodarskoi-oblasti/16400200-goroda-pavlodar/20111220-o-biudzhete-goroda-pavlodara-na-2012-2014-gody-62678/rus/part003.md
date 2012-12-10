@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62678/rus/23.10.2012
+source: https://zan.gov.kz/client/#!/doc/62678/rus/10.12.2012
 ---
 
 ## Бюджет города Павлодара на 2014 год
