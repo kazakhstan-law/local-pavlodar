@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69743/kaz/20.12.2012
+source: https://zan.gov.kz/client/#!/doc/69743/kaz/07.02.2013
 ---
 
 ## 2013 жылға арналған ауылдық және селолық округтері қиығында бюджеттік бағдарламалар тізбесі
@@ -754,7 +754,7 @@ source: https://zan.gov.kz/client/#!/doc/69743/kaz/20.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1188,7 +1188,7 @@ source: https://zan.gov.kz/client/#!/doc/69743/kaz/20.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1421,7 +1421,7 @@ source: https://zan.gov.kz/client/#!/doc/69743/kaz/20.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1646,7 +1646,7 @@ source: https://zan.gov.kz/client/#!/doc/69743/kaz/20.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -1879,7 +1879,7 @@ source: https://zan.gov.kz/client/#!/doc/69743/kaz/20.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -2104,7 +2104,7 @@ source: https://zan.gov.kz/client/#!/doc/69743/kaz/20.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -2305,7 +2305,7 @@ source: https://zan.gov.kz/client/#!/doc/69743/kaz/20.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -2506,7 +2506,7 @@ source: https://zan.gov.kz/client/#!/doc/69743/kaz/20.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
@@ -2667,7 +2667,7 @@ source: https://zan.gov.kz/client/#!/doc/69743/kaz/20.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Елді-мекендерді көркейту</td>
+<td>Елді мекендерді көркейту</td>
 </tr>
 <tr>
 <td></td>
