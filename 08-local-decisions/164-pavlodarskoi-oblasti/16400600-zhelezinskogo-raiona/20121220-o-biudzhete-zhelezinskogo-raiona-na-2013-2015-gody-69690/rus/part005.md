@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69690/rus/05.02.2013
+source: https://zan.gov.kz/client/#!/doc/69690/rus/18.04.2013
 ---
 
 ## Перечень местных бюджетных программ сельских округов на 2013 год
