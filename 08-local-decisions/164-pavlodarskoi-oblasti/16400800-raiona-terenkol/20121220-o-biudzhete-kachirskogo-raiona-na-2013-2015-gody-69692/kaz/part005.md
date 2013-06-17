@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69692/kaz/15.04.2013
+source: https://zan.gov.kz/client/#!/doc/69692/kaz/17.06.2013
 ---
 
 ## Ауылының (селоның) 2013 жылға арналған аудандық бюджеттік бағдарламалар тізбесі

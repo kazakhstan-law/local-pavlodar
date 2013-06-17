@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69692/rus/15.04.2013
+source: https://zan.gov.kz/client/#!/doc/69692/rus/17.06.2013
 ---
 
 ## Перечень бюджетных программ аульного (сельского) поселкового бюджета на 2013 год
