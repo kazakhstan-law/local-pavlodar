@@ -1,24 +1,31 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
+source: https://zan.gov.kz/client/#!/doc/69742/rus/21.06.2013
 ---
 
 ## Бюджет города Экибастуза на 2013 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата города Экибастуза Павлодарской области от 12.04.2013 N 114/15 (вводится в действие с 01.01.2013).*
+> *Сноска. Приложение 1 в редакции решения маслихата города Экибастуза Павлодарской области от 21.06.2013 N 134/16 (вводится в действие с 01.01.2013).*
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма (тыс. тенге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Класс Наименование</td>
+<td rowspan="4">Сумма (тыс. тенге)</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -32,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>9020118</td>
+<td>9032875</td>
 </tr>
 <tr>
 <td>1</td>
@@ -235,21 +242,21 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td></td>
 <td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>1864030</td>
+<td>1876787</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>1864030</td>
+<td>1876787</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>1864030</td>
+<td>1876787</td>
 </tr>
 </table>
 
@@ -259,14 +266,17 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td rowspan="5">Сумма (тыс. тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
@@ -291,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>9660511</td>
+<td>9659468</td>
 </tr>
 <tr>
 <td>01</td>
@@ -811,7 +821,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>448100</td>
+<td>447057</td>
 </tr>
 <tr>
 <td></td>
@@ -819,7 +829,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td></td>
 <td>Социальная помощь</td>
-<td>389877</td>
+<td>388834</td>
 </tr>
 <tr>
 <td></td>
@@ -843,7 +853,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td>451</td>
 <td></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>383915</td>
+<td>382872</td>
 </tr>
 <tr>
 <td></td>
@@ -875,14 +885,14 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td>007</td>
 <td>Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
-<td>131263</td>
+<td>130220</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>010</td>
-<td>Материальное обеспечение детей-инвалидов, воспитывающихся и обучающихся на дому</td>
+<td>Материальное обеспечение детей - инвалидов, воспитывающихся и обучающихся на дому</td>
 <td>6024</td>
 </tr>
 <tr>
@@ -2053,14 +2063,17 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td rowspan="4">Сумма (тыс. тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -2100,18 +2113,24 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td rowspan="5">Сумма (тыс. тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -2129,7 +2148,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td></td>
 <td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 <tr>
 <td></td>
@@ -2137,7 +2156,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td></td>
 <td>Приобретение финансовых активов</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 <tr>
 <td>13</td>
@@ -2145,7 +2164,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 <tr>
 <td></td>
@@ -2153,7 +2172,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 <tr>
 <td></td>
@@ -2161,7 +2180,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 <tr>
 <td></td>
@@ -2169,7 +2188,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td></td>
 <td>065</td>
 <td>Формирование или увеличение уставного капитала юридических лиц</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 </table>
 
@@ -2179,14 +2198,17 @@ source: https://zan.gov.kz/client/#!/doc/69742/rus/12.04.2013
 <td rowspan="4">Сумма (тыс. тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>

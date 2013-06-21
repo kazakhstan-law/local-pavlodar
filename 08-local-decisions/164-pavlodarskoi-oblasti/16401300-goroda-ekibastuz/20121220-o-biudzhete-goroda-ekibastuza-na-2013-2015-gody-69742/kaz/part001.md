@@ -1,24 +1,31 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
+source: https://zan.gov.kz/client/#!/doc/69742/kaz/21.06.2013
 ---
 
 ## 2013 жылға арналған Екібастұз қаласының бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 12.04.2013 N 114/15 (01.01.2013 бастап қолдаңысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 21.06.2013 N 134/16 (01.01.2013 бастап қолдаңысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы (мың тенге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Сыныбы Атауы</td>
+<td rowspan="4">Сомасы (мың тенге)</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="3">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2">Iшкi сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -32,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>9020118</td>
+<td>9032875</td>
 </tr>
 <tr>
 <td>1</td>
@@ -235,21 +242,21 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td></td>
 <td>ТРАНСФЕРТТЕРДІҢ ТҮСІМДЕРІ</td>
-<td>1864030</td>
+<td>1876787</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>1864030</td>
+<td>1876787</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>1864030</td>
+<td>1876787</td>
 </tr>
 </table>
 
@@ -259,18 +266,24 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Кiшi функция</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Бюджеттiк бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -288,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>9660511</td>
+<td>9659468</td>
 </tr>
 <tr>
 <td>01</td>
@@ -471,7 +484,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td></td>
 <td>001</td>
-<td>Экономикалық саясатты, мемлекеттік жоспарлау жүйесін қалыптастыру мен дамыту және ауданды (облыстық маңызы бар қаланы) басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td>Экономикалық саясатты, мемлекеттік жоспарлау жүйесін қалыптастыру мен дамыту және аудандық (облыстық маңызы бар қаланы) басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
 <td>28234</td>
 </tr>
 <tr>
@@ -808,7 +821,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>448100</td>
+<td>447057</td>
 </tr>
 <tr>
 <td></td>
@@ -816,7 +829,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>389877</td>
+<td>388834</td>
 </tr>
 <tr>
 <td></td>
@@ -840,7 +853,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td>451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>383915</td>
+<td>382872</td>
 </tr>
 <tr>
 <td></td>
@@ -872,7 +885,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td>007</td>
 <td>Жергілікті өкілетті органдардың шешімі бойынша мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек</td>
-<td>131263</td>
+<td>130220</td>
 </tr>
 <tr>
 <td></td>
@@ -1159,7 +1172,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
+<td>Елдi мекендердi көркейту</td>
 <td>419451</td>
 </tr>
 <tr>
@@ -2047,15 +2060,22 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Сыныбы Атауы</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="3">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -2090,19 +2110,29 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="4">Кiшi функция Атауы</td>
+<td></td>
+<td colspan="4">Кiшi функция</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Бюджеттiк бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
 <td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -2118,7 +2148,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td></td>
 <td>IV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 <tr>
 <td></td>
@@ -2126,7 +2156,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td></td>
 <td>Қаржы активтерiн сатып алу</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 <tr>
 <td>13</td>
@@ -2134,7 +2164,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 <tr>
 <td></td>
@@ -2142,7 +2172,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 <tr>
 <td></td>
@@ -2150,7 +2180,7 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлiгi және автомобиль жолдары бөлiмi</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 <tr>
 <td></td>
@@ -2158,22 +2188,29 @@ source: https://zan.gov.kz/client/#!/doc/69742/kaz/12.04.2013
 <td></td>
 <td>065</td>
 <td>Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
-<td>88800</td>
+<td>102600</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Сыныбы Атауы</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="3">Сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
