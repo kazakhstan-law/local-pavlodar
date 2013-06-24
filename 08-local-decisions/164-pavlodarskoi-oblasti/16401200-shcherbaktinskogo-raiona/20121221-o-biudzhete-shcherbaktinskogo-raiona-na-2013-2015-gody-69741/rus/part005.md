@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69741/rus/14.02.2013
+source: https://zan.gov.kz/client/#!/doc/69741/rus/24.06.2013
 ---
 
 ## Перечень бюджетных программ на 2013 год по аппарату акима
