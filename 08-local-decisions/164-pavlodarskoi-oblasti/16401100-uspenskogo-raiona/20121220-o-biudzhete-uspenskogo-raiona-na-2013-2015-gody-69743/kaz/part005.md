@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69743/kaz/31.10.2013
+source: https://zan.gov.kz/client/#!/doc/69743/kaz/04.12.2013
 ---
 
 ## 2013 жылға арналған аудан бюджетінің аулдық округі бойынша бағдарламаларының тізбесі
