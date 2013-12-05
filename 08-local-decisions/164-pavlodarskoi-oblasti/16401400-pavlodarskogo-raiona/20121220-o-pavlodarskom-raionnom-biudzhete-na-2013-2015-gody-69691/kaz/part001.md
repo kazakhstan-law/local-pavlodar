@@ -1,16 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
+source: https://zan.gov.kz/client/#!/doc/69691/kaz/05.12.2013
 ---
 
 ## 2013 жылға арналған аудандық бюджет туралы (өзгерістермен және толықтырулармен)
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Павлодар облысы Павлодар аудандық мәслихатының 28.10.2013 N 24/166 (01.01.2013 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Павлодар облысы Павлодар аудандық мәслихатының 05.12.2013 N 26/183 (01.01.2013 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -19,7 +19,13 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Ішкі сыныбы Атауы</td>
+<td colspan="2">Ішкі сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -33,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>2 541 592</td>
+<td>2 537 182</td>
 </tr>
 <tr>
 <td>1</td>
@@ -152,14 +158,14 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Салықтық емес түсімдер</td>
-<td>5 555</td>
+<td>5 553</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
-<td>692</td>
+<td>690</td>
 </tr>
 <tr>
 <td></td>
@@ -173,7 +179,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td>7</td>
 <td>Мемлекеттік бюджеттен берілген кредиттер бойынша сыйақылар</td>
-<td>7</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -215,41 +221,50 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Трансферттер түсімі</td>
-<td>2 078 773</td>
+<td>2 074 365</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>2 078 773</td>
+<td>2 074 365</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>2 078 773</td>
+<td>2 074 365</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Бағдарлама Атауы</td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -265,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>2 679 474</td>
+<td>2 675 064</td>
 </tr>
 <tr>
 <td>01</td>
@@ -817,7 +832,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>53 268</td>
+<td>49 625</td>
 </tr>
 <tr>
 <td></td>
@@ -912,8 +927,8 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td>3</td>
 <td></td>
 <td></td>
-<td>Елді мекендерді көркейту</td>
-<td>40 394</td>
+<td>Елді-мекендерді көркейту</td>
+<td>36 751</td>
 </tr>
 <tr>
 <td></td>
@@ -921,7 +936,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>29 994</td>
+<td>26 351</td>
 </tr>
 <tr>
 <td></td>
@@ -953,7 +968,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td>011</td>
 <td>Елдi мекендердi абаттандыру мен көгалдандыру</td>
-<td>16 482</td>
+<td>12 839</td>
 </tr>
 <tr>
 <td></td>
@@ -977,7 +992,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>197 697</td>
+<td>196 932</td>
 </tr>
 <tr>
 <td></td>
@@ -1041,7 +1056,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>13 681</td>
+<td>12 916</td>
 </tr>
 <tr>
 <td></td>
@@ -1049,7 +1064,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td>457</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) мәдениет, тілдерді дамыту, дене шынықтыру және спорт бөлімі</td>
-<td>13 681</td>
+<td>12 916</td>
 </tr>
 <tr>
 <td></td>
@@ -1057,7 +1072,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td>009</td>
 <td>Аудандық (облыстық маңызы бар қалалық) деңгейде спорттық жарыстар өткiзу</td>
-<td>13 681</td>
+<td>12 916</td>
 </tr>
 <tr>
 <td></td>
@@ -1529,7 +1544,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td>7</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1537,7 +1552,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td>7</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1545,7 +1560,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td>452</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>7</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1553,7 +1568,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td>013</td>
 <td>Жергілікті атқарушы органдардың облыстық бюджеттен қарыздар бойынша сыйақылар мен өзге де төлемдерді төлеу бойынша борышына қызмет көрсету</td>
-<td>7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1609,7 +1624,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>III. Таза бюджеттік кредиттеу</td>
-<td>37 770</td>
+<td>33 854</td>
 </tr>
 <tr>
 <td></td>
@@ -1657,7 +1672,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td>4 992</td>
+<td>8 908</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1665,7 +1680,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td>4 992</td>
+<td>8 908</td>
 </tr>
 <tr>
 <td></td>
@@ -1673,7 +1688,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td>4 992</td>
+<td>8 908</td>
 </tr>
 <tr>
 <td></td>
@@ -1681,7 +1696,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td>1</td>
 <td></td>
 <td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
-<td>4 992</td>
+<td>8 908</td>
 </tr>
 <tr>
 <td></td>
@@ -1737,7 +1752,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профицитi)</td>
-<td>-189 452</td>
+<td>-185 536</td>
 </tr>
 <tr>
 <td></td>
@@ -1745,7 +1760,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>189 452</td>
+<td>185 536</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1785,7 +1800,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
-<td>4 993</td>
+<td>8 909</td>
 </tr>
 <tr>
 <td></td>
@@ -1793,7 +1808,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
-<td>4 993</td>
+<td>8 909</td>
 </tr>
 <tr>
 <td></td>
@@ -1801,7 +1816,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td>452</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>4 993</td>
+<td>8 909</td>
 </tr>
 <tr>
 <td></td>
@@ -1809,7 +1824,7 @@ source: https://zan.gov.kz/client/#!/doc/69691/kaz/28.10.2013
 <td></td>
 <td>008</td>
 <td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
-<td>4 992</td>
+<td>8 908</td>
 </tr>
 <tr>
 <td></td>
