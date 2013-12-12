@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69698/kaz/28.11.2013
+source: https://zan.gov.kz/client/#!/doc/69698/kaz/12.12.2013
 ---
 
 ## Павлодар қаласының 2015 жылға арналған бюджеті
