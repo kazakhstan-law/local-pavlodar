@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69691/rus/05.12.2013
+source: https://zan.gov.kz/client/#!/doc/69691/rus/12.12.2013
 ---
 
 ## Перечень текущих бюджетных программ в разрезе сельских округов и сел на 2013 год

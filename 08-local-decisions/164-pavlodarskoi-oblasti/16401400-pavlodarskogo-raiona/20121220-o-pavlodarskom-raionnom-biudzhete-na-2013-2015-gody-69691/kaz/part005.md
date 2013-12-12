@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69691/kaz/05.12.2013
+source: https://zan.gov.kz/client/#!/doc/69691/kaz/12.12.2013
 ---
 
 ## 2013 жылға арналған ауыл және ауылдық округтердiң қимасындағы ағымдағы бюджеттiк бағдарламалардың тiзбесi
