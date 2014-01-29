@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76459/kaz/27.12.2013
+source: https://zan.gov.kz/client/#!/doc/76459/kaz/29.01.2014
 ---
 
 ## 2014 жылға арналған әрбір ауылдық әкімдер аппаратының бюджеттік бағдарламалар тізбесі
