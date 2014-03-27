@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76616/kaz/04.02.2014
+source: https://zan.gov.kz/client/#!/doc/76616/kaz/27.03.2014
 ---
 
 ## 2014 жылға арналған ауданның селолық округтің бюджеттік бағдарламалары
