@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76460/kaz/20.03.2014
+source: https://zan.gov.kz/client/#!/doc/76460/kaz/04.05.2014
 ---
 
 ## 2014 - 2016 жылдарға арналған ауылдық кенттік бюджеттің бюджеттік бағдарламалар тізбесі

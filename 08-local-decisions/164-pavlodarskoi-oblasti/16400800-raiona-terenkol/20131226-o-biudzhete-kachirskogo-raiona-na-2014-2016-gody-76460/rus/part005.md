@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76460/rus/20.03.2014
+source: https://zan.gov.kz/client/#!/doc/76460/rus/04.05.2014
 ---
 
 ## Перечень бюджетных программ сельского поселкового бюджета на 2014 - 2016 годы
