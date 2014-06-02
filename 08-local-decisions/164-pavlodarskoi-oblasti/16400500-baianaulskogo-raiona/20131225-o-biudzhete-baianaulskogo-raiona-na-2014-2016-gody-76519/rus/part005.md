@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76519/rus/06.05.2014
+source: https://zan.gov.kz/client/#!/doc/76519/rus/02.06.2014
 ---
 
 ## Перечень бюджетных программ сельских округов и п. Майкаин на 2014 год
