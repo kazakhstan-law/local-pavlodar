@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76463/kaz/06.05.2014
+source: https://zan.gov.kz/client/#!/doc/76463/kaz/17.06.2014
 ---
 
 ## 2015 жылға арналған Ақсу қаласының бюджеті
