@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76459/rus/06.05.2014
+source: https://zan.gov.kz/client/#!/doc/76459/rus/30.07.2014
 ---
 
 ## Перечень бюджетных программ по аппаратам акимов сельских округов на 2014 год
