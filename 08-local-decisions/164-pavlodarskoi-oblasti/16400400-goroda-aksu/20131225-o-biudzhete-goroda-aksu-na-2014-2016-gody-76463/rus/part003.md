@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76463/rus/31.07.2014
+source: https://zan.gov.kz/client/#!/doc/76463/rus/29.10.2014
 ---
 
 ## Бюджет города Аксу на 2016 год
