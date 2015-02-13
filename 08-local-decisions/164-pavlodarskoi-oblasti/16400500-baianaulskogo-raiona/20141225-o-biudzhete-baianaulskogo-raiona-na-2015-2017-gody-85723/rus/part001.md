@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
+source: https://zan.gov.kz/client/#!/doc/85723/rus/13.02.2015
 ---
 
 > *Приложение 1 к решению*  
@@ -8,12 +8,11 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 > *(очередная ХLІІ сессия V созыва)*  
 > *от 25 декабря 2014 года № 235/42*
 
-## Бюджет Баянаульского района на 2015 год
+## Бюджет Баянаульского района на 2015 год (с изменениями)
+
+> *Сноска. Приложение 1 - в редакции решения маслихата Баянаульского района Павлодарской области от 13.02.2015 N 240/43 (вводится в действие с 01.01.2015).*
 
 <table>
-<tr>
-<td colspan="9"></td>
-</tr>
 <tr>
 <td colspan="9">Категория</td>
 </tr>
@@ -314,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td>3801157</td>
+<td>3810078</td>
 </tr>
 <tr>
 <td>01</td>
@@ -530,7 +529,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Образование</td>
-<td>2608786</td>
+<td>2607130</td>
 </tr>
 <tr>
 <td></td>
@@ -650,7 +649,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие услуги в области образования</td>
-<td>83680</td>
+<td>82024</td>
 </tr>
 <tr>
 <td></td>
@@ -658,7 +657,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел образования района (города областного значения)</td>
-<td>83680</td>
+<td>82024</td>
 </tr>
 <tr>
 <td></td>
@@ -714,7 +713,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2">067</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>18747</td>
+<td>17091</td>
 </tr>
 <tr>
 <td>06</td>
@@ -730,7 +729,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Социальная помощь</td>
-<td>120445</td>
+<td>115910</td>
 </tr>
 <tr>
 <td></td>
@@ -738,7 +737,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел занятости и социальных программ района (города областного значения)</td>
-<td>120445</td>
+<td>115910</td>
 </tr>
 <tr>
 <td></td>
@@ -778,7 +777,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2">007</td>
 <td colspan="2">Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
-<td>37249</td>
+<td>30063</td>
 </tr>
 <tr>
 <td></td>
@@ -810,7 +809,15 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2">017</td>
 <td colspan="2">Обеспечение нуждающихся инвалидов обязательными гигиеническими средствами и предоставление услуг специалистами жестового языка, индивидуальными помощниками в соответствии с индивидуальной программой реабилитации инвалида</td>
-<td>11806</td>
+<td>7271</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">052</td>
+<td colspan="2">Проведение мероприятий, посвященных семидесятилетию Победы в Великой Отечественной войне</td>
+<td>7186</td>
 </tr>
 <tr>
 <td></td>
@@ -818,7 +825,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>23610</td>
+<td>28145</td>
 </tr>
 <tr>
 <td></td>
@@ -826,7 +833,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел занятости и социальных программ района (города областного значения)</td>
-<td>23610</td>
+<td>28145</td>
 </tr>
 <tr>
 <td></td>
@@ -845,12 +852,20 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td>1100</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">050</td>
+<td colspan="2">Реализация Плана мероприятий по обеспечению прав и улучшению качества жизни инвалидов</td>
+<td>4535</td>
+</tr>
+<tr>
 <td>07</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>101592</td>
+<td>102122</td>
 </tr>
 <tr>
 <td></td>
@@ -858,23 +873,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищное хозяйство</td>
-<td>77267</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>1387</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">027</td>
-<td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
-<td>1387</td>
+<td>73188</td>
 </tr>
 <tr>
 <td></td>
@@ -882,7 +881,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2">458</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>10000</td>
+<td>11387</td>
 </tr>
 <tr>
 <td></td>
@@ -895,18 +894,10 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">464</td>
 <td colspan="2"></td>
-<td colspan="2">Отдел образования района (города областного значения)</td>
-<td>4720</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">026</td>
-<td colspan="2">Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
-<td>4720</td>
+<td colspan="2">041</td>
+<td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
+<td>1387</td>
 </tr>
 <tr>
 <td></td>
@@ -914,7 +905,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2">472</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
-<td>61160</td>
+<td>61801</td>
 </tr>
 <tr>
 <td></td>
@@ -926,11 +917,19 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">074</td>
+<td colspan="2">Развитие и/или сооружение недостающих объектов инженерно-коммуникационной инфраструктуры в рамках второго направления Дорожной карты занятости 2020</td>
+<td>641</td>
+</tr>
+<tr>
+<td></td>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Коммунальное хозяйство</td>
-<td>6000</td>
+<td>10609</td>
 </tr>
 <tr>
 <td></td>
@@ -947,6 +946,22 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2">012</td>
 <td colspan="2">Функционирование системы водоснабжения и водоотведения</td>
 <td>6000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">472</td>
+<td colspan="2"></td>
+<td colspan="2">Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
+<td>4609</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="2">Развитие системы водоснабжения и водоотведения</td>
+<td>4609</td>
 </tr>
 <tr>
 <td></td>
@@ -1525,6 +1540,38 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td>19</td>
 </tr>
 <tr>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Трансферты</td>
+<td>10047</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Трансферты</td>
+<td>10047</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td colspan="2">Отдел финансов района (города областного значения)</td>
+<td>10047</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="2">Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>10047</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -1650,7 +1697,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Дефицит (профицит) бюджета</td>
-<td>-59278</td>
+<td>-68199</td>
 </tr>
 <tr>
 <td></td>
@@ -1658,6 +1705,6 @@ source: https://zan.gov.kz/client/#!/doc/85723/rus/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VІ. Финансирование дефицита (использование профицита) бюджета</td>
-<td>59278</td>
+<td>68199</td>
 </tr>
 </table>

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
+source: https://zan.gov.kz/client/#!/doc/85723/kaz/13.02.2015
 ---
 
 > *Баянауыл аудандық мәслихатының*  
@@ -8,12 +8,11 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 > *2014 жылғы 25 желтоқсандағы*  
 > *№ 235/42 шешіміне 1-қосымша*
 
-## Баянауыл ауданының 2015 жылға арналған бюджеті
+## Баянауыл ауданының 2015 жылға арналған бюджеті (өзгерістермен)
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Павлодар облысы Баянауыл аудандық мәслихатының 13.02.2015 N 240/43 (01.01.2015 бастап қолданысқа енеді) шешімімен.*
 
 <table>
-<tr>
-<td colspan="9"></td>
-</tr>
 <tr>
 <td colspan="9">Санаты</td>
 </tr>
@@ -49,7 +48,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">I.Кірістер</td>
+<td colspan="2">I. Кірістер</td>
 <td colspan="2">3812357</td>
 </tr>
 <tr>
@@ -316,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Шығындар</td>
-<td>3801157</td>
+<td>3810078</td>
 </tr>
 <tr>
 <td>01</td>
@@ -532,7 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бiлiм беру</td>
-<td>2608786</td>
+<td>2607130</td>
 </tr>
 <tr>
 <td></td>
@@ -652,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Білім беру саласындағы өзге де қызметтер</td>
-<td>83680</td>
+<td>82024</td>
 </tr>
 <tr>
 <td></td>
@@ -660,7 +659,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>83680</td>
+<td>82024</td>
 </tr>
 <tr>
 <td></td>
@@ -716,7 +715,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2">067</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>18747</td>
+<td>17091</td>
 </tr>
 <tr>
 <td>06</td>
@@ -732,7 +731,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек</td>
-<td>120445</td>
+<td>115910</td>
 </tr>
 <tr>
 <td></td>
@@ -740,7 +739,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>120445</td>
+<td>115910</td>
 </tr>
 <tr>
 <td></td>
@@ -780,7 +779,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2">007</td>
 <td colspan="2">Жергілікті өкілетті органдардың шешімі бойынша мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек</td>
-<td>37249</td>
+<td>30063</td>
 </tr>
 <tr>
 <td></td>
@@ -812,7 +811,15 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2">017</td>
 <td colspan="2">Мүгедектерді оңалту жеке бағдарламасына сәйкес, мұқтаж мүгедектерді міндетті гигиеналық құралдармен және ымдау тілі мамандарының қызмет көрсетуін, жеке көмекшілермен қамтамасыз ету</td>
-<td>11806</td>
+<td>7271</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">052</td>
+<td colspan="2">Ұлы Отан соғысындағы Жеңістің жетпіс жылдығына арналған іс-шараларды өткізу</td>
+<td>7186</td>
 </tr>
 <tr>
 <td></td>
@@ -820,7 +827,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету салаларындағы өзге де қызметтер</td>
-<td>23610</td>
+<td>28145</td>
 </tr>
 <tr>
 <td></td>
@@ -828,7 +835,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>23610</td>
+<td>28145</td>
 </tr>
 <tr>
 <td></td>
@@ -847,12 +854,20 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td>1100</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">050</td>
+<td colspan="2">Мүгедектердің құқықтарын қамтамасыз ету және өмір сүру сапасын жақсарту жөніндегі іс-шаралар жоспарын іске асыру</td>
+<td>4535</td>
+</tr>
+<tr>
 <td>07</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>101592</td>
+<td>102122</td>
 </tr>
 <tr>
 <td></td>
@@ -860,23 +875,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй шаруашылығы</td>
-<td>77267</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>1387</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">027</td>
-<td colspan="2">Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
-<td>1387</td>
+<td>73188</td>
 </tr>
 <tr>
 <td></td>
@@ -884,7 +883,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2">458</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>10000</td>
+<td>11387</td>
 </tr>
 <tr>
 <td></td>
@@ -897,18 +896,10 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">464</td>
 <td colspan="2"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>4720</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">026</td>
-<td colspan="2">Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу</td>
-<td>4720</td>
+<td colspan="2">041</td>
+<td colspan="2">Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
+<td>1387</td>
 </tr>
 <tr>
 <td></td>
@@ -916,7 +907,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2">472</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
-<td>61160</td>
+<td>61801</td>
 </tr>
 <tr>
 <td></td>
@@ -928,11 +919,19 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">074</td>
+<td colspan="2">Жұмыспен қамту 2020 жол картасының екінші бағыты шеңберінде жетіспейтін инженерлік-коммуникациялық инфрақұрылымды дамыту және/немесе салу</td>
+<td>641</td>
+</tr>
+<tr>
+<td></td>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Коммуналдық шаруашылық</td>
-<td>6000</td>
+<td>10609</td>
 </tr>
 <tr>
 <td></td>
@@ -949,6 +948,22 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2">012</td>
 <td colspan="2">Сумен жабдықтау және су бұру жүйесінің жұмыс істеуі</td>
 <td>6000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">472</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
+<td>4609</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="2">Сумен жабдықтау және су бұру жүйесін дамыту</td>
+<td>4609</td>
 </tr>
 <tr>
 <td></td>
@@ -1527,6 +1542,38 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td>19</td>
 </tr>
 <tr>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Трансферттер</td>
+<td>10047</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Трансферттер</td>
+<td>10047</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
+<td>10047</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="2">Нысаналы пайдаланылмаған (толық пайдаланылмаған) трансферттерді қайтару</td>
+<td>10047</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -1652,7 +1699,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>-59278</td>
+<td>-68199</td>
 </tr>
 <tr>
 <td></td>
@@ -1660,7 +1707,7 @@ source: https://zan.gov.kz/client/#!/doc/85723/kaz/25.12.2014
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VІ. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>59278</td>
+<td>68199</td>
 </tr>
 </table>
 
