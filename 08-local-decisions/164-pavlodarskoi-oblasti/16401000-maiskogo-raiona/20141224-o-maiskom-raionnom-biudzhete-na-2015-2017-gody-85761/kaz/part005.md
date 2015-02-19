@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85761/kaz/24.12.2014
+source: https://zan.gov.kz/client/#!/doc/85761/kaz/19.02.2015
 ---
 
 > *Май аудандық мәслихатының*  
