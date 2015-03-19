@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85837/kaz/24.12.2014
+source: https://zan.gov.kz/client/#!/doc/85837/kaz/19.03.2015
 ---
 
 > *V сайланған Ертіс аудандық*  
