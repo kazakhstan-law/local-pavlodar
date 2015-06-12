@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85972/kaz/10.04.2015
+source: https://zan.gov.kz/client/#!/doc/85972/kaz/12.06.2015
 ---
 
 > *Качир аудандық мәслихатының*  
