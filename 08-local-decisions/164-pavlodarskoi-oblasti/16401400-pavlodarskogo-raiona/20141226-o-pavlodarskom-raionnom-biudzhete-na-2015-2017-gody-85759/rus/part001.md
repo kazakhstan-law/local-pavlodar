@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
+source: https://zan.gov.kz/client/#!/doc/85759/rus/17.06.2015
 ---
 
 > *Приложение 1*  
@@ -10,12 +10,11 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 
 ## О районном бюджете на 2015 год
 
-> *Сноска. Приложение 1 – в редакции решения маслихата Павлодарского района Павлодарской области от 15.05.2015 № 46/358 (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 1 – в редакции решения маслихата Павлодарского района Павлодарской области от 17.06.2015 № 48/362 (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td></td>
+<td colspan="5">Категория</td>
 <td></td>
 <td rowspan="2">Сумма (тыс. тенге)</td>
 </tr>
@@ -41,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td colspan="3">I. Доходы</td>
-<td>2 765 662</td>
+<td>2 762 874</td>
 </tr>
 <tr>
 <td>1</td>
@@ -167,14 +166,14 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td colspan="3">Неналоговые поступления</td>
-<td>42 768</td>
+<td>42 782</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="3">Доходы от государственной собственности</td>
-<td>3 935</td>
+<td>3 949</td>
 </tr>
 <tr>
 <td></td>
@@ -195,7 +194,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td>7</td>
 <td colspan="3">Вознаграждения по кредитам, выданным из государственного бюджета</td>
-<td>20</td>
+<td>34</td>
 </tr>
 <tr>
 <td></td>
@@ -237,21 +236,21 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>2 176 803</td>
+<td>2 174 001</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>2 176 803</td>
+<td>2 174 001</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td>2 176 803</td>
+<td>2 174 001</td>
 </tr>
 </table>
 
@@ -293,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td colspan="3">II.Затраты</td>
-<td>2 778 360</td>
+<td>2 775 572</td>
 </tr>
 <tr>
 <td>01</td>
@@ -557,7 +556,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td colspan="3">Образование</td>
-<td>1 820 079</td>
+<td>1 815 807</td>
 </tr>
 <tr>
 <td></td>
@@ -613,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td colspan="3">Начальное, основное среднее и общее среднее образование</td>
-<td>1 513 483</td>
+<td>1 509 211</td>
 </tr>
 <tr>
 <td></td>
@@ -653,7 +652,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td>464</td>
 <td></td>
 <td colspan="3">Отдел образования района (города областного значения)</td>
-<td>1 455 483</td>
+<td>1 451 211</td>
 </tr>
 <tr>
 <td></td>
@@ -661,7 +660,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td>003</td>
 <td colspan="3">Общеобразовательное обучение</td>
-<td>1 435 121</td>
+<td>1 430 849</td>
 </tr>
 <tr>
 <td></td>
@@ -1221,7 +1220,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td colspan="3">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>118 751</td>
+<td>120 221</td>
 </tr>
 <tr>
 <td></td>
@@ -1301,7 +1300,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td colspan="3">Земельные отношения</td>
-<td>17 120</td>
+<td>18 590</td>
 </tr>
 <tr>
 <td></td>
@@ -1309,7 +1308,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td>463</td>
 <td></td>
 <td colspan="3">Отдел земельных отношений района (города областного значения)</td>
-<td>17 120</td>
+<td>18 590</td>
 </tr>
 <tr>
 <td></td>
@@ -1333,7 +1332,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td>006</td>
 <td colspan="3">Землеустройство, проводимое при установлении границ районов, городов областного значения, районного значения, сельских округов, поселков, сел</td>
-<td>2 646</td>
+<td>4 116</td>
 </tr>
 <tr>
 <td></td>
@@ -1557,7 +1556,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td colspan="3">Обслуживание долга</td>
-<td>20</td>
+<td>34</td>
 </tr>
 <tr>
 <td></td>
@@ -1565,7 +1564,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td colspan="3">Обслуживание долга</td>
-<td>20</td>
+<td>34</td>
 </tr>
 <tr>
 <td></td>
@@ -1573,7 +1572,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td>452</td>
 <td></td>
 <td colspan="3">Отдел финансов района (города областного значения)</td>
-<td>20</td>
+<td>34</td>
 </tr>
 <tr>
 <td></td>
@@ -1581,7 +1580,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td>013</td>
 <td colspan="3">Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из областного бюджета</td>
-<td>20</td>
+<td>34</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1636,7 +1635,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="3">III.Чистое бюджетное кредитование</td>
+<td colspan="3">III. Чистое бюджетное кредитование</td>
 <td>26 782</td>
 </tr>
 <tr>
@@ -1830,14 +1829,6 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/15.05.2015
 <td>01</td>
 <td colspan="3">Свободные остатки бюджетных средств</td>
 <td>12 698</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td></td>
 </tr>
 </table>
 
