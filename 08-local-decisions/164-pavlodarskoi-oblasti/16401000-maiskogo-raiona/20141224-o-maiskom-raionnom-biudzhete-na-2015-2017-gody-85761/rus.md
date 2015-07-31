@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85761/rus/23.06.2015
+source: https://zan.gov.kz/client/#!/doc/85761/rus/31.07.2015
 ---
 
 # О Майском районном бюджете на 2015 - 2017 годы

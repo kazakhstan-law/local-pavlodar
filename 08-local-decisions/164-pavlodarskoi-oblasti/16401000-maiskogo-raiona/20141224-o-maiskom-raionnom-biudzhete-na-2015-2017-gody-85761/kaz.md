@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85761/kaz/23.06.2015
+source: https://zan.gov.kz/client/#!/doc/85761/kaz/31.07.2015
 ---
 
 # 2015 - 2017 жылдарға арналған Май аудандық бюджет туралы
