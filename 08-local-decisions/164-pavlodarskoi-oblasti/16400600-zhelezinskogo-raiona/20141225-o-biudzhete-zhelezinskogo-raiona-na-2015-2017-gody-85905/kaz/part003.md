@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85905/kaz/18.06.2015
+source: https://zan.gov.kz/client/#!/doc/85905/kaz/07.09.2015
 ---
 
 > *Железинка аудандық мәслихатының*  
