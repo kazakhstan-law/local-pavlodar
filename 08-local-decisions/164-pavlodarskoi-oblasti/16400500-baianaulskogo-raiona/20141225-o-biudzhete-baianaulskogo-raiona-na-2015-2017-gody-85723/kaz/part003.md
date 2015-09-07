@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85723/kaz/19.06.2015
+source: https://zan.gov.kz/client/#!/doc/85723/kaz/07.09.2015
 ---
 
 > *Баянауыл аудандық мәслихатының*  
