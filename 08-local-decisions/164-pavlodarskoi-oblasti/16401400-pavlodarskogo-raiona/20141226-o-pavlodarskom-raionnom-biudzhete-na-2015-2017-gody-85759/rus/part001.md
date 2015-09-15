@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
+source: https://zan.gov.kz/client/#!/doc/85759/rus/15.09.2015
 ---
 
 > *Приложение 1*  
@@ -10,14 +10,12 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 
 ## О районном бюджете на 2015 год
 
-> *Сноска. Приложение 1 – в редакции решения маслихата Павлодарского района Павлодарской области от 10.08.2015 № 50/383 (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 1 – в редакции решения маслихата Павлодарского района Павлодарской области от 15.09.2015 № 51/391 (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
-<td></td>
-<td></td>
-<td colspan="2" rowspan="2">Сумма (тыс. тенге)</td>
+<td colspan="7">Категория</td>
+<td rowspan="2">Сумма (тыс. тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -27,259 +25,259 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <tr>
 <td></td>
 <td></td>
-<td colspan="7">Подкласс</td>
+<td colspan="6">Подкласс</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td colspan="2">3</td>
-<td colspan="3">4</td>
-<td colspan="2">5</td>
+<th>1</th>
+<th>2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">I. Доходы</td>
-<td colspan="2">2 780 874</td>
+<td>2 779 259</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Налоговые поступления</td>
-<td colspan="2">546 455</td>
+<td>544 840</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="3">Подоходный налог</td>
-<td colspan="2">208 587</td>
+<td>208 587</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td colspan="2">208 587</td>
+<td>208 587</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
 <td colspan="2"></td>
 <td colspan="3">Социальный налог</td>
-<td colspan="2">129 415</td>
+<td>127 800</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Социальный налог</td>
-<td colspan="2">129 415</td>
+<td>127 800</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="3">Hалоги на собственность</td>
-<td colspan="2">191 341</td>
+<td>191 341</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Hалоги на имущество</td>
-<td colspan="2">146 811</td>
+<td>146 811</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="3">Земельный налог</td>
-<td colspan="2">5 030</td>
+<td>5 030</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td colspan="2">35 500</td>
+<td>35 500</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">5</td>
 <td colspan="3">Единый земельный налог</td>
-<td colspan="2">4 000</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td colspan="2"></td>
 <td colspan="3">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">11 898</td>
+<td>11 898</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="3">Акцизы</td>
-<td colspan="2">1 035</td>
+<td>1 035</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="3">Поступления за использование природных и других ресурсов</td>
-<td colspan="2">2 874</td>
+<td>2 874</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td colspan="3">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td colspan="2">7 956</td>
+<td>7 956</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">5</td>
 <td colspan="3">Налог на игорный бизнес</td>
-<td colspan="2">33</td>
+<td>33</td>
 </tr>
 <tr>
 <td></td>
 <td>07</td>
 <td colspan="2"></td>
 <td colspan="3">Прочие налоги</td>
-<td colspan="2">78</td>
+<td>78</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Прочие налоги</td>
-<td colspan="2">78</td>
+<td>78</td>
 </tr>
 <tr>
 <td></td>
 <td>08</td>
 <td colspan="2"></td>
 <td colspan="3">Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
-<td colspan="2">5 136</td>
+<td>5 136</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Государственная пошлина</td>
-<td colspan="2">5 136</td>
+<td>5 136</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Неналоговые поступления</td>
-<td colspan="2">55 918</td>
+<td>55 918</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="3">Доходы от государственной собственности</td>
-<td colspan="2">3 949</td>
+<td>3 949</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Поступления части чистого дохода государственных предприятий</td>
-<td colspan="2">108</td>
+<td>108</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">5</td>
 <td colspan="3">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td colspan="2">3 807</td>
+<td>3 807</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">7</td>
 <td colspan="3">Вознаграждения по кредитам, выданным из государственного бюджета</td>
-<td colspan="2">34</td>
+<td>34</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="3">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td colspan="2">74</td>
+<td>74</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td colspan="2">74</td>
+<td>74</td>
 </tr>
 <tr>
 <td></td>
 <td>06</td>
 <td colspan="2"></td>
 <td colspan="3">Прочие неналоговые поступления</td>
-<td colspan="2">51 895</td>
+<td>51 895</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Прочие неналоговые поступления</td>
-<td colspan="2">51 895</td>
+<td>51 895</td>
 </tr>
 <tr>
 <td>3</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления от продажи основного капитала</td>
-<td colspan="2">4 500</td>
+<td>4 500</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
 <td colspan="2"></td>
 <td colspan="3">Продажа земли и нематериальных активов</td>
-<td colspan="2">4 500</td>
+<td>4 500</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Продажа земли</td>
-<td colspan="2">4 500</td>
+<td>4 500</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td colspan="2">2 174 001</td>
+<td>2 174 001</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">2 174 001</td>
+<td>2 174 001</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td colspan="2">2 174 001</td>
+<td>2 174 001</td>
 </tr>
 </table>
 
@@ -308,12 +306,12 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td colspan="5">Бюджетная программа Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td colspan="3">5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -321,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td></td>
 <td colspan="3">II.Затраты</td>
-<td>2 793 572</td>
+<td>2 791 957</td>
 </tr>
 <tr>
 <td>01</td>
@@ -329,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td></td>
 <td colspan="3">Государственные услуги общего характера</td>
-<td>314 974</td>
+<td>313 970</td>
 </tr>
 <tr>
 <td></td>
@@ -337,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td></td>
 <td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>254 751</td>
+<td>253 747</td>
 </tr>
 <tr>
 <td></td>
@@ -369,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td>122</td>
 <td></td>
 <td colspan="3">Аппарат акима района (города областного значения)</td>
-<td>71 142</td>
+<td>70 993</td>
 </tr>
 <tr>
 <td></td>
@@ -377,7 +375,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td>001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима района (города областного значения)</td>
-<td>70 366</td>
+<td>70 217</td>
 </tr>
 <tr>
 <td></td>
@@ -393,7 +391,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td>123</td>
 <td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>170 943</td>
+<td>170 088</td>
 </tr>
 <tr>
 <td></td>
@@ -401,7 +399,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td>001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>168 869</td>
+<td>168 014</td>
 </tr>
 <tr>
 <td></td>
@@ -593,7 +591,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td></td>
 <td colspan="3">Образование</td>
-<td>1 820 731</td>
+<td>1 820 093</td>
 </tr>
 <tr>
 <td></td>
@@ -649,7 +647,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td></td>
 <td colspan="3">Начальное, основное среднее и общее среднее образование</td>
-<td>1 513 048</td>
+<td>1 513 198</td>
 </tr>
 <tr>
 <td></td>
@@ -657,7 +655,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td>123</td>
 <td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>15 942</td>
+<td>16 092</td>
 </tr>
 <tr>
 <td></td>
@@ -665,7 +663,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td>005</td>
 <td colspan="3">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
-<td>15 942</td>
+<td>16 092</td>
 </tr>
 <tr>
 <td></td>
@@ -713,7 +711,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td></td>
 <td colspan="3">Прочие услуги в области образования</td>
-<td>58 654</td>
+<td>57 866</td>
 </tr>
 <tr>
 <td></td>
@@ -721,7 +719,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td>464</td>
 <td></td>
 <td colspan="3">Отдел образования района (города областного значения)</td>
-<td>58 654</td>
+<td>57 866</td>
 </tr>
 <tr>
 <td></td>
@@ -729,7 +727,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td>001</td>
 <td colspan="3">Услуги по реализации государственной политики на местном уровне в области образования</td>
-<td>18 057</td>
+<td>17 269</td>
 </tr>
 <tr>
 <td></td>
@@ -785,7 +783,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td></td>
 <td colspan="3">Социальная помощь и социальное обеспечение</td>
-<td>133 260</td>
+<td>132 687</td>
 </tr>
 <tr>
 <td></td>
@@ -817,7 +815,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td></td>
 <td colspan="3">Социальная помощь</td>
-<td>113 200</td>
+<td>112 627</td>
 </tr>
 <tr>
 <td></td>
@@ -825,7 +823,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td>123</td>
 <td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>16 165</td>
+<td>15 592</td>
 </tr>
 <tr>
 <td></td>
@@ -833,7 +831,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td>003</td>
 <td colspan="3">Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td>16 165</td>
+<td>15 592</td>
 </tr>
 <tr>
 <td></td>
@@ -1073,7 +1071,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td></td>
 <td colspan="3">Культура, спорт, туризм и информационное пространство</td>
-<td>213 867</td>
+<td>214 467</td>
 </tr>
 <tr>
 <td></td>
@@ -1081,7 +1079,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td></td>
 <td colspan="3">Деятельность в области культуры</td>
-<td>152 655</td>
+<td>153 255</td>
 </tr>
 <tr>
 <td></td>
@@ -1105,7 +1103,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td>457</td>
 <td></td>
 <td colspan="3">Отдел культуры, развития языков, физической культуры и спорта района (города областного значения)</td>
-<td>28 072</td>
+<td>28 672</td>
 </tr>
 <tr>
 <td></td>
@@ -1113,7 +1111,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td>003</td>
 <td colspan="3">Поддержка культурно-досуговой работы</td>
-<td>28 072</td>
+<td>28 672</td>
 </tr>
 <tr>
 <td></td>
@@ -1321,7 +1319,7 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td></td>
 <td>008</td>
 <td colspan="3">Возмещение владельцам стоимости изымаемых и уничтожаемых больных животных, продуктов и сырья животного происхождения</td>
-<td>10 173</td>
+<td>6 355</td>
 </tr>
 <tr>
 <td></td>
@@ -1330,6 +1328,14 @@ source: https://zan.gov.kz/client/#!/doc/85759/rus/10.08.2015
 <td>010</td>
 <td colspan="3">Проведение мероприятий по идентификации сельскохозяйственных животных</td>
 <td>635</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>047</td>
+<td colspan="3">Возмещение владельцам стоимости обезвреженных (обеззараженных) и переработанных без изъятия животных, продукции и сырья животного происхождения, представляющих опасность для здоровья животных и человека</td>
+<td>3 818</td>
 </tr>
 <tr>
 <td></td>
