@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
+source: https://zan.gov.kz/client/#!/doc/96980/rus/24.02.2016
 ---
 
 > *Приложение 1 к решению*  
@@ -8,7 +8,9 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 > *(очередная LІІ сессия V созыва)*  
 > *от 24 декабря 2015 года № 322/52*
 
-# Бюджет Баянаульского района на 2016 год
+# Бюджет Баянаульского района на 2016 год (с изменениями)
+
+> *Сноска. Приложение 1 - в редакции решения маслихата Баянаульского района Павлодарской области от 24.02.2016 № 333/55 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
@@ -45,7 +47,7 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>I.Доходы</td>
-<td>3871119</td>
+<td>3875040</td>
 </tr>
 <tr>
 <td>1</td>
@@ -53,7 +55,7 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Налоговые поступления</td>
-<td>1022051</td>
+<td>1025972</td>
 </tr>
 <tr>
 <td></td>
@@ -77,7 +79,7 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальный налог</td>
-<td>300755</td>
+<td>304676</td>
 </tr>
 <tr>
 <td></td>
@@ -85,7 +87,7 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td>Социальный налог</td>
-<td>300755</td>
+<td>304676</td>
 </tr>
 <tr>
 <td></td>
@@ -311,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Затраты</td>
-<td>3871119</td>
+<td>3878382</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1396,7 +1398,7 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты</td>
-<td>21507</td>
+<td>28770</td>
 </tr>
 <tr>
 <td></td>
@@ -1404,7 +1406,7 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты</td>
-<td>21507</td>
+<td>28770</td>
 </tr>
 <tr>
 <td></td>
@@ -1412,7 +1414,15 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 <td colspan="2">452</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел финансов района (города областного значения)</td>
-<td>21507</td>
+<td>28770</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="2">Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>7263</td>
 </tr>
 <tr>
 <td></td>
@@ -1508,7 +1518,7 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Дефицит (профицит) бюджета</td>
-<td>-8572</td>
+<td>-11914</td>
 </tr>
 <tr>
 <td></td>
@@ -1516,7 +1526,7 @@ source: https://zan.gov.kz/client/#!/doc/96980/rus/24.12.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VІ. Финансирование дефицита (использование профицита) бюджета</td>
-<td>8572</td>
+<td>11914</td>
 </tr>
 </table>
 
