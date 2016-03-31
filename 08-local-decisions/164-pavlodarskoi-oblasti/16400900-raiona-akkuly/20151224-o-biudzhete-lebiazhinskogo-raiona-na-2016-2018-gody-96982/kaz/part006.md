@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96982/kaz/24.12.2015
+source: https://zan.gov.kz/client/#!/doc/96982/kaz/31.03.2016
 ---
 
 > *Лебяжі аудандық мәслихатының*  
