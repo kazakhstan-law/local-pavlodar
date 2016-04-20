@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/96769/rus/23.12.2015
+source: https://zan.gov.kz/client/#!/doc/96769/rus/20.04.2016
 ---
 
 > *Приложение 5*  
@@ -2000,82 +2000,87 @@ source: https://zan.gov.kz/client/#!/doc/96769/rus/23.12.2015
 > *маслихата (54 очередная сессия,*  
 > *5 созыв) от 23 декабря 2015 № 54/406*
 
-## Распределение сумм трансфертов органам местного самоуправления на 2016 год
+## Распределение сумм трансфертов органам местного самоуправления на 2016 год (с изменениями)
+
+> *Сноска. Приложение 6 - в редакции решения маслихата Павлодарского района Павлодарской области от 20.04.2016 № 2/16 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
 <td colspan="2">№ п/п</td>
-<td colspan="6">Наименование сельских округов и сел</td>
-<td colspan="7">Сумма (тыс.тенге)</td>
+<td colspan="4">Наименование сельских округов и сел</td>
+<td colspan="2">
+Сумма
+(тыс.тенге)
+</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
-<td colspan="6">Григорьевский</td>
-<td colspan="7">3 621</td>
+<td colspan="4">Григорьевский сельский округ</td>
+<td colspan="2">3 621</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td colspan="6">Ефремовский</td>
-<td colspan="7">1 810</td>
+<td colspan="4">Ефремовский сельский округ</td>
+<td colspan="2">1 814</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td colspan="6">Зангарский</td>
-<td colspan="7">950</td>
+<td colspan="4">Зангарский сельский округ</td>
+<td colspan="2">985</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td colspan="6">Заринский</td>
-<td colspan="7">4 634</td>
+<td colspan="4">Заринский сельский округ</td>
+<td colspan="2">4 672</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td colspan="6">Кенесский</td>
-<td colspan="7">2 989</td>
+<td colspan="4">Кенесский сельский округ</td>
+<td colspan="2">2 989</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td colspan="6">Красноармейский</td>
-<td colspan="7">4 686</td>
+<td colspan="4">Красноармейский сельский округ</td>
+<td colspan="2">6 518</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td colspan="6">Луганский</td>
-<td colspan="7">3 721</td>
+<td colspan="4">Луганский сельский округ</td>
+<td colspan="2">3 956</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td colspan="6">Мичуринский</td>
-<td colspan="7">3 967</td>
+<td colspan="4">Мичуринский сельский округ</td>
+<td colspan="2">4 037</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td colspan="6">Рождественский</td>
-<td colspan="7">4 813</td>
+<td colspan="4">Рождественский сельский округ</td>
+<td colspan="2">5 595</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td colspan="6">Чернорецкий</td>
-<td colspan="7">5 128</td>
+<td colspan="4">Чернорецкий сельский округ</td>
+<td colspan="2">5 240</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td colspan="6">Черноярский</td>
-<td colspan="7">6 641</td>
+<td colspan="4">Черноярский сельский округ</td>
+<td colspan="2">6 755</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td colspan="6">Ольгинка</td>
-<td colspan="7">2 776</td>
+<td colspan="4">село Ольгинка</td>
+<td colspan="2">2 776</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td colspan="6">Шакатский</td>
-<td colspan="7">2 164</td>
+<td colspan="4">Шакатский сельский округ</td>
+<td colspan="2">2 711</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="6">Всего:</td>
-<td colspan="7">47 900</td>
+<td colspan="4">Всего:</td>
+<td colspan="2">51 669</td>
 </tr>
 </table>

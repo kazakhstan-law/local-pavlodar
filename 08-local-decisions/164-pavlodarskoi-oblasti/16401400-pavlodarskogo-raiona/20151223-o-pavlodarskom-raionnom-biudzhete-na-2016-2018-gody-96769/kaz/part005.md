@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96769/kaz/23.12.2015
+source: https://zan.gov.kz/client/#!/doc/96769/kaz/20.04.2016
 ---
 
 > *Павлодар аудандық мәслихатының*  
@@ -2004,7 +2004,9 @@ source: https://zan.gov.kz/client/#!/doc/96769/kaz/23.12.2015
 > *2015 жылғы 23 желтоқсандағы*  
 > *№ 54/406 шешіміне 6-қосымша*
 
-## 2016 жылға арналған жергілікті өзін-өзі басқару органдарына трансферттер сомаларын бөлу
+## 2016 жылға арналған жергілікті өзін-өзі басқару органдарына трансферттер сомаларын бөлу (өзгерістермен)
+
+> *Ескерту. 6-қосымша жаңа редакцияда - Павлодар облысы Павлодар аудандық мәслихатының 20.04.2016 № 2/16 (01.01.2016 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -2018,72 +2020,72 @@ source: https://zan.gov.kz/client/#!/doc/96769/kaz/23.12.2015
 </tr>
 <tr>
 <td>1</td>
-<td colspan="8">Григорьевка</td>
+<td colspan="8">Григорьевка ауылдық округі</td>
 <td colspan="2">3 621</td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="8">Ефремовка</td>
-<td colspan="2">1 810</td>
+<td colspan="8">Ефремовка ауылдық округі</td>
+<td colspan="2">1 814</td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="8">Заңғар</td>
-<td colspan="2">950</td>
+<td colspan="8">Заңғар ауылдық округі</td>
+<td colspan="2">985</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="8">Заря</td>
-<td colspan="2">4 634</td>
+<td colspan="8">Заря ауылдық округі</td>
+<td colspan="2">4 672</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="8">Кеңес</td>
+<td colspan="8">Кеңес ауылдық округі</td>
 <td colspan="2">2 989</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="8">Красноармейка</td>
-<td colspan="2">4 686</td>
+<td colspan="8">Красноармейка ауылдық округі</td>
+<td colspan="2">6 518</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="8">Луганск</td>
-<td colspan="2">3 721</td>
+<td colspan="8">Луганск ауылдық округі</td>
+<td colspan="2">3 956</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="8">Мичурино</td>
-<td colspan="2">3 967</td>
+<td colspan="8">Мичурино ауылдық округі</td>
+<td colspan="2">4 037</td>
 </tr>
 <tr>
 <td>9</td>
-<td colspan="8">Рождественка</td>
-<td colspan="2">4 813</td>
+<td colspan="8">Рождественка ауылдық округі</td>
+<td colspan="2">5 595</td>
 </tr>
 <tr>
 <td>10</td>
-<td colspan="8">Чернорецк</td>
-<td colspan="2">5 128</td>
+<td colspan="8">Чернорецк ауылдық округі</td>
+<td colspan="2">5 240</td>
 </tr>
 <tr>
 <td>11</td>
-<td colspan="8">Черноярка</td>
-<td colspan="2">6 641</td>
+<td colspan="8">Черноярка ауылдық округі</td>
+<td colspan="2">6 755</td>
 </tr>
 <tr>
 <td>12</td>
-<td colspan="8">Ольгинка</td>
+<td colspan="8">Ольгинка ауылы</td>
 <td colspan="2">2 776</td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="8">Шақат</td>
-<td colspan="2">2 164</td>
+<td colspan="8">Шақат ауылдық округі</td>
+<td colspan="2">2 711</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="8">Барлығы:</td>
-<td colspan="2">47 900</td>
+<td colspan="2">51 669</td>
 </tr>
 </table>
