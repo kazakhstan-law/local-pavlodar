@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96776/kaz/16.02.2016
+source: https://zan.gov.kz/client/#!/doc/96776/kaz/28.06.2016
 ---
 
 > *Успен аудандық мәслихатының*  
