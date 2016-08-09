@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97038/kaz/14.07.2016
+source: https://zan.gov.kz/client/#!/doc/97038/kaz/09.08.2016
 ---
 
 # Железинка ауданының 2016 - 2018 жылдарға арналған бюджеті туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97038/rus/14.07.2016
+source: https://zan.gov.kz/client/#!/doc/97038/rus/09.08.2016
 ---
 
 # О бюджете Железинского района на 2016 - 2018 годы
