@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96981/kaz/08.07.2016
+source: https://zan.gov.kz/client/#!/doc/96981/kaz/10.08.2016
 ---
 
 > *Ақсу қалалық мәслихатының*  
