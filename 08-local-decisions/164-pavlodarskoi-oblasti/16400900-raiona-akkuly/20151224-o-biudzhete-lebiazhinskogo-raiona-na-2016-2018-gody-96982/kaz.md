@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96982/kaz/27.07.2016
+source: https://zan.gov.kz/client/#!/doc/96982/kaz/16.08.2016
 ---
 
 # 2016 - 2018 жылдарға арналған Лебяжі ауданының бюджеті туралы

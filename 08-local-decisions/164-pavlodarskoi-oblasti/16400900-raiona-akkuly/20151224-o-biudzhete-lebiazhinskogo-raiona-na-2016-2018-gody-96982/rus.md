@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96982/rus/27.07.2016
+source: https://zan.gov.kz/client/#!/doc/96982/rus/16.08.2016
 ---
 
 # О бюджете Лебяжинского района на 2016 - 2018 годы
