@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96980/kaz/20.07.2016
+source: https://zan.gov.kz/client/#!/doc/96980/kaz/07.09.2016
 ---
 
 # Баянауыл ауданының 2016 - 2018 жылдарға арналған бюджеті туралы

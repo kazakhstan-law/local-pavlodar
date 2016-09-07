@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/96980/rus/20.07.2016
+source: https://zan.gov.kz/client/#!/doc/96980/rus/07.09.2016
 ---
 
 # О бюджете Баянаульского района на 2016 - 2018 годы
