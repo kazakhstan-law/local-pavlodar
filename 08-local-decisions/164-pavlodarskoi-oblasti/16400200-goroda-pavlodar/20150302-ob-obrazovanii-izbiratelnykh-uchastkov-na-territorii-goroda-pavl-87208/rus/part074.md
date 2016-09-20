@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/87208/rus/04.12.2015
+source: https://zan.gov.kz/client/#!/doc/87208/rus/20.09.2016
 ---
 
 ## ул. М. Горького, 102/4, ТОО «Инновационный Евразийский университет»

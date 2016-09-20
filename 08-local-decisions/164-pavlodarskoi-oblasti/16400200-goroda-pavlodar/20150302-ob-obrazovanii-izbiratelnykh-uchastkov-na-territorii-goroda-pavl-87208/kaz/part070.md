@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/87208/kaz/04.12.2015
+source: https://zan.gov.kz/client/#!/doc/87208/kaz/20.09.2016
 ---
 
 ## Қамзин к-сі, 69, «Дарынды қыз балаларға арналған облыстық қазақ-түрік лицей-интернаты» ММ
