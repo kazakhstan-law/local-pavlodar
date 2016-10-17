@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/96880/rus/17.08.2016
+source: https://zan.gov.kz/client/#!/doc/96880/rus/17.10.2016
 ---
 
 > *Приложение 3*  
@@ -1526,759 +1526,763 @@ source: https://zan.gov.kz/client/#!/doc/96880/rus/17.08.2016
 > *V созыв) № 1/56 от 24 декабря*  
 > *2015 года*
 
-### Бюджетные программы района в селах и сельских округах на 2016 год (с изменениями и дополнением)
+### Бюджетные программы района в селах и сельских округах на 2016 год (с изменениями)
 
-> *Сноска. Приложение 5 – в редакции решения маслихата Майского района Павлодарской области от 17.08.2016 № 1/7 (вводится в действие с 01.01.2016).*
+> *Сноска. Приложение 5 – в редакции решения маслихата Майского района Павлодарской области от 17.10.2016 № 1/9 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
-<td colspan="4">Функциональная группа</td>
-<td colspan="4"></td>
-<td colspan="2" rowspan="4">
-
-Наименование
-</td>
-</tr>
-<tr>
-<td colspan="4"></td>
-<td colspan="4">Функциональная подгруппа</td>
-</tr>
-<tr>
-<td colspan="4"></td>
+<td colspan="7">Функциональная группа</td>
 <td colspan="2"></td>
-<td colspan="2">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
-<td>Программа</td>
+<td colspan="5">Функциональная подгруппа</td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима села Акжар</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td>022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 </tr>
 <tr>
-<td colspan="4">4</td>
+<td colspan="2">4</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>005</td>
 <td colspan="2">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">8</td>
+<td colspan="2">8</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима Майского сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">4</td>
+<td colspan="2">4</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 </tr>
 <tr>
-<td colspan="4">6</td>
+<td colspan="2">6</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>003</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">8</td>
+<td colspan="2">8</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима Каратерекского сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">4</td>
+<td colspan="2">4</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>005</td>
 <td colspan="2">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td colspan="4">6</td>
+<td colspan="2">6</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>003</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>007</td>
 <td colspan="2">Организация сохранения государственного жилищного фонда города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">8</td>
+<td colspan="2">8</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td>045</td>
 <td colspan="2">Капитальный и средний ремонт автомобильных дорог улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима села Майтубек</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td>022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 </tr>
 <tr>
-<td colspan="4">6</td>
+<td colspan="2">6</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>003</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">8</td>
+<td colspan="2">8</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима Казанского сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">4</td>
+<td colspan="2">4</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
+<td>041</td>
+<td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>005</td>
 <td colspan="2">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td colspan="4">6</td>
+<td colspan="2">6</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>003</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">8</td>
+<td colspan="2">8</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима Сатинского сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td>022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 </tr>
 <tr>
-<td colspan="4">4</td>
+<td colspan="2">4</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>005</td>
 <td colspan="2">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td colspan="4">6</td>
+<td colspan="2">6</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>003</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">8</td>
+<td colspan="2">8</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима Малайсаринского сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td>022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 </tr>
 <tr>
-<td colspan="4">4</td>
+<td colspan="2">4</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>005</td>
 <td colspan="2">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td colspan="4">6</td>
+<td colspan="2">6</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>003</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">8</td>
+<td colspan="2">8</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима Кентубекского сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">4</td>
+<td colspan="2">4</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">8</td>
+<td colspan="2">8</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима Коктубекского сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">4</td>
+<td colspan="2">4</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>004</td>
 <td colspan="2">Поддержка организаций дошкольного воспитания и обучения</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>005</td>
 <td colspan="2">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td colspan="4">6</td>
+<td colspan="2">6</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>003</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима Баскольского сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">4</td>
+<td colspan="2">4</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>005</td>
 <td colspan="2">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td colspan="4">6</td>
+<td colspan="2">6</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>003</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>027</td>
 <td colspan="2">Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">8</td>
+<td colspan="2">8</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
 <tr>
-<td colspan="4"></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Аппарат акима Акшиманского сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">1</td>
+<td colspan="2">123</td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td colspan="4">4</td>
+<td colspan="2">4</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>041</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 </tr>
 <tr>
-<td colspan="4">7</td>
+<td colspan="2">7</td>
 <td colspan="2">2</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>014</td>
 <td colspan="2">Организация водоснабжения населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td colspan="4">8</td>
+<td colspan="2">8</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 </tr>
 <tr>
-<td colspan="4">12</td>
+<td colspan="2">12</td>
 <td colspan="2">1</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td colspan="4">13</td>
+<td colspan="2">13</td>
 <td colspan="2">9</td>
-<td>123</td>
+<td colspan="2">123</td>
 <td>040</td>
 <td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов»</td>
 </tr>
