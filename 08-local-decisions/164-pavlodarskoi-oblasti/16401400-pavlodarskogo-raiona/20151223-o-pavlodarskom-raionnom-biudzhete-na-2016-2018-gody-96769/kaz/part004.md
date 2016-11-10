@@ -1,7 +1,82 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96769/kaz/12.08.2016
+source: https://zan.gov.kz/client/#!/doc/96769/kaz/10.11.2016
 ---
+
+> *Павлодар аудандық мәслихатының*  
+> *(5 сайланған 54 кезекті сессиясының)*  
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 54/406 шешіміне 4-қосымша*
+
+## 2016 жылға арналған бюджеттiк атқарылу үрдiсiнде секвестрлеуге жатпайтын бюджеттiк бағдарламалардың (кiшi бағдарламалардың) тiзбесi
+
+<table>
+<tr>
+<td colspan="10">Функционалдық топ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Функционалдық кіші топ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="7">Бюджеттiк бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="6">Бюджеттік бағдарлама Атауы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="5">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td colspan="2">04</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Бiлiм беру</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Бастауыш, негізгі орта және жалпы орта білім беру</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>464</td>
+<td></td>
+<td></td>
+<td colspan="4">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>003</td>
+<td></td>
+<td colspan="4">Жалпы бiлiм беру</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>015</td>
+<td colspan="4">Жергілікті бюджет қаражаты есебінен</td>
+</tr>
+</table>
 
 > *Павлодар аудандық мәслихатының*  
 > *(5 сайланған 54 кезекті сессиясының)*  
