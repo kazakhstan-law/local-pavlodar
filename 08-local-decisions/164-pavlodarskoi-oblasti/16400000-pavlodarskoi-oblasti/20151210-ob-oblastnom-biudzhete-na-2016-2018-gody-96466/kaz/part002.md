@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96466/kaz/21.09.2016
+source: https://zan.gov.kz/client/#!/doc/96466/kaz/06.12.2016
 ---
 
 > *Павлодар облыстық мәслихатының*  
