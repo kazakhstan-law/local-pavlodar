@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96875/kaz/29.11.2016
+source: https://zan.gov.kz/client/#!/doc/96875/kaz/23.12.2016
 ---
 
 > *Екібастұз қалалық мәслихатының*  
