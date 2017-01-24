@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
+source: https://zan.gov.kz/client/#!/doc/108768/rus/24.01.2017
 ---
 
 > *Приложение 3*  
@@ -1941,6 +1941,8 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 
 ## Перечень бюджетных программ поселков, сел, сельских округов на 2017 год
 
+> *Сноска. Приложение 5 - в редакции решения маслихата города Экибастуза Павлодарской области от 24.01.2017 № 97/14 (вводится в действие с 01.01.2017).*
+
 <table>
 <tr>
 <td colspan="8">Функциональная группа</td>
@@ -1968,11 +1970,11 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -2134,6 +2136,13 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2311,6 +2320,13 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
+</tr>
+<tr>
 <td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -2458,6 +2474,13 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
+</tr>
+<tr>
 <td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -2596,6 +2619,13 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2792,6 +2822,13 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
 </tr>
 <tr>
 <td>12</td>
@@ -3221,6 +3258,13 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
+</tr>
+<tr>
 <td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -3417,6 +3461,13 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
+</tr>
+<tr>
 <td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -3506,6 +3557,13 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td>Капитальные расходы государственного органа</td>
 </tr>
 <tr>
 <td>04</td>
@@ -3793,6 +3851,13 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4185,6 +4250,13 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4586,47 +4658,5 @@ source: https://zan.gov.kz/client/#!/doc/108768/rus/23.12.2016
 <td></td>
 <td>- на реализацию бюджетных инвестиционных проектов в моногородах</td>
 <td>167 105</td>
-</tr>
-</table>
-
-> *Приложение 8*  
-> *к решению Экибастузского*  
-> *городского маслихата*  
-> *(очередная XIII сессия, VI созыв)*  
-> *от 23 декабря 2016 года № 92/13*
-
-## Распределение сумм бюджетных кредитов по администраторам бюджетных программ на 2017 год
-
-<table>
-<tr>
-<td rowspan="4">№ п/п</td>
-<td rowspan="4">Наименование администраторов бюджетных программ/назначение бюджетных кредитов</td>
-<td rowspan="4">Сумма (тыс. тенге)</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td>Всего:</td>
-<td>6 807</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Отдел экономики и бюджетного планирования района (города областного значения)</td>
-<td>6 807</td>
-</tr>
-<tr>
-<td></td>
-<td>для реализации мер социальной поддержки специалистов</td>
-<td>6 807</td>
 </tr>
 </table>
