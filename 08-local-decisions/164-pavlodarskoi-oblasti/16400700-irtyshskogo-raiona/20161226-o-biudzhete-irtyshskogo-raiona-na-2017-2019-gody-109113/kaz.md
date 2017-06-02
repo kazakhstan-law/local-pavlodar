@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/109113/kaz/12.04.2017
+source: https://zan.gov.kz/client/#!/doc/109113/kaz/02.06.2017
 ---
 
 # Ертіс ауданының 2017 - 2019 жылдарға арналған бюджеті туралы

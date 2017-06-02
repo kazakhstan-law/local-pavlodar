@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/109113/rus/12.04.2017
+source: https://zan.gov.kz/client/#!/doc/109113/rus/02.06.2017
 ---
 
 # О бюджете Иртышского района на 2017 - 2019 годы
