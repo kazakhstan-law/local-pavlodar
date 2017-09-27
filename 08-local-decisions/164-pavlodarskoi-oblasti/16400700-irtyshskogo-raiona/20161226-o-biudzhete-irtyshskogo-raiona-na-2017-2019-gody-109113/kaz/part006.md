@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109113/kaz/02.06.2017
+source: https://zan.gov.kz/client/#!/doc/109113/kaz/27.09.2017
 ---
 
 > *Ертіс аудандық мәслихатының*  
