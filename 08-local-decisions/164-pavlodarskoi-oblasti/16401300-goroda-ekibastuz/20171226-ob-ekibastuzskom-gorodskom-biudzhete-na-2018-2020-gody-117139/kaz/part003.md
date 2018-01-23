@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117139/kaz/26.12.2017
+source: https://zan.gov.kz/client/#!/doc/117139/kaz/23.01.2018
 ---
 
 > *Екібастұз қалалық мәслихатының*  
@@ -1876,6 +1876,8 @@ source: https://zan.gov.kz/client/#!/doc/117139/kaz/26.12.2017
 
 ## 2018 жылға арналған ауыл, ауылдық округтердің бюджеттік бағдарламаларының тізбесі
 
+> *Ескерту. 5-қосымша жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 23.01.2018 № 219/26 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -1943,6 +1945,13 @@ source: https://zan.gov.kz/client/#!/doc/117139/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2050,6 +2059,13 @@ source: https://zan.gov.kz/client/#!/doc/117139/kaz/26.12.2017
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td colspan="2">Елдi мекендердi абаттандыру мен көгалдандыру</td>
+</tr>
+<tr>
 <td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -2139,6 +2155,13 @@ source: https://zan.gov.kz/client/#!/doc/117139/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
 <td>06</td>
@@ -2307,6 +2330,13 @@ source: https://zan.gov.kz/client/#!/doc/117139/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
 <td>04</td>
@@ -3128,6 +3158,13 @@ source: https://zan.gov.kz/client/#!/doc/117139/kaz/26.12.2017
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+</tr>
+<tr>
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -3233,6 +3270,13 @@ source: https://zan.gov.kz/client/#!/doc/117139/kaz/26.12.2017
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td colspan="2">Елдi мекендердi абаттандыру мен көгалдандыру</td>
+</tr>
+<tr>
 <td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -3322,6 +3366,13 @@ source: https://zan.gov.kz/client/#!/doc/117139/kaz/26.12.2017
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
 </tr>
 <tr>
 <td>04</td>
