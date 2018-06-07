@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
+source: https://zan.gov.kz/client/#!/doc/117139/rus/07.06.2018
 ---
 
 > *Приложение 3*  
@@ -1894,1666 +1894,1729 @@ source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
 
 ## Перечень бюджетных программ сел, сельских округов на 2018 год
 
-> *Сноска. Приложение 5 - в редакции решения маслихата города Экибастуза Павлодарской области от 23.01.2018 № 219/26 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 5 - в редакции решения маслихата города Экибастуза Павлодарской области от 07.06.2018 № 260/31 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
-<td colspan="8">Функциональная группа</td>
+<td colspan="9">Функциональная группа</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
-<td colspan="5">Администратор бюджетных программ</td>
+<td colspan="3"></td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">Программа</td>
+<td colspan="2">Программа</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
 <th colspan="2">3</th>
-<th colspan="2">4</th>
+<th>4</th>
 <th>5</th>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Аккольский сельский округ</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Государственные услуги общего характера</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">001</td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">022</td>
+<td>022</td>
 <td>Капитальные расходы государственного органа</td>
 </tr>
 <tr>
-<td>04</td>
+<td colspan="2">04</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Образование</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">005</td>
+<td>005</td>
 <td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Социальная помощь и социальное обеспечение</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Социальная помощь</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">003</td>
+<td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">014</td>
+<td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">011</td>
+<td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
 </tr>
 <tr>
-<td>12</td>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td colspan="2">12</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Транспорт и коммуникации</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td>13</td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
+<td>045</td>
+<td>Капитальный и средний ремонт автомобильных дорог улиц населенных пунктов</td>
+</tr>
+<tr>
+<td colspan="2">13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Прочие</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Прочие</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">040</td>
+<td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Байетский сельский округ</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Государственные услуги общего характера</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">001</td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">022</td>
+<td>022</td>
 <td>Капитальные расходы государственного органа</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Социальная помощь и социальное обеспечение</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Социальная помощь</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">003</td>
+<td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">014</td>
+<td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Транспорт и коммуникации</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Прочие</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Прочие</td>
 </tr>
 <tr>
-<td></td>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">040</td>
+<td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Железнодорожный сельский округ</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Государственные услуги общего характера</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">001</td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">022</td>
+<td>022</td>
 <td>Капитальные расходы государственного органа</td>
 </tr>
 <tr>
-<td>04</td>
+<td colspan="2">04</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Образование</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">005</td>
+<td>005</td>
 <td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Социальная помощь и социальное обеспечение</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Социальная помощь</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">003</td>
+<td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Транспорт и коммуникации</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Прочие</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Прочие</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">040</td>
+<td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Село имени академика Алькея Маргулана</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Государственные услуги общего характера</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 </tr>
 <tr>
-<td></td>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">001</td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td>05</td>
+<td colspan="2">05</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Здравоохранение</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Прочие услуги в области здравоохранения</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">002</td>
+<td>002</td>
 <td>Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Социальная помощь и социальное обеспечение</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Социальная помощь</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">003</td>
+<td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>
 Аппарат акима района в городе, города районного значения,
 поселка, села, сельского округа
 </td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">014</td>
+<td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Транспорт и коммуникации</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Прочие</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Прочие</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">040</td>
+<td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>село Шикылдак</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Государственные услуги общего характера</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">001</td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 </tr>
 <tr>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">014</td>
+<td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Транспорт и коммуникации</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Прочие</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Прочие</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">040</td>
+<td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Кояндинский сельский округ</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Государственные услуги общего характера</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">001</td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">014</td>
+<td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Транспорт и коммуникации</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Прочие</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Прочие</td>
 </tr>
 <tr>
-<td></td>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">040</td>
+<td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Сарыкамысский сельский округ</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Государственные услуги общего характера</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">001</td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td>04</td>
+<td colspan="2">04</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Образование</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">005</td>
+<td>005</td>
 <td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">014</td>
+<td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Транспорт и коммуникации</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Прочие</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Прочие</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">040</td>
+<td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Торт-Кудукский сельский округ</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Государственные услуги общего характера</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">001</td>
-<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>001</td>
+<td>Услуги по обеспечению деятельности акима района в городе,</td>
 </tr>
 <tr>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
+<td>города районного значения, поселка, села, сельского округа</td>
+</tr>
+<tr>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">022</td>
+<td>022</td>
 <td>Капитальные расходы государственного органа</td>
 </tr>
 <tr>
-<td>04</td>
+<td colspan="2">04</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Образование</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">005</td>
+<td>005</td>
 <td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Социальная помощь и социальное обеспечение</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Социальная помощь</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">003</td>
+<td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">014</td>
+<td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">011</td>
+<td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Транспорт и коммуникации</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Прочие</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Прочие</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">040</td>
+<td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Экибастузский сельский округ</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Государственные услуги общего характера</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">001</td>
+<td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">022</td>
+<td>022</td>
 <td>Капитальные расходы государственного органа</td>
 </tr>
 <tr>
-<td>04</td>
+<td colspan="2">04</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Образование</td>
 </tr>
 <tr>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">005</td>
+<td>005</td>
 <td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Социальная помощь и социальное обеспечение</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Социальная помощь</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">003</td>
+<td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">014</td>
+<td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">008</td>
+<td>008</td>
 <td>Освещение улиц населенных пунктов</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Транспорт и коммуникации</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">013</td>
+<td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
 <td>Прочие</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td>Прочие</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">123</td>
-<td colspan="2"></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">040</td>
+<td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 </tr>
 </table>
@@ -3639,86 +3702,86 @@ source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
 
 ## Целевые трансферты, выделенные из вышестоящих бюджетов на 2018 год
 
-> *Сноска. Приложение 7 - в редакции решения маслихата города Экибастуза Павлодарской области от 05.04.2018 № 230/27 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 7 - в редакции решения маслихата города Экибастуза Павлодарской области от 07.06.2018 № 260/31 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
-<td>№ п/п</td>
-<td>Назначение целевых трансфертов</td>
-<td>
+<td rowspan="3">№ п/п</td>
+<td rowspan="3">Назначение целевых трансфертов</td>
+<td rowspan="3">
 Сумма
 (тысяч тенге)
 </td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
 <td>Всего:</td>
-<td>3 962 542</td>
+<td>5 989 229</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Всего целевых трансфертов из областного бюджета:</td>
-<td>1 508 823</td>
+<td colspan="6">1 508 823</td>
 </tr>
 <tr>
 <td></td>
 <td>в том числе:</td>
-<td></td>
+<td colspan="6"></td>
 </tr>
 <tr>
 <td>1.1.</td>
 <td>Целевые текущие трансферты из областного бюджета:</td>
-<td>873 783</td>
+<td colspan="6">873 783</td>
 </tr>
 <tr>
 <td></td>
 <td>на расходы текущего и капитального характера в сфере образования, в том числе:</td>
-<td>25 614</td>
+<td colspan="6">25 614</td>
 </tr>
 <tr>
 <td></td>
 <td>- на содержание шахматных кружков в общеобразовательных школах</td>
-<td>25 614</td>
+<td colspan="6">25 614</td>
 </tr>
 <tr>
 <td></td>
 <td>на реализацию мероприятий, направленных на развитие рынка труда в рамках Программы развития продуктивной занятости и массового предпринимательства, в том числе:</td>
-<td>35 106</td>
+<td colspan="6">35 106</td>
 </tr>
 <tr>
 <td></td>
 <td>- субсидии на возмещение расходов по найму (аренде) жилья и оплату коммунальных услуг</td>
-<td>17 388</td>
+<td colspan="6">17 388</td>
 </tr>
 <tr>
 <td></td>
 <td>- краткосрочное профессиональное обучение</td>
-<td>17 718</td>
+<td colspan="6">17 718</td>
 </tr>
 <tr>
 <td></td>
 <td>на возмещение стоимости сельскохозяйственных животных, больных бруцеллезом, направляемых на санитарный убой</td>
-<td>2 664</td>
+<td colspan="6">2 664</td>
 </tr>
 <tr>
 <td></td>
 <td>на подготовку и участие в спортивных соревнованиях по футболу</td>
-<td>100 000</td>
+<td colspan="6">100 000</td>
 </tr>
 <tr>
 <td></td>
 <td>на приобретение служебного автотранспорта акимам сел, поселков, сельских округов, в рамках внедрения четвертого уровня бюджета</td>
-<td>7 500</td>
+<td colspan="6">7 500</td>
 </tr>
 <tr>
 <td></td>
 <td>финансирование приоритетных проектов транспортной инфраструктуры</td>
-<td>702 899</td>
+<td colspan="6">702 899</td>
 </tr>
 <tr>
 <td>1.2.</td>
@@ -3742,33 +3805,43 @@ source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
 </tr>
 <tr>
 <td></td>
-<td>на проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
+<td>на проектирование, развитие и (или) обустройство</td>
 <td>186 922</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td></td>
+<td>инженерно-коммуникационной инфраструктуры</td>
+<td></td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Всего целевых трансфертов из республиканского бюджета:</td>
-<td>2 453 719</td>
+<td>4 480 406</td>
 </tr>
 <tr>
 <td>2.1.</td>
 <td>Целевые текущие трансферты из республиканского бюджета:</td>
-<td>218 143</td>
+<td>1 293 600</td>
 </tr>
 <tr>
 <td></td>
 <td>на доплату учителям, прошедшим стажировку по языковым курсам и на доплату учителям за замещение на период обучения основного сотрудника, в том числе:</td>
-<td>26 581</td>
+<td>29 288</td>
 </tr>
 <tr>
 <td></td>
 <td>- доплаты учителям, прошедшим стажировку по языковым курсам</td>
-<td>25 921</td>
+<td>23 071</td>
 </tr>
 <tr>
 <td></td>
 <td>- расходы на замещение на период обучения основного сотрудника</td>
-<td>660</td>
+<td>6 217</td>
 </tr>
 <tr>
 <td></td>
@@ -3808,7 +3881,7 @@ source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
 <tr>
 <td></td>
 <td>на реализацию Плана мероприятий по обеспечению прав и улучшению качества жизни инвалидов, в том числе:</td>
-<td>45 691</td>
+<td>45 392</td>
 </tr>
 <tr>
 <td></td>
@@ -3818,12 +3891,12 @@ source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
 <tr>
 <td></td>
 <td>- оказание услуг специалиста жестового языка</td>
-<td>5 219</td>
+<td>4 920</td>
 </tr>
 <tr>
 <td></td>
 <td>на внедрение консультантов по социальной работе и ассистентов в Центрах занятости населения</td>
-<td>8 655</td>
+<td>8 602</td>
 </tr>
 <tr>
 <td></td>
@@ -3836,9 +3909,24 @@ source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
 <td>2 310</td>
 </tr>
 <tr>
+<td></td>
+<td>на доплату за квалификацию педагогического мастерства учителям, прошедшим национальный квалификационный тест и реализующим образовательные программы начального, основного и общего среднего образования</td>
+<td>31 440</td>
+</tr>
+<tr>
+<td></td>
+<td>на доплату учителям организаций образования, реализующим учебные программы начального, основного и общего среднего образования по обновленному содержанию образования, и возмещение сумм, выплаченных по данному направлению расходов за счет средств местных бюджетов</td>
+<td>338 763</td>
+</tr>
+<tr>
+<td></td>
+<td>финансирование приоритетных проектов транспортной инфраструктуры</td>
+<td>702 899</td>
+</tr>
+<tr>
 <td>2.2.</td>
 <td>Целевые трансферты на развитие из республиканского бюджета:</td>
-<td>2 235 576</td>
+<td>3 186 806</td>
 </tr>
 <tr>
 <td></td>
@@ -3846,19 +3934,24 @@ source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
 <td>280 806</td>
 </tr>
 <tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
 <td></td>
 <td>- на строительство и реконструкцию объектов начального, основного среднего и общего образования</td>
-<td>50 000</td>
+<td>600 000</td>
 </tr>
 <tr>
 <td></td>
 <td>- на проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>619 761</td>
+<td>1 046 186</td>
 </tr>
 <tr>
 <td></td>
 <td>- на развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>1 285 009</td>
+<td>1 259 814</td>
 </tr>
 </table>
 
@@ -3870,17 +3963,13 @@ source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
 
 ## Распределение сумм бюджетных кредитов по администраторам бюджетных программ на 2018 год
 
+> *Сноска. Приложение 8 - в редакции решения маслихата города Экибастуза Павлодарской области от 07.06.2018 № 260/31 (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td rowspan="4">№ п/п</td>
 <td rowspan="4">Наименование администраторов бюджетных программ/назначение бюджетных кредитов</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
 </tr>
 <tr>
 <th>1</th>
@@ -3890,7 +3979,7 @@ source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
 <tr>
 <td></td>
 <td>Всего:</td>
-<td>14 430</td>
+<td>778 430</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3900,6 +3989,16 @@ source: https://zan.gov.kz/client/#!/doc/117139/rus/05.04.2018
 <tr>
 <td></td>
 <td>для реализации мер социальной поддержки специалистов</td>
-<td>14 430</td>
+<td colspan="6">14 430</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td colspan="6">764 000</td>
+</tr>
+<tr>
+<td></td>
+<td>на реконструкцию и строительство систем тепло-, водоснабжения и водоотведения</td>
+<td colspan="6">764 000</td>
 </tr>
 </table>
