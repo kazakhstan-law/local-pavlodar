@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117260/kaz/24.08.2018
+source: https://zan.gov.kz/client/#!/doc/117260/kaz/25.10.2018
 ---
 
 > *Шарбақты аудандық мәслихатының*  
