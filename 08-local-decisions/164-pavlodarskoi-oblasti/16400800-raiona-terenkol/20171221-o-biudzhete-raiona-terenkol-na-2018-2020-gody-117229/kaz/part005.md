@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117229/kaz/07.11.2018
+source: https://zan.gov.kz/client/#!/doc/117229/kaz/06.12.2018
 ---
 
 > *Тереңкөл аудандық мәслихатының*  
