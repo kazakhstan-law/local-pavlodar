@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127815/kaz/02.05.2019
+source: https://zan.gov.kz/client/#!/doc/127815/kaz/15.08.2019
 ---
 
 > *Павлодар қалалық мәслихатының*  
