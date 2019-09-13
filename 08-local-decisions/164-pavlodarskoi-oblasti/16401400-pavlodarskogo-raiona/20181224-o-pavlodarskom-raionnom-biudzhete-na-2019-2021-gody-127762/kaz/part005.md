@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127762/kaz/28.06.2019
+source: https://zan.gov.kz/client/#!/doc/127762/kaz/13.09.2019
 ---
 
 > *Павлодар аудандық мәслихатының*  
