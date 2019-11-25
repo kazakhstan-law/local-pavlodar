@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127808/kaz/16.08.2019
+source: https://zan.gov.kz/client/#!/doc/127808/kaz/25.11.2019
 ---
 
 > *Ақтоғай аудандық мәслихаттың*  
