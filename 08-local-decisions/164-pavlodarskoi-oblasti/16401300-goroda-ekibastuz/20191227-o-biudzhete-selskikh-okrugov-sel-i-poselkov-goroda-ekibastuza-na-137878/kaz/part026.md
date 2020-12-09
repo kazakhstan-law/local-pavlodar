@@ -1,7 +1,437 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
+source: https://zan.gov.kz/client/#!/doc/137878/kaz/09.12.2020
 ---
+
+> *Екібастұз қалалық мәслихатының*  
+> *2019 жылғы 27 желтоқсандағы*  
+> *№ 410/51 шешіміне 26-қосымша*
+
+## 2021 жылға арналған Екібастұз ауылдық округінің бюджеті
+
+<table>
+<tr>
+<td colspan="4">Санаты</td>
+<td colspan="2"></td>
+<td></td>
+<td rowspan="4">Сомасы (мың тенге)</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5">Сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="5">Кіші сыныбы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Атауы</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th colspan="4">4</th>
+<th>5</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">1. Кірістер</td>
+<td>35 785</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="4">Салықтық түсімдер</td>
+<td>707</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td colspan="4">Табыс салығы</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td colspan="4">Жеке табыс салығы</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td colspan="4">Меншiкке салынатын салықтар</td>
+<td>707</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="4">Мүлікке салынатын салықтар</td>
+<td>64</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="4">Жер салығы</td>
+<td>61</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td colspan="4">Көлiк құралдарына салынатын салық</td>
+<td>582</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="4">Салықтық емес түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="4">Негізгі капиталды сатудан түсетін түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td colspan="4">Трансферттердің түсімдері</td>
+<td>35 078</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td colspan="4">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
+<td>35 078</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td>35 078</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="7">Функционалдық топ</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="6">Кіші функция</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="5">Бюджеттiк бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Атауы</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">2. Шығындар</td>
+<td>35 785</td>
+</tr>
+<tr>
+<td>01</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>21 375</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>21 375</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td colspan="2"></td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>21 375</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">001</td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>21 375</td>
+</tr>
+<tr>
+<td>04</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Бiлiм беру</td>
+<td>1 626</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Бастауыш, негізгі орта және жалпы орта білім беру</td>
+<td>1 626</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td colspan="2"></td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>1 626</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">005</td>
+<td colspan="2">Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып қайтуды ұйымдастыру</td>
+<td>1 626</td>
+</tr>
+<tr>
+<td>06</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
+<td>473</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Әлеуметтiк көмек</td>
+<td>473</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td colspan="2"></td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>473</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">003</td>
+<td colspan="2">Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
+<td>473</td>
+</tr>
+<tr>
+<td>07</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
+<td>9 283</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Коммуналдық шаруашылық</td>
+<td>5 623</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td colspan="2"></td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>5 623</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">014</td>
+<td colspan="2">Елдi мекендердi сумен жабдықтауды ұйымдастыру</td>
+<td>5 623</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Елді-мекендерді көркейту</td>
+<td>3 660</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td colspan="2"></td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>3 660</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">008</td>
+<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
+<td>3 660</td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Көлiк және коммуникация</td>
+<td>3 028</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Автомобиль көлiгi</td>
+<td>3 028</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td colspan="2"></td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>3 028</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">013</td>
+<td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>3 028</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">3. Таза бюджеттік кредиттеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджеттік кредиттер</td>
+<td>0</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">4. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td>0</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Қаржы активтерiн сатып алу</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">5. Бюджет тапшылығы (профициті)</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>0</td>
+</tr>
+</table>
 
 > *Екібастұз қалалық мәслихатының*  
 > *2019 жылғы 27 желтоқсандағы*  
@@ -440,7 +870,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 
 ## 2020 жылға арналған академик Әлкей Марғұлан атындағы ауылының бюджеті (өзгерістермен)
 
-> *Ескерту. 28 - қосымша жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 06.08.2020 № 433/55 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 28-қосымша жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 06.08.2020 № 433/55 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 09.12.2020 № 480/62 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -466,46 +896,46 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="7">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="7">4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="7">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">1. Кірістер</td>
-<td colspan="2">29 412</td>
+<td colspan="2">30 621</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">Салықтық түсімдер</td>
-<td colspan="2">503</td>
+<td colspan="2">706</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="7">Табыс салығы</td>
-<td colspan="2">0</td>
+<td colspan="2">9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="7">Жеке табыс салығы</td>
-<td colspan="2">0</td>
+<td colspan="2">9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="7">Меншiкке салынатын салықтар</td>
-<td colspan="2">503</td>
+<td colspan="2">697</td>
 </tr>
 <tr>
 <td></td>
@@ -519,21 +949,35 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="7">Жер салығы</td>
-<td colspan="2">78</td>
+<td colspan="2">259</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="7">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">385</td>
+<td colspan="2">398</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">Салықтық емес түсімдер</td>
-<td colspan="2">1 380</td>
+<td colspan="2">1 386</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="7">Мемлекеттік меншiктен түсетiн кірістер</td>
+<td colspan="2">6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="7">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td></td>
@@ -561,21 +1005,21 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">Трансферттердің түсімдері</td>
-<td colspan="2">27 529</td>
+<td colspan="2">28 529</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="7">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">27 529</td>
+<td colspan="2">28 529</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="7">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">27 529</td>
+<td colspan="2">28 529</td>
 </tr>
 </table>
 
@@ -607,12 +1051,12 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="4">4</th>
-<th colspan="3">5</th>
-<th colspan="2">6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="4">4</td>
+<td colspan="3">5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td></td>
@@ -620,7 +1064,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">2. Шығындар</td>
-<td colspan="2">29 412</td>
+<td colspan="2">30 621</td>
 </tr>
 <tr>
 <td>01</td>
@@ -628,7 +1072,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">24 577</td>
+<td colspan="2">24 728</td>
 </tr>
 <tr>
 <td></td>
@@ -636,7 +1080,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">24 577</td>
+<td colspan="2">24 728</td>
 </tr>
 <tr>
 <td></td>
@@ -644,7 +1088,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2">124</td>
 <td colspan="4"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">24 577</td>
+<td colspan="2">24 728</td>
 </tr>
 <tr>
 <td></td>
@@ -652,7 +1096,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">24 577</td>
+<td colspan="2">24 728</td>
 </tr>
 <tr>
 <td>05</td>
@@ -660,7 +1104,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Денсаулық сақтау</td>
-<td colspan="2">685</td>
+<td colspan="2">532</td>
 </tr>
 <tr>
 <td></td>
@@ -668,7 +1112,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Денсаулық сақтау саласындағы өзге де қызметтер</td>
-<td colspan="2">685</td>
+<td colspan="2">532</td>
 </tr>
 <tr>
 <td></td>
@@ -676,7 +1120,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2">124</td>
 <td colspan="4"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">685</td>
+<td colspan="2">532</td>
 </tr>
 <tr>
 <td></td>
@@ -684,7 +1128,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4">002</td>
 <td colspan="3">Шұғыл жағдайларда науқасы ауыр адамдарды дәрігерлік көмек көрсететін жақын жердегі денсаулық сақтау ұйымына жеткізуді ұйымдастыру</td>
-<td colspan="2">685</td>
+<td colspan="2">532</td>
 </tr>
 <tr>
 <td>06</td>
@@ -692,7 +1136,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td colspan="2">683</td>
+<td colspan="2">685</td>
 </tr>
 <tr>
 <td></td>
@@ -700,7 +1144,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Әлеуметтiк көмек</td>
-<td colspan="2">683</td>
+<td colspan="2">685</td>
 </tr>
 <tr>
 <td></td>
@@ -708,7 +1152,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2">124</td>
 <td colspan="4"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">683</td>
+<td colspan="2">685</td>
 </tr>
 <tr>
 <td></td>
@@ -716,7 +1160,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4">003</td>
 <td colspan="3">Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
-<td colspan="2">683</td>
+<td colspan="2">685</td>
 </tr>
 <tr>
 <td>07</td>
@@ -724,7 +1168,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">2 438</td>
+<td colspan="2">2 647</td>
 </tr>
 <tr>
 <td></td>
@@ -756,7 +1200,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Елді-мекендерді көркейту</td>
-<td colspan="2">1 802</td>
+<td colspan="2">2 011</td>
 </tr>
 <tr>
 <td></td>
@@ -764,7 +1208,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2">124</td>
 <td colspan="4"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">1 802</td>
+<td colspan="2">2 011</td>
 </tr>
 <tr>
 <td></td>
@@ -780,7 +1224,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4">011</td>
 <td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">250</td>
+<td colspan="2">459</td>
 </tr>
 <tr>
 <td>12</td>
@@ -788,7 +1232,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Көлiк және коммуникация</td>
-<td colspan="2">1 029</td>
+<td colspan="2">2 029</td>
 </tr>
 <tr>
 <td></td>
@@ -796,7 +1240,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Автомобиль көлiгi</td>
-<td colspan="2">1 029</td>
+<td colspan="2">2 029</td>
 </tr>
 <tr>
 <td></td>
@@ -804,7 +1248,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2">124</td>
 <td colspan="4"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">1 029</td>
+<td colspan="2">2 029</td>
 </tr>
 <tr>
 <td></td>
@@ -813,6 +1257,22 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="4">013</td>
 <td colspan="3">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td colspan="2">1 029</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4">045</td>
+<td colspan="3">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
+<td colspan="2">1 000</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="4">4</td>
+<td colspan="3">5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td></td>
@@ -829,14 +1289,6 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="4"></td>
 <td colspan="3">Бюджеттік кредиттер</td>
 <td colspan="2">0</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="4">4</th>
-<th colspan="3">5</th>
-<th colspan="2">6</th>
 </tr>
 <tr>
 <td>5</td>
@@ -1755,7 +2207,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 
 ## 2020 жылға арналған Шиқылдақ ауылының бюджеті (өзгерістермен)
 
-> *Ескерту. 31 - қосымша жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 06.08.2020 № 433/55 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 31-қосымша жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 06.08.2020 № 433/55 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 09.12.2020 № 480/62 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1781,46 +2233,46 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="7">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="7">4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="7">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">1. Кірістер</td>
-<td colspan="2">32 077</td>
+<td colspan="2">32 382</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">Салықтық түсімдер</td>
-<td colspan="2">137</td>
+<td colspan="2">442</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="7">Табыс салығы</td>
-<td colspan="2">0</td>
+<td colspan="2">10</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="7">Жеке табыс салығы</td>
-<td colspan="2">0</td>
+<td colspan="2">10</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="7">Меншiкке салынатын салықтар</td>
-<td colspan="2">137</td>
+<td colspan="2">432</td>
 </tr>
 <tr>
 <td></td>
@@ -1834,14 +2286,14 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="7">Жер салығы</td>
-<td colspan="2">60</td>
+<td colspan="2">177</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="7">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">47</td>
+<td colspan="2">225</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1922,12 +2374,12 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="4">4</th>
-<th colspan="3">5</th>
-<th colspan="2">6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="4">4</td>
+<td colspan="3">5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td></td>
@@ -1935,7 +2387,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">2. Шығындар</td>
-<td colspan="2">32 077</td>
+<td colspan="2">32 382</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1943,7 +2395,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">28 992</td>
+<td colspan="2">29 297</td>
 </tr>
 <tr>
 <td></td>
@@ -1951,7 +2403,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">28 992</td>
+<td colspan="2">29 297</td>
 </tr>
 <tr>
 <td></td>
@@ -1959,7 +2411,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2">124</td>
 <td colspan="4"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">28 992</td>
+<td colspan="2">29 297</td>
 </tr>
 <tr>
 <td></td>
@@ -1967,7 +2419,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td colspan="2"></td>
 <td colspan="4">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">28 992</td>
+<td colspan="2">29 297</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2854,7 +3306,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 
 ## 2020 жылға арналған жоғары тұрған бюджеттерден бөлінген, нысаналы трансферттер
 
-> *Ескерту. 35 - қосымша жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 06.08.2020 № 433/55 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 35-қосымша жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 06.08.2020 № 433/55 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 09.12.2020 № 480/62 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -2869,14 +3321,14 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 </td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td>Нысаналы трансферттер барлығы:</td>
-<td>283 575</td>
+<td>281 826</td>
 </tr>
 <tr>
 <td></td>
@@ -2886,7 +3338,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <tr>
 <td>1</td>
 <td>Нысаналы ағымдағы трансферттер</td>
-<td>283 575</td>
+<td>281 826</td>
 </tr>
 <tr>
 <td>1.1</td>
@@ -2919,7 +3371,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <tr>
 <td>1.2</td>
 <td>Шідерті поселкесі бюджетіне, соның ішінде:</td>
-<td>140 812</td>
+<td>131 650</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -2952,27 +3404,27 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <tr>
 <td></td>
 <td>ауылдық елді мекендерді сумен жабдықтауды қамтамасыз ету</td>
-<td>2 000</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td></td>
-<td>2020-2021 жылдарға арналған Жұмыспен қамту жол картасы шеңберінде инфрақұрылымды және тұрғын үй-коммуналдық шаруашылықты дамыту есебінен жұмыспен қамтуды қамтамасыз</td>
-<td>111 622</td>
+<td>2020-2021 жылдарға арналған Жұмыспен қамту жол картасы шеңберінде инфрақұрылымды және тұрғын үй-коммуналдық</td>
+<td>100 460</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
-<td>етуге</td>
+<td>шаруашылықты дамыту есебінен жұмыспен қамтуды қамтамасыз етуге</td>
 <td></td>
 </tr>
 <tr>
 <td>1.3</td>
-<td>Ақкөл ауылдық округі бюджетіне, соның ішінде:</td>
-<td>28 362</td>
+<td>Ақкөлауылдық округі бюджетіне, соның ішінде:</td>
+<td>29 662</td>
 </tr>
 <tr>
 <td></td>
@@ -2980,7 +3432,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 аудандық маңызы бар автомобиль жолдарына және елді мекендердің
 көшелеріне күрделі, орташа және ағымдағы жөндеу жүргізуге
 </td>
-<td>19 230</td>
+<td>20 530</td>
 </tr>
 <tr>
 <td></td>
@@ -2990,12 +3442,12 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <tr>
 <td>1.4</td>
 <td>Теміржол ауылдық округі бюджетіне, соның ішінде:</td>
-<td>13 870</td>
+<td>14 890</td>
 </tr>
 <tr>
 <td></td>
 <td>ауылдық елді мекендерді сумен жабдықтауды қамтамасыз ету</td>
-<td>4 901</td>
+<td>5 921</td>
 </tr>
 <tr>
 <td></td>
@@ -3005,7 +3457,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <tr>
 <td>1.5</td>
 <td>Екібастұз ауылдық округі бюджетіне, соның ішінде:</td>
-<td>22 673</td>
+<td>24 363</td>
 </tr>
 <tr>
 <td></td>
@@ -3023,6 +3475,11 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td>754</td>
 </tr>
 <tr>
+<td></td>
+<td>жылжымайтын мүлік объектілеріне техникалық паспорттар дайындауға</td>
+<td>1 690</td>
+</tr>
+<tr>
 <td>1.6</td>
 <td>Бәйет ауылдық округі бюджетіне</td>
 <td>8 477</td>
@@ -3034,8 +3491,8 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 </tr>
 <tr>
 <td>1.7</td>
-<td>Қоянды ауылдық округі бюджетіне</td>
-<td>7 858</td>
+<td>Қоянды ауылдық округі бюджетіне, соның ішінде:</td>
+<td>10 261</td>
 </tr>
 <tr>
 <td></td>
@@ -3043,8 +3500,28 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 <td>7 858</td>
 </tr>
 <tr>
+<td></td>
+<td>Қоянды ауылының көшелерін жарықтандыруға</td>
+<td>1 377</td>
+</tr>
+<tr>
+<td></td>
+<td>көше-жол желісін ұстауға</td>
+<td>650</td>
+</tr>
+<tr>
+<td></td>
+<td>қызметтік автокөлікке ағымдағы жөндеу жүргізуге</td>
+<td>250</td>
+</tr>
+<tr>
+<td></td>
+<td>бұқаралық ақпарат құралдарында ақпарат жариялауға</td>
+<td>126</td>
+</tr>
+<tr>
 <td>1.8</td>
-<td>Сарықамыс ауылдық округі бюджетіне</td>
+<td>Сарықамысауылдық округі бюджетіне</td>
 <td>6 897</td>
 </tr>
 <tr>
@@ -3069,13 +3546,21 @@ source: https://zan.gov.kz/client/#!/doc/137878/kaz/06.08.2020
 </tr>
 <tr>
 <td>1.10</td>
-<td>Академик Әлкей Марғұлан атындағы ауылы бюджетіне</td>
-<td>5 375</td>
+<td>Академик Әлкей Марғұлан атындағыауылы бюджетіне, соның ішінде:</td>
+<td>6 375</td>
 </tr>
 <tr>
 <td></td>
 <td>факторлық-балдық шкала бойынша мемлекеттік әкімшілік қызметшілерге еңбекақы төлеуге</td>
 <td>5 375</td>
+</tr>
+<tr>
+<td></td>
+<td>
+аудандық маңызы бар автомобиль жолдарын және елді мекендердің
+көшелерін күрделі, орташа және ағымдағы жөндеу жүргізуге
+</td>
+<td>1 000</td>
 </tr>
 <tr>
 <td>1.11</td>

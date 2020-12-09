@@ -1,25 +1,19 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
+source: https://zan.gov.kz/client/#!/doc/137878/rus/09.12.2020
 ---
 
 > *Приложение 25*  
 > *к решению Экибастузского*  
 > *городского маслихата*  
-> *от 27 декабря 2019 года № 410/51*
+> *от 27 декабря 2019 года*  
+> *№ 410/51*
+
+## Бюджет Экибастузского сельского округа на 2020 год (с изменениями)
+
+> *Сноска. Приложение 25 в редакции решения Экибастузского городского маслихата Павлодарской области от 06.08.2020 № 433/55 (вводится в действие с 01.01.2020); в редакции решения Экибастузского городского маслихата Павлодарской области от 09.12.2020 № 480/62 (вводится в действие с 01.01.2020).*
 
 <table>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4">
-<strong>Бюджет Экибастузского сельского округа на 2020 год (с изменениями)</strong>
-Сноска. Приложение 25 - в редакции решения Экибастузского городского маслихата Павлодарской области от 06.08.2020 № 433/55 (вводится в действие с 01.01.2020).
-</td>
-<td></td>
-</tr>
 <tr>
 <td colspan="7">Категория</td>
 <td colspan="3"></td>
@@ -49,35 +43,35 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">1. Доходы</td>
-<td colspan="3">58 045</td>
+<td colspan="3">60 833</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Налоговые поступления</td>
-<td colspan="3">125</td>
+<td colspan="3">1 208</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="5">Подоходный налог</td>
-<td colspan="3">0</td>
+<td colspan="3">338</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="5">Индивидуальный подоходный налог</td>
-<td colspan="3">0</td>
+<td colspan="3">338</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="5">Налоги на собственность</td>
-<td colspan="3">125</td>
+<td colspan="3">870</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -91,21 +85,35 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="5">Земельный налог</td>
-<td colspan="3">61</td>
+<td colspan="3">93</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="5">Налог на транспортные средства</td>
-<td colspan="3">0</td>
+<td colspan="3">713</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Неналоговые поступления</td>
-<td colspan="3">0</td>
+<td colspan="3">15</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td colspan="5">Доходы от государственной собственности</td>
+<td colspan="3">15</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">5</td>
+<td colspan="5">Доходы от аренды имущества, находящегося в государственной собственности</td>
+<td colspan="3">15</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
@@ -119,21 +127,21 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td colspan="3">57 920</td>
+<td colspan="3">59 610</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="3">57 920</td>
+<td colspan="3">59 610</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="3">57 920</td>
+<td colspan="3">59 610</td>
 </tr>
 </table>
 
@@ -178,7 +186,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>2. Затраты</td>
-<td colspan="3">58 045</td>
+<td colspan="3">60 833</td>
 </tr>
 <tr>
 <td>01</td>
@@ -186,7 +194,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="3">29 276</td>
+<td colspan="3">31 484</td>
 </tr>
 <tr>
 <td></td>
@@ -194,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="3">29 276</td>
+<td colspan="3">31 484</td>
 </tr>
 <tr>
 <td></td>
@@ -202,7 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">29 276</td>
+<td colspan="3">31 484</td>
 </tr>
 <tr>
 <td></td>
@@ -210,7 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">29 276</td>
+<td colspan="3">31 484</td>
 </tr>
 <tr>
 <td>04</td>
@@ -218,7 +226,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Образование</td>
-<td colspan="3">1 585</td>
+<td colspan="3">2 165</td>
 </tr>
 <tr>
 <td></td>
@@ -226,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td colspan="3">1 585</td>
+<td colspan="3">2 165</td>
 </tr>
 <tr>
 <td></td>
@@ -234,7 +242,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">1 585</td>
+<td colspan="3">2 165</td>
 </tr>
 <tr>
 <td></td>
@@ -242,7 +250,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3">005</td>
 <td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
-<td colspan="3">1 585</td>
+<td colspan="3">2 165</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1293,11 +1301,12 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 > *Приложение 28*  
 > *к решению Экибастузского*  
 > *городского маслихата*  
-> *от 27 декабря 2019 года № 410/51*
+> *от 27 декабря 2019 года*  
+> *№ 410/51*
 
 ## Бюджет села имени академика Алькея Маргулана на 2020 год (с изменениями)
 
-> *Сноска. Приложение 28 - в редакции решения Экибастузского городского маслихата Павлодарской области от 06.08.2020 № 433/55 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 28 в редакции решения Экибастузского городского маслихата Павлодарской области от 06.08.2020 № 433/55 (вводится в действие с 01.01.2020); в редакции решения Экибастузского городского маслихата Павлодарской области от 09.12.2020 № 480/62 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -1329,35 +1338,35 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">1. Доходы</td>
-<td colspan="3">29 412</td>
+<td colspan="3">30 621</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Налоговые поступления</td>
-<td colspan="3">503</td>
+<td colspan="3">706</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="5">Подоходный налог</td>
-<td colspan="3">0</td>
+<td colspan="3">9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="5">Индивидуальный подоходный налог</td>
-<td colspan="3">0</td>
+<td colspan="3">9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="5">Налоги на собственность</td>
-<td colspan="3">503</td>
+<td colspan="3">697</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1371,21 +1380,35 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="5">Земельный налог</td>
-<td colspan="3">78</td>
+<td colspan="3">259</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="5">Налог на транспортные средства</td>
-<td colspan="3">385</td>
+<td colspan="3">398</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Неналоговые поступления</td>
-<td colspan="3">1 380</td>
+<td colspan="3">1 386</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td colspan="5">Доходы от государственной собственности</td>
+<td colspan="3">6</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">5</td>
+<td colspan="5">Доходы от аренды имущества, находящегося в государственной собственности</td>
+<td colspan="3">6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1413,21 +1436,21 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td colspan="3">27 529</td>
+<td colspan="3">28 529</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="3">27 529</td>
+<td colspan="3">28 529</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="3">27 529</td>
+<td colspan="3">28 529</td>
 </tr>
 </table>
 
@@ -1472,7 +1495,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>2. Затраты</td>
-<td colspan="3">29 412</td>
+<td colspan="3">30 621</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1480,7 +1503,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="3">24 577</td>
+<td colspan="3">24 728</td>
 </tr>
 <tr>
 <td></td>
@@ -1488,7 +1511,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="3">24 577</td>
+<td colspan="3">24 728</td>
 </tr>
 <tr>
 <td></td>
@@ -1496,7 +1519,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">24 577</td>
+<td colspan="3">24 728</td>
 </tr>
 <tr>
 <td></td>
@@ -1504,7 +1527,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">24 577</td>
+<td colspan="3">24 728</td>
 </tr>
 <tr>
 <td>05</td>
@@ -1512,7 +1535,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Здравоохранение</td>
-<td colspan="3">685</td>
+<td colspan="3">532</td>
 </tr>
 <tr>
 <td></td>
@@ -1520,7 +1543,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Прочие услуги в области здравоохранения</td>
-<td colspan="3">685</td>
+<td colspan="3">532</td>
 </tr>
 <tr>
 <td></td>
@@ -1528,7 +1551,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">685</td>
+<td colspan="3">532</td>
 </tr>
 <tr>
 <td></td>
@@ -1536,7 +1559,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3">002</td>
 <td>Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
-<td colspan="3">685</td>
+<td colspan="3">532</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1544,7 +1567,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td colspan="3">683</td>
+<td colspan="3">685</td>
 </tr>
 <tr>
 <td></td>
@@ -1552,7 +1575,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Социальная помощь</td>
-<td colspan="3">683</td>
+<td colspan="3">685</td>
 </tr>
 <tr>
 <td></td>
@@ -1560,7 +1583,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">683</td>
+<td colspan="3">685</td>
 </tr>
 <tr>
 <td></td>
@@ -1568,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3">003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td colspan="3">683</td>
+<td colspan="3">685</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1576,7 +1599,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="3">2 438</td>
+<td colspan="3">2 647</td>
 </tr>
 <tr>
 <td></td>
@@ -1608,7 +1631,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="3">1 802</td>
+<td colspan="3">2 011</td>
 </tr>
 <tr>
 <td></td>
@@ -1616,7 +1639,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">1 802</td>
+<td colspan="3">2 011</td>
 </tr>
 <tr>
 <td></td>
@@ -1632,7 +1655,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="3">250</td>
+<td colspan="3">459</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1640,7 +1663,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Транспорт и коммуникации</td>
-<td colspan="3">1 029</td>
+<td colspan="3">2 029</td>
 </tr>
 <tr>
 <td></td>
@@ -1648,7 +1671,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Автомобильный транспорт</td>
-<td colspan="3">1 029</td>
+<td colspan="3">2 029</td>
 </tr>
 <tr>
 <td></td>
@@ -1656,7 +1679,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">1 029</td>
+<td colspan="3">2 029</td>
 </tr>
 <tr>
 <td></td>
@@ -1673,6 +1696,17 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <th colspan="3">4</th>
 <th>5</th>
 <th colspan="3">6</th>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3">045</td>
+<td>
+Капитальный и средний ремонт автомобильных
+дорог в городах районного значения, селах, поселках, сельских округах
+</td>
+<td colspan="3">1 000</td>
 </tr>
 <tr>
 <td></td>
@@ -2595,11 +2629,12 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 > *Приложение 31*  
 > *к решению Экибастузского*  
 > *городского маслихата*  
-> *от 27 декабря 2019 года № 410/51*
+> *от 27 декабря 2019 года*  
+> *№ 410/51*
 
 ## Бюджет села Шикылдак на 2020 год (с изменениями)
 
-> *Сноска. Приложение 31 - в редакции решения Экибастузского городского маслихата Павлодарской области от 06.08.2020 № 433/55 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 31 в редакции решения Экибастузского городского маслихата Павлодарской области от 06.08.2020 № 433/55 (вводится в действие с 01.01.2020); в редакции решения Экибастузского городского маслихата Павлодарской области от 09.12.2020 № 480/62 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -2631,35 +2666,35 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">1. Доходы</td>
-<td colspan="3">32 077</td>
+<td colspan="3">32 382</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Налоговые поступления</td>
-<td colspan="3">137</td>
+<td colspan="3">442</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="5">Подоходный налог</td>
-<td colspan="3">0</td>
+<td colspan="3">10</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="5">Индивидуальный подоходный налог</td>
-<td colspan="3">0</td>
+<td colspan="3">10</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="5">Налоги на собственность</td>
-<td colspan="3">137</td>
+<td colspan="3">432</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2673,14 +2708,14 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="5">Земельный налог</td>
-<td colspan="3">60</td>
+<td colspan="3">177</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="5">Налог на транспортные средства</td>
-<td colspan="3">47</td>
+<td colspan="3">225</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
@@ -2731,9 +2766,6 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
 <td colspan="3">31 385</td>
 </tr>
-<tr>
-<td colspan="2"></td>
-</tr>
 </table>
 
 <table>
@@ -2777,7 +2809,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>2. Затраты</td>
-<td colspan="3">32 077</td>
+<td colspan="3">32 382</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2785,7 +2817,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="3">28 992</td>
+<td colspan="3">29 297</td>
 </tr>
 <tr>
 <td></td>
@@ -2793,7 +2825,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="3">28 992</td>
+<td colspan="3">29 297</td>
 </tr>
 <tr>
 <td></td>
@@ -2801,7 +2833,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">28 992</td>
+<td colspan="3">29 297</td>
 </tr>
 <tr>
 <td></td>
@@ -2809,7 +2841,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td colspan="4"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="3">28 992</td>
+<td colspan="3">29 297</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3685,11 +3717,12 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 > *Приложение 35*  
 > *к решению Экибастузского*  
 > *городского маслихата*  
-> *от 27 декабря 2019 года № 410/51*
+> *от 27 декабря 2019 года*  
+> *№ 410/51*
 
 ## Целевые трансферты, выделенные из вышестоящих бюджетов на 2020 год
 
-> *Сноска. Приложение 35 - в редакции решения Экибастузского городского маслихата Павлодарской области от 06.08.2020 № 433/55 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 35 в редакции решения Экибастузского городского маслихата Павлодарской области от 06.08.2020 № 433/55 (вводится в действие с 01.01.2020); в редакции решения Экибастузского городского маслихата Павлодарской области от 09.12.2020 № 480/62 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -3708,7 +3741,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <tr>
 <td></td>
 <td>Всего целевых трансфертов:</td>
-<td>283 575</td>
+<td>281 826</td>
 </tr>
 <tr>
 <td></td>
@@ -3718,7 +3751,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <tr>
 <td>1</td>
 <td>Целевые текущие трансферты</td>
-<td>283 575</td>
+<td>281 826</td>
 </tr>
 <tr>
 <td>1.1</td>
@@ -3751,7 +3784,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <tr>
 <td>1.2</td>
 <td>Бюджету поселка Шидерты, в том числе:</td>
-<td>140 812</td>
+<td>131 650</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -3784,15 +3817,20 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <tr>
 <td></td>
 <td>на обеспечение водоснабжением сельских населенных пунктов</td>
-<td>2 000</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td></td>
 <td>
 на обеспечение занятости за счет развития инфраструктуры
-и жилищно-коммунального хозяйства в рамках Дорожной
+и жилищно-коммунального хозяйства в рамках Дорожной карты занятости на 2020-2021 годы
 </td>
-<td>111 622</td>
+<td>100 460</td>
+</tr>
+<tr>
+<td></td>
+<td>Бюджету Аккольскому сельскому округу, в том числе:</td>
+<td>29 662</td>
 </tr>
 <tr>
 <th>1</th>
@@ -3801,18 +3839,8 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 </tr>
 <tr>
 <td></td>
-<td>карты занятости на 2020-2021 годы</td>
-<td></td>
-</tr>
-<tr>
-<td>1.3</td>
-<td>Бюджету Аккольскому сельскому округу, в том числе:</td>
-<td>28 362</td>
-</tr>
-<tr>
-<td></td>
 <td>на проведение капитального, среднего и текущего ремонтов автомобильных дорог районного значения и улиц населенных пунктов</td>
-<td>19 230</td>
+<td>20 530</td>
 </tr>
 <tr>
 <td></td>
@@ -3822,12 +3850,12 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <tr>
 <td>1.4</td>
 <td>Бюджету Железнодорожному сельскому округу, в том числе:</td>
-<td>13 870</td>
+<td>14 890</td>
 </tr>
 <tr>
 <td></td>
 <td>обеспечение водоснабжением сельских населенных пунктов</td>
-<td>4 901</td>
+<td>5 921</td>
 </tr>
 <tr>
 <td></td>
@@ -3837,7 +3865,7 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <tr>
 <td>1.5</td>
 <td>Бюджету Экибастузскому сельскому округу, в том числе:</td>
-<td>22 673</td>
+<td>24 363</td>
 </tr>
 <tr>
 <td></td>
@@ -3855,6 +3883,11 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 <td>754</td>
 </tr>
 <tr>
+<td></td>
+<td>на изготовление технических паспортов на объекты недвижимости</td>
+<td>1 690</td>
+</tr>
+<tr>
 <td>1.6</td>
 <td>Бюджету Байетскому сельскому округу</td>
 <td>8 477</td>
@@ -3866,13 +3899,33 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 </tr>
 <tr>
 <td>1.7</td>
-<td>Бюджету Кояндинскому сельскому округу</td>
-<td>7 858</td>
+<td>Бюджету Қояндинскому сельскому округу, в том числе:</td>
+<td>10 261</td>
 </tr>
 <tr>
 <td></td>
 <td>на оплату труда административных государственных служащих по факторно-балльной шкале</td>
 <td>7 858</td>
+</tr>
+<tr>
+<td></td>
+<td>на освещение улиц села Коянды</td>
+<td>1 377</td>
+</tr>
+<tr>
+<td></td>
+<td>на содержание улично-дорожной сети</td>
+<td>650</td>
+</tr>
+<tr>
+<td></td>
+<td>на проведение текущего ремонта служебного автотранспорта</td>
+<td>250</td>
+</tr>
+<tr>
+<td></td>
+<td>на публикацию информации в средствах массовой информации</td>
+<td>126</td>
 </tr>
 <tr>
 <td>1.8</td>
@@ -3901,13 +3954,18 @@ source: https://zan.gov.kz/client/#!/doc/137878/rus/06.08.2020
 </tr>
 <tr>
 <td>1.10</td>
-<td>Бюджету села имени академика Алькея Маргулана</td>
-<td>5 375</td>
+<td>Бюджету села имени академика Алькея Маргулана, в том числе:</td>
+<td>6 375</td>
 </tr>
 <tr>
 <td></td>
 <td>на оплату труда административных государственных служащих по факторно-балльной шкале</td>
 <td>5 375</td>
+</tr>
+<tr>
+<td></td>
+<td>на проведение капитального, среднего и текущего ремонта автомобильных дорог районного значения и улиц населенных пунктов</td>
+<td>1 000</td>
 </tr>
 <tr>
 <td>1.11</td>
