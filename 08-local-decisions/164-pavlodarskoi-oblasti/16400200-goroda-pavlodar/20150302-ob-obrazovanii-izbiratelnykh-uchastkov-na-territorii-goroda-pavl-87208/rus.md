@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87208/rus/02.11.2020
+source: https://zan.gov.kz/client/#!/doc/87208/rus/02.07.2021
 ---
 
 # Об образовании избирательных участков на территории города Павлодара

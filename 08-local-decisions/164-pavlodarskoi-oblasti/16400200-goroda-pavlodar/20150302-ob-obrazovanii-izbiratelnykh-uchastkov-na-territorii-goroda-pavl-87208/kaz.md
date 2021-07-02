@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87208/kaz/02.11.2020
+source: https://zan.gov.kz/client/#!/doc/87208/kaz/02.07.2021
 ---
 
 # Павлодар қаласының аумағында сайлау учаскелерін құру туралы
