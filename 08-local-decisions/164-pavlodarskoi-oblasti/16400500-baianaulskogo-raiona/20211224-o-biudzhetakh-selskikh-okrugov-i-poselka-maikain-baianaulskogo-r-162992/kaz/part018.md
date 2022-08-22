@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/162992/kaz/31.05.2022
+source: https://zan.gov.kz/client/#!/doc/162992/kaz/22.08.2022
 ---
 
 > *Баянауыл аудандық*  
