@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
+source: https://zan.gov.kz/client/#!/doc/162469/rus/28.09.2022
 ---
 
 > *Приложение 1*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 
 ## Бюджет поселка Ленинский на 2022 год (с изменениями)
 
-> *Сноска. Приложение 1 в редакции решения Павлодарского городского маслихата Павлодарской области от 26.05.2022 № 138/19 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решений Павлодарского городского маслихата Павлодарской области от 26.05.2022 № 138/19 (вводится в действие с 01.01.2022); от 28.09.2022 № 170/23 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -40,35 +40,35 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Доходы</td>
-<td>556 349</td>
+<td>562922</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Налоговые поступления</td>
-<td>27005</td>
+<td>25705</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="3"></td>
 <td colspan="3">Подоходный налог</td>
-<td>2615</td>
+<td>2915</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td>2615</td>
+<td>2915</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="3"></td>
 <td colspan="3">Hалоги на собственность</td>
-<td>21831</td>
+<td>21531</td>
 </tr>
 <tr>
 <td></td>
@@ -89,28 +89,28 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="2"></td>
 <td colspan="3">4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td>18856</td>
+<td>18556</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">05</td>
 <td colspan="3"></td>
 <td colspan="3">Внутренние налоги на товары, работы и услуги</td>
-<td>2559</td>
+<td>1259</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Поступления за использование природных и других ресурсов</td>
-<td>2559</td>
+<td>1259</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Неналоговые поступления</td>
-<td>474</td>
+<td>7047</td>
 </tr>
 <tr>
 <td></td>
@@ -125,6 +125,49 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">5</td>
 <td colspan="3">Доходы от аренды имущества, находящегося в государственной собственности</td>
 <td>474</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">06</td>
+<td colspan="3"></td>
+<td colspan="3">Прочие неналоговые поступления</td>
+<td>6573</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Прочие неналоговые поступления</td>
+<td>6573</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Поступления от продажи основного капитала</td>
+<td>1300</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="3">Продажа государственного имущества, закрепленного за государственными учреждениями</td>
+<td>1300</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Продажа государственного имущества, закрепленного за государственными учреждениями</td>
+<td>1300</td>
 </tr>
 <tr>
 <td>4</td>
@@ -166,13 +209,12 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
+<td colspan="3" rowspan="2"></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -190,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>2. Затраты</td>
-<td>561956</td>
+<td>568529</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -198,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>113284</td>
+<td>125216</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -206,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>113284</td>
+<td>125216</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -214,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>113284</td>
+<td>125216</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -222,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>103109</td>
+<td>114741</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -230,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>10175</td>
+<td>10475</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -238,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>268851</td>
+<td>265940</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -294,23 +336,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>174989</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>174989</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>008</td>
-<td>Освещение улиц в населенных пунктах</td>
-<td>118527</td>
+<td>172078</td>
 </tr>
 <tr>
 <th colspan="2">1</th>
@@ -323,10 +349,26 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="3">124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>172078</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td>008</td>
+<td>Освещение улиц в населенных пунктах</td>
+<td>117948</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>14753</td>
+<td>12421</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -350,7 +392,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>88496</td>
+<td>93075</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -358,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Деятельность в области культуры</td>
-<td>44760</td>
+<td>49339</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -366,7 +408,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>44760</td>
+<td>49339</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -374,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>44760</td>
+<td>49339</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -406,7 +448,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>91325</td>
+<td>77725</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -414,7 +456,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>91325</td>
+<td>77725</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -422,7 +464,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>91325</td>
+<td>77725</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -430,7 +472,15 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>83678</td>
+<td>70078</td>
+</tr>
+<tr>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -439,6 +489,38 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td>045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
 <td>7647</td>
+</tr>
+<tr>
+<td colspan="2">15</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td>Трансферты</td>
+<td>6573</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3"></td>
+<td></td>
+<td>Трансферты</td>
+<td>6573</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>6573</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td>052</td>
+<td>Возврат, использованных не по назначению целевых трансфертов</td>
+<td>6573</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -463,14 +545,6 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
 <td>-5607</td>
-</tr>
-<tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="3">3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1352,7 +1426,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 
 ## Бюджет Кенжекольского сельского округа на 2022 год (с изменениями)
 
-> *Сноска. Приложение 4 в редакции решения Павлодарского городского маслихата Павлодарской области от 26.05.2022 № 138/19 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 4 в редакции решений Павлодарского городского маслихата Павлодарской области от 26.05.2022 № 138/19 (вводится в действие с 01.01.2022); от 28.09.2022 № 170/23 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -1381,42 +1455,42 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">1. Доходы</td>
-<td>569203</td>
+<td>655052</td>
 </tr>
 <tr>
 <td colspan="3">1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Налоговые поступления</td>
-<td>23014</td>
+<td>20627</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="3">Hалоги на собственность</td>
-<td>21520</td>
+<td>19133</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="3">Hалоги на имущество</td>
-<td>3065</td>
+<td>2682</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Земельный налог</td>
-<td>717</td>
+<td>532</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td>17738</td>
+<td>15919</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1437,42 +1511,42 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Неналоговые поступления</td>
-<td>623</td>
+<td>353</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="3">Доходы от государственной собственности</td>
-<td>623</td>
+<td>353</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">5</td>
 <td colspan="3">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>623</td>
+<td>353</td>
 </tr>
 <tr>
 <td colspan="3">4</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>545566</td>
+<td>634072</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>545566</td>
+<td>634072</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>545566</td>
+<td>634072</td>
 </tr>
 </table>
 
@@ -1517,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td></td>
 <td>2. Затраты</td>
-<td>571202</td>
+<td>657051</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1525,7 +1599,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>83331</td>
+<td>169714</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1533,7 +1607,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>83331</td>
+<td>169714</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1541,7 +1615,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>83331</td>
+<td>169714</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1549,7 +1623,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>83031</td>
+<td>84066</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1557,7 +1631,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>300</td>
+<td>85648</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1565,15 +1639,15 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>88095</td>
+<td>117192</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3">3</td>
+<td colspan="3">2</td>
 <td colspan="4"></td>
 <td></td>
-<td>Благоустройство населенных пунктов</td>
-<td>88095</td>
+<td>Коммунальное хозяйство</td>
+<td>1110</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1581,7 +1655,31 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>88095</td>
+<td>1110</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td>014</td>
+<td>Организация водоснабжения населенных пунктов</td>
+<td>1110</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="4"></td>
+<td></td>
+<td>Благоустройство населенных пунктов</td>
+<td>116082</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4">124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>116082</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1589,7 +1687,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>40724</td>
+<td>53028</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1597,7 +1695,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>21125</td>
+<td>19794</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1605,7 +1703,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td>010</td>
 <td>Содержание мест захоронений и погребение безродных</td>
-<td>1614</td>
+<td>1383</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1613,7 +1711,15 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>24632</td>
+<td>41877</td>
+</tr>
+<tr>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="4">3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -1648,14 +1754,6 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td>51380</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="4">3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
 <td colspan="2"></td>
 <td colspan="3">2</td>
 <td colspan="4"></td>
@@ -1685,7 +1783,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>152083</td>
+<td>126865</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1693,7 +1791,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>152083</td>
+<td>126865</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1701,7 +1799,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>152083</td>
+<td>126865</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1709,7 +1807,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>12421</td>
+<td>11908</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1717,7 +1815,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td>045</td>
 <td>Субсидирование пассажирских перевозок по социально значимым городским (сельским), пригородным и внутрирайонным сообщениям</td>
-<td>139662</td>
+<td>114957</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
@@ -1725,7 +1823,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td></td>
 <td>Прочие</td>
-<td>194186</td>
+<td>189773</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1733,7 +1831,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td></td>
 <td>Прочие</td>
-<td>194186</td>
+<td>189773</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1741,7 +1839,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>194186</td>
+<td>189773</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1749,7 +1847,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="4"></td>
 <td>057</td>
 <td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта «Ауыл-Ел бесігі»</td>
-<td>194186</td>
+<td>189773</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1766,6 +1864,14 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td></td>
 <td>4. Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
+</tr>
+<tr>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="4">3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2663,7 +2769,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 
 ## Бюджет села Павлодарское на 2022 год (с изменениями)
 
-> *Сноска. Приложение 7 в редакции решения Павлодарского городского маслихата Павлодарской области от 26.05.2022 № 138/19 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 7 в редакции решений Павлодарского городского маслихата Павлодарской области от 26.05.2022 № 138/19 (вводится в действие с 01.01.2022); от 28.09.2022 № 170/23 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -2692,21 +2798,21 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Доходы</td>
-<td>204070</td>
+<td>266694</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Налоговые поступления</td>
-<td>21871</td>
+<td>27495</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="3"></td>
 <td colspan="3">Hалоги на собственность</td>
-<td>21603</td>
+<td>27227</td>
 </tr>
 <tr>
 <td></td>
@@ -2720,7 +2826,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Земельный налог</td>
-<td>163</td>
+<td>5787</td>
 </tr>
 <tr>
 <td></td>
@@ -2748,21 +2854,21 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>182199</td>
+<td>239199</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>182199</td>
+<td>239199</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>182199</td>
+<td>239199</td>
 </tr>
 </table>
 
@@ -2807,7 +2913,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>2. Затраты</td>
-<td>205009</td>
+<td>267633</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2847,7 +2953,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>48435</td>
+<td>111059</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2855,7 +2961,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>48435</td>
+<td>111059</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2863,7 +2969,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>48435</td>
+<td>111059</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2871,7 +2977,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>15530</td>
+<td>72530</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2895,7 +3001,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>10318</td>
+<td>15942</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -2938,6 +3044,14 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td>44662</td>
 </tr>
 <tr>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">124</td>
@@ -2952,14 +3066,6 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td>028</td>
 <td>Проведение физкультурно-оздоровительных и спортивных мероприятий на местном уровне</td>
 <td>44662</td>
-</tr>
-<tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="3">3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -3877,7 +3983,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 
 ## Бюджет села Жетекши на 2022 год (с изменениями)
 
-> *Сноска. Приложение 10 в редакции решения Павлодарского городского маслихата Павлодарской области от 26.05.2022 № 138/19 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 10 в редакции решений Павлодарского городского маслихата Павлодарской области от 26.05.2022 № 138/19 (вводится в действие с 01.01.2022); от 28.09.2022 № 170/23 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -3906,7 +4012,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">1. Доходы</td>
-<td>283352</td>
+<td>293948</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3997,21 +4103,21 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>274017</td>
+<td>284613</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>274017</td>
+<td>284613</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>274017</td>
+<td>284613</td>
 </tr>
 </table>
 
@@ -4056,7 +4162,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>2. Затраты</td>
-<td>284660</td>
+<td>295256</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4064,7 +4170,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>46469</td>
+<td>49589</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4072,7 +4178,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>46469</td>
+<td>49589</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4080,7 +4186,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>46469</td>
+<td>49589</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4096,7 +4202,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>2108</td>
+<td>5228</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -4104,7 +4210,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>157849</td>
+<td>157669</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4136,7 +4242,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>137869</td>
+<td>137689</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4144,7 +4250,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>137869</td>
+<td>137689</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4152,7 +4258,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>27482</td>
+<td>34958</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4160,7 +4266,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>7384</td>
+<td>5482</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4176,7 +4282,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>102874</td>
+<td>97120</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -4184,7 +4290,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>51778</td>
+<td>59434</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4224,7 +4330,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Спорт</td>
-<td>45130</td>
+<td>52786</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4232,7 +4338,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>45130</td>
+<td>52786</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4240,7 +4346,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>028</td>
 <td>Проведение физкультурно-оздоровительных и спортивных мероприятий на местном уровне</td>
-<td>45130</td>
+<td>52786</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -5172,7 +5278,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 
 ## Бюджет села Мойылды на 2022 год (с изменениями)
 
-> *Сноска. Приложение 13 в редакции решения Павлодарского городского маслихата Павлодарской области от 26.05.2022 № 138/19 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 13 в редакции решений Павлодарского городского маслихата Павлодарской области от 26.05.2022 № 138/19 (вводится в действие с 01.01.2022); от 28.09.2022 № 170/23 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -5201,14 +5307,14 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">1. Доходы</td>
-<td>251252</td>
+<td>250011</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Налоговые поступления</td>
-<td>4443</td>
+<td>4282</td>
 </tr>
 <tr>
 <td></td>
@@ -5243,56 +5349,56 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">05</td>
 <td colspan="3"></td>
 <td colspan="3">Внутренние налоги на товары, работы и услуги</td>
-<td>1636</td>
+<td>1475</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="3">Поступления за использование природных и других ресурсов</td>
-<td>1636</td>
+<td>1475</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Неналоговые поступления</td>
-<td>216</td>
+<td>377</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="3"></td>
 <td colspan="3">Доходы от государственной собственности</td>
-<td>216</td>
+<td>377</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">5</td>
 <td colspan="3">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>216</td>
+<td>377</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>246593</td>
+<td>245352</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>246593</td>
+<td>245352</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>246593</td>
+<td>245352</td>
 </tr>
 </table>
 
@@ -5337,7 +5443,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>2. Затраты</td>
-<td>251798</td>
+<td>250557</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -5345,7 +5451,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>43399</td>
+<td>49643</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5353,7 +5459,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>43399</td>
+<td>49643</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5361,7 +5467,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>43399</td>
+<td>49643</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5369,7 +5475,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>43399</td>
+<td>49643</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -5377,7 +5483,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>76018</td>
+<td>75059</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5409,7 +5515,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>60194</td>
+<td>59235</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5417,7 +5523,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>60194</td>
+<td>59235</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5425,7 +5531,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>43828</td>
+<td>43568</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5433,7 +5539,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>7037</td>
+<td>4408</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5441,7 +5547,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>9329</td>
+<td>11259</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -5489,7 +5595,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>8182</td>
+<td>22125</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5497,7 +5603,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>8182</td>
+<td>22125</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5505,7 +5611,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8182</td>
+<td>22125</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5513,7 +5619,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>8182</td>
+<td>22125</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
@@ -5521,7 +5627,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Прочие</td>
-<td>124018</td>
+<td>103549</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5529,7 +5635,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td></td>
 <td>Прочие</td>
-<td>124018</td>
+<td>103549</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5537,7 +5643,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>124018</td>
+<td>103549</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5545,7 +5651,7 @@ source: https://zan.gov.kz/client/#!/doc/162469/rus/26.05.2022
 <td colspan="3"></td>
 <td>057</td>
 <td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта «Ауыл-Ел бесігі»</td>
-<td>124018</td>
+<td>103549</td>
 </tr>
 <tr>
 <td colspan="2"></td>
