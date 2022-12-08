@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
+source: https://zan.gov.kz/client/#!/doc/162672/kaz/08.12.2022
 ---
 
 > *Екібастұз қалалық*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 
 ## 2022 жылға арналған Солнечный поселкесінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 29.04.2022 № 115/18 (01.01.2022 бастап қолданысқа енгізіледі); 25.08.2022 № 134/21 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 29.04.2022 № 115/18 (01.01.2022 бастап қолданысқа енгізіледі); 25.08.2022 № 134/21 (01.01.2022 бастап қолданысқа енгізіледі); 08.12.2022 № 175/24 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -83,14 +83,14 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="4">1</td>
 <td colspan="11">Мүлікке салынатын салықтар</td>
-<td>353</td>
+<td>323</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4"></td>
 <td colspan="4">3</td>
 <td colspan="11">Жер салығы</td>
-<td>0</td>
+<td>30</td>
 </tr>
 <tr>
 <td></td>
@@ -213,7 +213,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>46 918</td>
+<td>48 358</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -221,7 +221,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>46 918</td>
+<td>48 358</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -229,7 +229,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="5">124</td>
 <td colspan="6"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>46 918</td>
+<td>48 358</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -237,7 +237,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="5"></td>
 <td colspan="6">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>46 918</td>
+<td>48 358</td>
 </tr>
 <tr>
 <td colspan="4">07</td>
@@ -245,7 +245,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>44 901</td>
+<td>43 461</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -253,7 +253,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="5"></td>
 <td colspan="6"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>44 901</td>
+<td>43 461</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -261,7 +261,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="5">124</td>
 <td colspan="6"></td>
 <td colspan="2">Аудандықмаңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>44 901</td>
+<td>43 461</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -269,7 +269,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="5"></td>
 <td colspan="6">008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>12 763</td>
+<td>11 771</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -285,7 +285,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="5"></td>
 <td colspan="6">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>22 105</td>
+<td>21 657</td>
 </tr>
 <tr>
 <td colspan="4">08</td>
@@ -1281,7 +1281,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 
 ## 2022 жылға арналған Шідерті поселкесінің бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 29.04.2022 № 115/18 (01.01.2022 бастап қолданысқа енгізіледі); 25.08.2022 № 134/21 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 29.04.2022 № 115/18 (01.01.2022 бастап қолданысқа енгізіледі); 25.08.2022 № 134/21 (01.01.2022 бастап қолданысқа енгізіледі); 08.12.2022 № 175/24 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1318,35 +1318,35 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="10">1. Кірістер</td>
-<td colspan="2">183 430</td>
+<td colspan="2">187 788</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="10">Салықтық түсімдер</td>
-<td colspan="2">13 388</td>
+<td colspan="2">15 384</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4">01</td>
 <td colspan="4"></td>
 <td colspan="10">Табыс салығы</td>
-<td colspan="2">123</td>
+<td colspan="2">13</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="4">2</td>
 <td colspan="10">Жеке табыс салығы</td>
-<td colspan="2">123</td>
+<td colspan="2">13</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4">04</td>
 <td colspan="4"></td>
 <td colspan="10">Меншiкке салынатын салықтар</td>
-<td colspan="2">10 307</td>
+<td colspan="2">11 709</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1360,28 +1360,28 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="4">3</td>
 <td colspan="10">Жер салығы</td>
-<td colspan="2">2 408</td>
+<td colspan="2">3 548</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="4">4</td>
 <td colspan="10">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">7 678</td>
+<td colspan="2">7 940</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4">05</td>
 <td colspan="4"></td>
 <td colspan="10">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td colspan="2">2 958</td>
+<td colspan="2">3 662</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="4">3</td>
 <td colspan="10">Табиғи және басқа да ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
-<td colspan="2">2 958</td>
+<td colspan="2">3 662</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
@@ -1416,21 +1416,21 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="10">Трансферттердің түсімдері</td>
-<td colspan="2">169 969</td>
+<td colspan="2">172 331</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4">02</td>
 <td colspan="4"></td>
 <td colspan="10">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">169 969</td>
+<td colspan="2">172 331</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="4">3</td>
 <td colspan="10">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">169 969</td>
+<td colspan="2">172 331</td>
 </tr>
 </table>
 
@@ -1475,7 +1475,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6"></td>
 <td colspan="4">2. Шығындар</td>
-<td colspan="2">184 776</td>
+<td colspan="2">189 134</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1483,7 +1483,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6"></td>
 <td colspan="4">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">41 060</td>
+<td colspan="2">44 536</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1491,7 +1491,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6"></td>
 <td colspan="4">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">41 060</td>
+<td colspan="2">44 536</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1499,7 +1499,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4">124</td>
 <td colspan="6"></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">41 060</td>
+<td colspan="2">44 536</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1507,7 +1507,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6">001</td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">41 060</td>
+<td colspan="2">44 536</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1515,7 +1515,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6"></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">71 190</td>
+<td colspan="2">70 623</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1523,7 +1523,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6"></td>
 <td colspan="4">Коммуналдық шаруашылық</td>
-<td colspan="2">10 674</td>
+<td colspan="2">10 602</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1531,7 +1531,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4">124</td>
 <td colspan="6"></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">10 674</td>
+<td colspan="2">10 602</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1539,7 +1539,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6">014</td>
 <td colspan="4">Елдi мекендердi сумен жабдықтауды ұйымдастыру</td>
-<td colspan="2">10 674</td>
+<td colspan="2">10 602</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1547,7 +1547,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6"></td>
 <td colspan="4">Елді-мекендерді көркейту</td>
-<td colspan="2">60 516</td>
+<td colspan="2">60 021</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1555,7 +1555,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4">124</td>
 <td colspan="6"></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">60 516</td>
+<td colspan="2">60 021</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1563,7 +1563,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6">008</td>
 <td colspan="4">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">16 471</td>
+<td colspan="2">14 752</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1571,7 +1571,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6">011</td>
 <td colspan="4">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">44 045</td>
+<td colspan="2">45 269</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -1579,7 +1579,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6"></td>
 <td colspan="4">Мәдениет, спорт, туризм және ақпараттық кеңiстiк</td>
-<td colspan="2">19 910</td>
+<td colspan="2">21 730</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1587,7 +1587,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6"></td>
 <td colspan="4">Мәдениет саласындағы қызмет</td>
-<td colspan="2">19 910</td>
+<td colspan="2">21 730</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1595,7 +1595,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4">124</td>
 <td colspan="6"></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">19 910</td>
+<td colspan="2">21 730</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1603,7 +1603,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6">006</td>
 <td colspan="4">Жергiлiктi деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td colspan="2">19 910</td>
+<td colspan="2">21 730</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1611,7 +1611,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6"></td>
 <td colspan="4">Көлiк және коммуникация</td>
-<td colspan="2">52 614</td>
+<td colspan="2">52 243</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1619,7 +1619,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6"></td>
 <td colspan="4">Автомобиль көлiгi</td>
-<td colspan="2">52 614</td>
+<td colspan="2">52 243</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1627,7 +1627,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4">124</td>
 <td colspan="6"></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">52 614</td>
+<td colspan="2">52 243</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1635,7 +1635,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="4"></td>
 <td colspan="6">013</td>
 <td colspan="4">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="2">2 892</td>
+<td colspan="2">2 521</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2639,7 +2639,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 
 ## 2022 жылға арналған Ақкөл ауылдық округінің бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 29.04.2022 № 115/18 (01.01.2022 бастап қолданысқа енгізіледі); 25.08.2022 № 134/21 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 29.04.2022 № 115/18 (01.01.2022 бастап қолданысқа енгізіледі); 25.08.2022 № 134/21 (01.01.2022 бастап қолданысқа енгізіледі); 08.12.2022 № 175/24 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -2676,14 +2676,14 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">1. Кірістер</td>
-<td>42 624</td>
+<td>42 379</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td>1 543</td>
+<td>1 298</td>
 </tr>
 <tr>
 <td></td>
@@ -2704,7 +2704,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td>1 063</td>
+<td>1 070</td>
 </tr>
 <tr>
 <td></td>
@@ -2718,7 +2718,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td colspan="2">3</td>
 <td colspan="4">Жер салығы</td>
-<td>0</td>
+<td>7</td>
 </tr>
 <tr>
 <td></td>
@@ -2732,14 +2732,14 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td>05</td>
 <td colspan="2"></td>
 <td colspan="4">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td>262</td>
+<td>10</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="4">Табиғи және басқа да ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
-<td>262</td>
+<td>10</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2819,7 +2819,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2. Шығындар</td>
-<td>42 972</td>
+<td>42 727</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2859,7 +2859,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>12 039</td>
+<td>11 794</td>
 </tr>
 <tr>
 <td></td>
@@ -2867,7 +2867,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">Коммуналдық шаруашылық</td>
-<td>5 852</td>
+<td>5 690</td>
 </tr>
 <tr>
 <td></td>
@@ -2875,7 +2875,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td>124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5 852</td>
+<td>5 690</td>
 </tr>
 <tr>
 <td></td>
@@ -2883,7 +2883,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td colspan="3">014</td>
 <td colspan="2">Елдi мекендердi сумен жабдықтауды ұйымдастыру</td>
-<td>5 852</td>
+<td>5 690</td>
 </tr>
 <tr>
 <td></td>
@@ -2891,7 +2891,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>6 187</td>
+<td>6 104</td>
 </tr>
 <tr>
 <td></td>
@@ -2899,7 +2899,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td>124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>6 187</td>
+<td>6 104</td>
 </tr>
 <tr>
 <td></td>
@@ -2923,7 +2923,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td colspan="3">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>348</td>
+<td>265</td>
 </tr>
 <tr>
 <td>12</td>
@@ -3803,7 +3803,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 
 ## 2022 жылға арналған Бәйет ауылдық округінің бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 29.04.2022 № 115/18 (01.01.2022 бастап қолданысқа енгізіледі); 25.08.2022 № 134/21 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 10-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 29.04.2022 № 115/18 (01.01.2022 бастап қолданысқа енгізіледі); 25.08.2022 № 134/21 (01.01.2022 бастап қолданысқа енгізіледі); 08.12.2022 № 175/24 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -3840,14 +3840,14 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5">1. Кірістер</td>
-<td colspan="2">35 503</td>
+<td colspan="2">30 983</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5">Салықтық түсімдер</td>
-<td colspan="2">9 647</td>
+<td colspan="2">5 127</td>
 </tr>
 <tr>
 <td></td>
@@ -3868,42 +3868,42 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="5">Меншiкке салынатын салықтар</td>
-<td colspan="2">2 418</td>
+<td colspan="2">2 689</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="5">Мүлікке салынатын салықтар</td>
-<td colspan="2">12</td>
+<td colspan="2">45</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="5">Жер салығы</td>
-<td colspan="2">262</td>
+<td colspan="2">295</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="5">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">2 144</td>
+<td colspan="2">2 349</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="5">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td colspan="2">4 961</td>
+<td colspan="2">170</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="5">Табиғи және басқа да ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
-<td colspan="2">4 961</td>
+<td colspan="2">170</td>
 </tr>
 <tr>
 <td>2</td>
@@ -3983,7 +3983,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>35 961</td>
+<td>31 441</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3991,7 +3991,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>31 010</td>
+<td>28 100</td>
 </tr>
 <tr>
 <td></td>
@@ -3999,7 +3999,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>31 010</td>
+<td>28 100</td>
 </tr>
 <tr>
 <td></td>
@@ -4007,7 +4007,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>31 010</td>
+<td>28 100</td>
 </tr>
 <tr>
 <td></td>
@@ -4015,7 +4015,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>31 010</td>
+<td>28 100</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4023,7 +4023,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>3 816</td>
+<td>2 841</td>
 </tr>
 <tr>
 <td></td>
@@ -4031,7 +4031,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>3 816</td>
+<td>2 841</td>
 </tr>
 <tr>
 <td></td>
@@ -4039,7 +4039,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3 816</td>
+<td>2 841</td>
 </tr>
 <tr>
 <td></td>
@@ -4047,7 +4047,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>2 751</td>
+<td>1 776</td>
 </tr>
 <tr>
 <td></td>
@@ -4063,7 +4063,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>1 135</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
@@ -4071,7 +4071,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>1 135</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
@@ -4079,7 +4079,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1 135</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
@@ -4087,7 +4087,7 @@ source: https://zan.gov.kz/client/#!/doc/162672/kaz/25.08.2022
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>1 135</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
