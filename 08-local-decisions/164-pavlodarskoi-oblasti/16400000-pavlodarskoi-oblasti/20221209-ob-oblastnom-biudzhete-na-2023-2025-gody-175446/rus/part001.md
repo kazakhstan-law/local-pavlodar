@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
+source: https://zan.gov.kz/client/#!/doc/175446/rus/04.10.2023
 ---
 
 > *Приложение 1*  
@@ -9,9 +9,9 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 > *от 9 декабря 2022 года*  
 > *№ 211/19*
 
-## Областной бюджет на 2023 год (с изменениями)
+## Областной бюджет на 2023 год (с изменениями и дополнением)
 
-> *Сноска. Приложение 1 в редакции решений Павлодарского областного маслихата от 27.04.2023 № 6/2 (вводится в действие с 01.01.2023); от 27.06.2023 № 30/3 (вводится в действие с 01.01.2023).*
+> *Сноска. Приложение 1 в редакции решений Павлодарского областного маслихата от 27.04.2023 № 6/2 (вводится в действие с 01.01.2023); от 27.06.2023 № 30/3 (вводится в действие с 01.01.2023); от 04.10.2023 № 64/5 (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
@@ -50,77 +50,77 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td></td>
 <td></td>
 <td colspan="2">1. Доходы</td>
-<td>409 416 766</td>
+<td>411 070 313</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td>51 191 824</td>
+<td>52 456 451</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td>21 402 453</td>
+<td>21 858 812</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>21 402 453</td>
+<td>21 858 812</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
 <td></td>
 <td colspan="2">Социальный налог</td>
-<td>15 597 729</td>
+<td>16 176 449</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Социальный налог</td>
-<td>15 597 729</td>
+<td>16 176 449</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td>14 191 642</td>
+<td>14 421 190</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td>14 171 642</td>
+<td>14 391 190</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>20 000</td>
+<td>30 000</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td></td>
 <td colspan="2">Неналоговые поступления</td>
-<td>4 956 667</td>
+<td>4 972 867</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td>2 010 957</td>
+<td>2 018 859</td>
 </tr>
 <tr>
 <td></td>
@@ -148,21 +148,49 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td></td>
 <td>7</td>
 <td colspan="2">Вознаграждения по кредитам, выданным из государственного бюджета</td>
-<td>1 766 577</td>
+<td>1 774 479</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td colspan="2">Поступления от реализации товаров (работ, услуг) государственными учреждениями, финансируемыми из государственного бюджета</td>
+<td>860</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2">Поступления от реализации товаров (работ, услуг) государственными учреждениями, финансируемыми из государственного бюджета</td>
+<td>860</td>
+</tr>
+<tr>
+<td></td>
+<td>03</td>
+<td></td>
+<td colspan="2">Поступления денег от проведения государственных закупок, организуемых государственными учреждениями, финансируемыми из государственного бюджета</td>
+<td>3 438</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2">Поступления денег от проведения государственных закупок, организуемых государственными учреждениями, финансируемыми из государственного бюджета</td>
+<td>3 438</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td>1 785 685</td>
+<td>1 789 685</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора и в Фонд компенсации потерпевшим</td>
-<td>1 785 685</td>
+<td>1 789 685</td>
 </tr>
 <tr>
 <td></td>
@@ -183,64 +211,64 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>353 268 275</td>
+<td>353 640 995</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Трансферты из нижестоящих органов государственного управления</td>
-<td>178 104 438</td>
+<td>178 741 317</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>178 104 438</td>
+<td>178 741 317</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>175 163 837</td>
+<td>174 899 678</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Трансферты из республиканского бюджета</td>
-<td>175 163 837</td>
+<td>174 899 678</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="6">Функциональная группа</td>
+<td colspan="5">Функциональная группа</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функциональная подгруппа Наименование</td>
+<td colspan="4">Функциональная подгруппа Наименование</td>
 <td>Сумма</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 <td>(тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">Программа</td>
 <td></td>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
@@ -248,30 +276,30 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>409 401 947</td>
+<td>411 425 372</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>5 407 595</td>
+<td>5 768 598</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>3 212 597</td>
+<td>3 569 808</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>110</td>
 <td></td>
@@ -279,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>146 037</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -287,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>130 043</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -295,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 060</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -303,31 +331,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>7 934</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>120</td>
 <td></td>
 <td>Аппарат акима области</td>
-<td>2 519 772</td>
+<td>2 876 983</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима области</td>
-<td>2 210 200</td>
+<td>2 500 967</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
 <td>Капитальные расходы государственного органа</td>
-<td>14 518</td>
+<td>29 536</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -335,15 +363,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>22 963</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
 <td>Обеспечение и проведение выборов акимов</td>
-<td>272 091</td>
+<td>323 517</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>282</td>
 <td></td>
@@ -351,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>300 343</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -359,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>299 998</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -367,7 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>345</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>747</td>
 <td></td>
@@ -375,7 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>246 445</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>075</td>
@@ -383,31 +411,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>246 445</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Финансовая деятельность</td>
-<td>440 219</td>
+<td>444 011</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
 <td>Управление финансов области</td>
-<td>337 796</td>
+<td>342 104</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики в области исполнения местного бюджета, управления коммунальной собственностью и бюджетного планирования</td>
-<td>257 680</td>
+<td>262 380</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -415,31 +443,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>22 893</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Капитальные расходы государственного органа</td>
-<td>8 263</td>
+<td>8 071</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>028</td>
 <td>Приобретение имущества в коммунальную собственность</td>
-<td>48 960</td>
+<td>48 760</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>718</td>
 <td></td>
 <td>Управление государственных закупок области</td>
-<td>102 423</td>
+<td>101 907</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -447,15 +475,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>100 549</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Капитальные расходы государственного органа</td>
-<td>1 874</td>
+<td>1 358</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -463,7 +491,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>366 594</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>258</td>
 <td></td>
@@ -471,7 +499,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>366 594</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -479,7 +507,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>340 871</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -487,7 +515,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>22 728</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>061</td>
@@ -495,7 +523,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 995</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -503,7 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 388 185</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>269</td>
 <td></td>
@@ -511,7 +539,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>226 398</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -519,7 +547,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>82 276</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -527,7 +555,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 113</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -535,7 +563,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>142 009</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>700</td>
 <td></td>
@@ -543,7 +571,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 161 787</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -552,14 +580,14 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 <th>6</th>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -567,7 +595,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>11 261</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -575,7 +603,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>881 332</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>114</td>
@@ -583,15 +611,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>65 611</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
+<td>02</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Оборона</td>
-<td>1 583 642</td>
+<td>1 535 795</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -599,7 +627,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>149 394</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>736</td>
 <td></td>
@@ -607,7 +635,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>149 394</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -615,7 +643,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>82 142</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -623,15 +651,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>67 252</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Организация работы по чрезвычайным ситуациям</td>
-<td>1 434 248</td>
+<td>1 386 401</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -639,7 +667,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>20 089</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -647,15 +675,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>20 089</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>287</td>
 <td></td>
 <td>Территориальный орган, уполномоченных органов в области чрезвычайных ситуаций природного и техногенного характера, гражданской обороны, финансируемый из областного бюджета</td>
-<td>491 025</td>
+<td>511 002</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -663,23 +691,23 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>450 409</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
 <td>Предупреждение и ликвидация чрезвычайных ситуаций областного масштаба</td>
-<td>40 616</td>
+<td>60 593</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>736</td>
 <td></td>
 <td>Управление по мобилизационной подготовке и гражданской защите области</td>
-<td>923 134</td>
+<td>855 310</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -687,15 +715,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>73 473</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
 <td>Мобилизационная подготовка и мобилизация областного масштаба</td>
-<td>309 450</td>
+<td>307 700</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -703,55 +731,55 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 357</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>68 498</td>
+<td>7 588</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
 <td>Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>470 356</td>
+<td>465 192</td>
 </tr>
 <tr>
-<td colspan="2">03</td>
+<td>03</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
-<td>10 717 967</td>
+<td>10 822 019</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Правоохранительная деятельность</td>
-<td>10 717 967</td>
+<td>10 822 019</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>252</td>
 <td></td>
 <td>Исполнительный орган внутренних дел, финансируемый из областного бюджета</td>
-<td>10 717 967</td>
+<td>10 822 019</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики в области обеспечения охраны общественного порядка и безопасности на территории области</td>
-<td>10 180 159</td>
+<td>10 284 211</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -759,7 +787,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 900</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -767,39 +795,39 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>530 908</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
+<td>04</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>194 460 654</td>
+<td>194 034 451</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>26 606 028</td>
+<td>26 802 538</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
 <td>Управление образования области</td>
-<td>26 444 595</td>
+<td>26 561 011</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>081</td>
 <td>Дошкольное воспитание и обучение</td>
-<td>3 023 087</td>
+<td>3 030 482</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>200</td>
@@ -807,47 +835,47 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>125 495</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>202</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>23 296 013</td>
+<td>23 405 034</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
 <td>Управление строительства области</td>
-<td>161 433</td>
+<td>241 527</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>037</td>
 <td>Строительство и реконструкция объектов дошкольного воспитания и обучения</td>
-<td>161 433</td>
+<td>241 527</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>137 872 279</td>
+<td>137 116 155</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
 <td>Управление образования области</td>
-<td>120 816 832</td>
+<td>120 289 266</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -855,7 +883,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 167 875</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -863,39 +891,39 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 398 907</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>055</td>
 <td>Дополнительное образование для детей и юношества</td>
-<td>6 157 146</td>
+<td>5 828 652</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>082</td>
+<td>Общеобразовательное обучение в государственных организациях начального, основного и общего среднего образования</td>
+<td>70 537 198</td>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 <th>6</th>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>082</td>
-<td>Общеобразовательное обучение в государственных организациях начального, основного и общего среднего образования</td>
-<td>70 597 198</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>083</td>
 <td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
-<td>914 165</td>
+<td>775 093</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>203</td>
@@ -903,15 +931,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>33 581 541</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
 <td>Управление строительства области</td>
-<td>8 107 765</td>
+<td>7 931 327</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>069</td>
@@ -919,71 +947,71 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 532 958</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>086</td>
 <td>Строительство и реконструкция объектов начального, основного среднего и общего среднего образования</td>
-<td>93 826</td>
+<td>97 388</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>205</td>
 <td>Строительство объектов начального, основного среднего и общего среднего образования в рамках пилотного национального проекта &quot;Комфортная школа&quot;</td>
-<td>6 480 981</td>
+<td>6 300 981</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>285</td>
 <td></td>
 <td>Управление физической культуры и спорта области</td>
-<td>8 947 682</td>
+<td>8 895 562</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
 <td>Дополнительное образование для детей и юношества по спорту</td>
-<td>7 970 308</td>
+<td>7 868 617</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
 <td>Общеобразовательное обучение одаренных в спорте детей в специализированных организациях образования</td>
-<td>977 374</td>
+<td>1 026 945</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Техническое и профессиональное, послесреднее образование</td>
-<td>14 526 734</td>
+<td>14 591 538</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
 <td>Управление здравоохранения области</td>
-<td>656 145</td>
+<td>720 949</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>043</td>
 <td>Подготовка специалистов в организациях технического и профессионального, послесреднего образования</td>
-<td>656 145</td>
+<td>720 949</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -991,7 +1019,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>13 870 589</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>024</td>
@@ -999,7 +1027,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>13 707 405</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>025</td>
@@ -1007,31 +1035,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>163 184</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
 <td>Переподготовка и повышение квалификации специалистов</td>
-<td>1 874 148</td>
+<td>1 879 462</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>120</td>
 <td></td>
 <td>Аппарат акима области</td>
-<td>2 190</td>
+<td>8 749</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>019</td>
 <td>Обучение участников избирательного процесса</td>
-<td>2 190</td>
+<td>8 749</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -1039,7 +1067,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>25 498</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1047,79 +1075,79 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>25 498</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
 <td>Управление образования области</td>
-<td>1 846 460</td>
+<td>1 845 215</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>052</td>
 <td>Повышение квалификации, подготовка и переподготовка кадров в рамках Государственной программы развития продуктивной занятости и массового предпринимательства на 2017 – 2021 годы «Еңбек»</td>
-<td>1 846 460</td>
+<td>1 845 215</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>6</td>
 <td></td>
 <td></td>
 <td>Высшее и послевузовское образование</td>
-<td>707 536</td>
+<td>598 590</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
 <td>Управление здравоохранения области</td>
-<td>678 994</td>
+<td>568 803</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>057</td>
 <td>Подготовка специалистов с высшим, послевузовским образованием и оказание социальной поддержки обучающимся</td>
-<td>678 994</td>
+<td>568 803</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
 <td>Управление образования области</td>
-<td>28 542</td>
+<td>29 787</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>057</td>
 <td>Подготовка специалистов с высшим, послевузовским образованием и оказание социальной поддержки обучающимся</td>
-<td>28 542</td>
+<td>29 787</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>12 873 929</td>
+<td>13 046 168</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
 <td>Управление образования области</td>
-<td>12 873 929</td>
+<td>13 046 168</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1127,7 +1155,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>907 165</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -1135,7 +1163,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>77 771</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1143,7 +1171,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 076 634</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1151,7 +1179,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>291 290</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1159,15 +1187,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>587 806</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Капитальные расходы государственного органа</td>
-<td>63 486</td>
+<td>55 986</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>019</td>
@@ -1175,7 +1203,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>56 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -1183,71 +1211,63 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 571 517</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>067</td>
+<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>7 985 692</td>
+</tr>
+<tr>
 <th>1</th>
-<th colspan="2">2</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 <th>6</th>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>067</td>
-<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>7 711 083</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td>080</td>
-<td>Реализация инициативы Фонда Нурсултана Назарбаева на выявление и поддержку талантов «EL UMITI»</td>
-<td>96 793</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>086</td>
 <td>Выплата единовременных денежных средств казахстанским гражданам, усыновившим (удочерившим) ребенка (детей)-сироту и ребенка (детей), оставшегося без попечения родителей</td>
-<td>8 415</td>
+<td>4 453</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>087</td>
 <td>Ежемесячные выплаты денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
-<td>425 969</td>
+<td>431 854</td>
 </tr>
 <tr>
-<td colspan="2">05</td>
+<td>05</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Здравоохранение</td>
-<td>21 356 319</td>
+<td>19 803 216</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Охрана здоровья населения</td>
-<td>11 931 399</td>
+<td>10 442 091</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
 <td>Управление здравоохранения области</td>
-<td>4 282 025</td>
+<td>4 409 722</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1255,7 +1275,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>321 856</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1263,15 +1283,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>23 916</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>041</td>
 <td>Дополнительное обеспечение гарантированного объема бесплатной медицинской помощи по решению местных представительных органов областей</td>
-<td>2 789 605</td>
+<td>2 875 561</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>042</td>
@@ -1279,55 +1299,55 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 344</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>050</td>
 <td>Возмещение лизинговых платежей по санитарному транспорту, медицинским изделиям, требующие сервисного обслуживания, приобретенных на условиях финансового лизинга</td>
-<td>1 144 304</td>
+<td>1 169 361</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
 <td>Управление строительства области</td>
-<td>7 649 374</td>
+<td>6 049 053</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>038</td>
 <td>Строительство и реконструкция объектов здравоохранения</td>
-<td>7 649 374</td>
+<td>6 049 053</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Специализированная медицинская помощь</td>
-<td>1 199 036</td>
+<td>959 036</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
 <td>Управление здравоохранения области</td>
-<td>1 199 036</td>
+<td>959 036</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>027</td>
 <td>Централизованный закуп и хранение вакцин и других медицинских иммунобиологических препаратов для проведения иммунопрофилактики населения</td>
-<td>1 199 036</td>
+<td>959 036</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -1335,7 +1355,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>276 797</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -1343,7 +1363,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>276 797</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>039</td>
@@ -1351,7 +1371,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>276 797</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -1359,7 +1379,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>133 875</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -1367,7 +1387,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>133 875</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -1375,31 +1395,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>133 875</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Прочие услуги в области здравоохранения</td>
-<td>7 815 212</td>
+<td>7 991 417</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
 <td>Управление здравоохранения области</td>
-<td>7 815 212</td>
+<td>7 991 417</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области здравоохранения</td>
-<td>268 051</td>
+<td>267 577</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1407,7 +1427,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>282 305</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -1415,7 +1435,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>9 289</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1423,7 +1443,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>37 722</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -1431,7 +1451,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>100 500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -1439,55 +1459,47 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>20 545</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>033</td>
 <td>Капитальные расходы медицинских организаций здравоохранения</td>
-<td>7 096 800</td>
+<td>7 273 479</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>21 247 182</td>
+<td>20 874 964</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Социальное обеспечение</td>
-<td>6 725 644</td>
+<td>7 555 550</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
 <td>Управление координации занятости и социальных программ области</td>
-<td>5 000 494</td>
+<td>5 732 267</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
 <td>'Предоставление специальных социальных услуг для престарелых и лиц с инвалидностью в медико-социальных учреждениях (организациях) общего типа, в центрах оказания специальных социальных услуг, в центрах социального обслуживания</td>
-<td>1 271 695</td>
+<td>1 372 483</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1495,15 +1507,23 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>378 587</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Предоставление специальных социальных услуг для лиц с инвалидностью с психоневрологическими заболеваниями, в психоневрологических медико-социальных учреждениях (организациях), в центрах оказания специальных социальных услуг, в центрах социального обслуживания</td>
-<td>2 465 586</td>
+<td>2 574 286</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1511,7 +1531,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>345 338</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1519,63 +1539,79 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>539 288</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>064</td>
+<td>Обеспечение деятельности центров трудовой мобильности и карьерных центров по социальной поддержке граждан по вопросам занятости</td>
+<td>511 935</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>069</td>
+<td>Субсидирование затрат работодателя на создание специальных рабочих мест для трудоустройства лиц с инвалидностью</td>
+<td>10 350</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
 <td>Управление образования области</td>
-<td>1 689 498</td>
+<td>1 781 837</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
 <td>Социальное обеспечение сирот, детей, оставшихся без попечения родителей</td>
-<td>1 536 924</td>
+<td>1 638 726</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>092</td>
 <td>Содержание ребенка (детей), переданного патронатным воспитателям</td>
-<td>152 574</td>
+<td>143 111</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
 <td>Управление строительства области</td>
-<td>35 652</td>
+<td>41 446</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>039</td>
 <td>Строительство и реконструкция объектов социального обеспечения</td>
-<td>35 652</td>
+<td>41 446</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Социальная помощь</td>
-<td>145 843</td>
+<td>4 566 951</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
 <td>Управление координации занятости и социальных программ области</td>
-<td>145 843</td>
+<td>4 566 951</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1583,23 +1619,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>145 843</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>068</td>
+<td>Программа занятости</td>
+<td>4 421 108</td>
+</tr>
+<tr>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>14 375 695</td>
+<td>8 752 463</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
 <td>Управление координации занятости и социальных программ области</td>
-<td>14 240 714</td>
+<td>8 612 738</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1607,7 +1651,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>216 526</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1615,7 +1659,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 337</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1623,15 +1667,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>319 039</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>044</td>
 <td>Реализация миграционных мероприятий на местном уровне</td>
-<td>40 751</td>
+<td>50 955</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>053</td>
@@ -1639,39 +1683,47 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>48 552</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>066</td>
+<td>Оплата услуг поверенному агенту по предоставлению бюджетных кредитов для содействия предпринимательской инициативе молодежи</td>
+<td>19 625</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td>067</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>177 714</td>
+<td>304 579</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
 <td>Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>13 429 795</td>
+<td>7 645 125</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>297</td>
 <td></td>
 <td>Управление труда области</td>
-<td>134 981</td>
+<td>139 725</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики в области регулирования трудовых отношений на местном уровне</td>
-<td>126 463</td>
+<td>131 207</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1679,15 +1731,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 518</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>35 021 775</td>
+<td>36 454 863</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1695,7 +1747,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 560</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>279</td>
 <td></td>
@@ -1703,7 +1755,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 560</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>054</td>
@@ -1711,15 +1763,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 560</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>33 686 498</td>
+<td>35 119 586</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -1727,7 +1779,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>209 983</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -1735,15 +1787,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>209 983</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>279</td>
 <td></td>
 <td>Управление энергетики и жилищно-коммунального хозяйства области</td>
-<td>33 476 515</td>
+<td>34 909 603</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1751,7 +1803,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>227 243</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1759,7 +1819,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 013</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1767,31 +1827,23 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>385 612</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
 <td>Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>3 187 919</td>
+<td>4 998 182</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>114</td>
 <td>Целевые трансферты на развитие нижестоящим бюджетам</td>
-<td>29 667 728</td>
+<td>29 290 553</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1799,7 +1851,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 324 717</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>700</td>
 <td></td>
@@ -1807,7 +1859,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 324 717</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>041</td>
@@ -1815,111 +1867,95 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 324 717</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>14 612 220</td>
+<td>14 539 993</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Деятельность в области культуры</td>
-<td>3 481 079</td>
+<td>3 369 567</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
 <td>Управление строительства области</td>
-<td>28 067</td>
+<td>26 636</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
 <td>Развитие объектов культуры</td>
-<td>28 067</td>
+<td>26 636</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>748</td>
 <td></td>
 <td>Управление культуры, развития языков и архивного дела области</td>
-<td>3 453 012</td>
+<td>3 342 931</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
 <td>Поддержка культурно-досуговой работы</td>
-<td>1 359 424</td>
+<td>1 265 364</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
 <td>Обеспечение сохранности историко-культурного наследия и доступа к ним</td>
-<td>695 137</td>
+<td>696 137</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Поддержка театрального и музыкального искусства</td>
-<td>1 398 451</td>
+<td>1 381 430</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>6 714 833</td>
+<td>6 791 742</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>271</td>
-<td></td>
-<td>Управление строительства области</td>
-<td>30 000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td>017</td>
-<td>Развитие объектов спорта</td>
-<td>30 000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
 <td>285</td>
 <td></td>
 <td>Управление физической культуры и спорта области</td>
-<td>6 684 833</td>
+<td>6 791 742</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере развития туризма и спорта</td>
-<td>115 107</td>
+<td>108 784</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1927,15 +1963,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>100 042</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Подготовка и участие членов областных сборных команд по различным видам спорта на республиканских и международных спортивных соревнованиях</td>
-<td>5 677 715</td>
+<td>5 794 947</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1943,15 +1979,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>14 694</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>756 158</td>
+<td>752 158</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -1959,15 +1995,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>21 117</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Информационное пространство</td>
-<td>2 634780</td>
+<td>2 635 384</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -1975,7 +2011,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>11 284</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1983,7 +2019,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>11 284</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>743</td>
 <td></td>
@@ -1991,7 +2027,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 126 926</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1999,7 +2035,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>797 661</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -2007,7 +2043,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>9 568</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -2015,7 +2051,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>316 447</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -2023,127 +2059,127 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 250</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>747</td>
 <td></td>
 <td>Управление информации и общественного развития области</td>
-<td>723 460</td>
+<td>743 460</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
 <td>Услуги по проведению государственной информационной политики</td>
-<td>723 460</td>
+<td>743 460</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>748</td>
 <td></td>
 <td>Управление культуры, развития языков и архивного дела области</td>
-<td>773 110</td>
+<td>753 714</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
 <td>Развитие государственного языка и других языков народа Казахстана</td>
-<td>58 427</td>
+<td>37 916</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
 <td>Обеспечение функционирования областных библиотек</td>
-<td>257 459</td>
+<td>254 106</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
 <td>Обеспечение сохранности архивного фонда</td>
-<td>457 224</td>
+<td>461 692</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Туризм</td>
-<td>52 731</td>
+<td>33 324</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>266</td>
 <td></td>
 <td>Управление предпринимательства и индустриально-инновационного развития области</td>
-<td>52 731</td>
+<td>33 324</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>021</td>
 <td>Регулирование туристской деятельности</td>
-<td>42 735</td>
+<td>31 741</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>044</td>
 <td>Субсидирование части затрат субъектов предпринимательства на содержание санитарно-гигиенических узлов</td>
-<td>9 996</td>
+<td>1 583</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
-<td>1 728 797</td>
+<td>1 709 976</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>747</td>
 <td></td>
 <td>Управление информации и общественного развития области</td>
-<td>523 692</td>
+<td>521 360</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной внутренней, молодежной политики на местном уровне</td>
-<td>217 790</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td>003</td>
-<td>Реализация мероприятий в сфере молодежной политики</td>
-<td>290 977</td>
+<td>220 075</td>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 <th>6</th>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>003</td>
+<td>Реализация мероприятий в сфере молодежной политики</td>
+<td>286 360</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -2151,15 +2187,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>14 925</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>748</td>
 <td></td>
 <td>Управление культуры, развития языков и архивного дела области</td>
-<td>1 205 105</td>
+<td>1 188 616</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2167,23 +2203,23 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>193 204</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Капитальные расходы государственного органа</td>
-<td>16 550</td>
+<td>10 089</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>032</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>192 370</td>
+<td>182 342</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -2191,7 +2227,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>802 981</td>
 </tr>
 <tr>
-<td colspan="2">09</td>
+<td>09</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2199,7 +2235,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>237 970</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2207,7 +2243,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>237 970</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>700</td>
 <td></td>
@@ -2215,7 +2251,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>237 970</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>081</td>
@@ -2223,31 +2259,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>237 970</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>41 123 620</td>
+<td>42 138 337</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Сельское хозяйство</td>
-<td>37 167 948</td>
+<td>37 914 601</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>255</td>
 <td></td>
 <td>Управление сельского хозяйства области</td>
-<td>33 448 466</td>
+<td>34 300 245</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2255,7 +2291,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>256 033</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -2263,15 +2299,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>886 531</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Капитальные расходы государственного органа</td>
-<td>16 009</td>
+<td>15 574</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -2279,7 +2315,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 566 602</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -2287,15 +2323,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>308 183</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>029</td>
 <td>Мероприятия по борьбе с вредными организмами сельскохозяйственных культур</td>
-<td>14 736</td>
+<td>11 527</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -2303,7 +2339,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>45 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>046</td>
@@ -2311,7 +2347,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>7 298</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>047</td>
@@ -2319,7 +2355,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>914 414</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>050</td>
@@ -2327,23 +2363,23 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 761 081</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>051</td>
 <td>Субсидирование в рамках гарантирования и страхования займов субъектов агропромышленного комплекса</td>
-<td>22 273</td>
+<td>18 186</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>053</td>
 <td>Субсидирование развития племенного животноводства, повышение продуктивности и качества продукции животноводства</td>
-<td>8 863 752</td>
+<td>9 863 752</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>056</td>
@@ -2351,7 +2387,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>7 003 213</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>057</td>
@@ -2359,31 +2395,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 552 851</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>077</td>
 <td>Субсидирование возмещения расходов, понесенных национальной компанией в сфере агропромышленного комплекса при реализации продовольственного зерна для регулирующего воздействия на внутренний рынок</td>
-<td>230 490</td>
+<td>90 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>719</td>
 <td></td>
 <td>Управление ветеринарии области</td>
-<td>3 719 482</td>
+<td>3 614 356</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере ветеринарии</td>
-<td>189 642</td>
+<td>188 727</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -2391,7 +2427,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>9 234</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -2399,7 +2435,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>18 750</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -2407,15 +2451,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 265</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -2423,7 +2459,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 081</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -2431,7 +2467,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>57 876</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -2439,15 +2475,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>40 756</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Проведение мероприятий по идентификации сельскохозяйственных животных</td>
-<td>19 048</td>
+<td>19 023</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -2455,15 +2491,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 107 749</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>028</td>
 <td>Услуги по транспортировке ветеринарных препаратов до пункта временного хранения</td>
-<td>3 723</td>
+<td>2 037</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -2471,15 +2507,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>63 798</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>040</td>
-<td>Централизованный закуп средств индивидуальной защиты работников, приборов, инструментов, техники, оборудования и инвентаря, для материально-технического оснащения государственных ветеринарных организаций</td>
-<td>102 500</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>067</td>
@@ -2487,31 +2515,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>97 060</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Лесное хозяйство</td>
-<td>1 079 052</td>
+<td>926 643</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>700</td>
 <td></td>
 <td>Управление недропользования, окружающей среды и водных ресурсов области</td>
-<td>1 079 052</td>
+<td>926 643</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Охрана, защита, воспроизводство лесов и лесоразведение</td>
-<td>1 074 052</td>
+<td>921 643</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -2519,7 +2547,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>5 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -2527,7 +2555,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>405 700</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>700</td>
 <td></td>
@@ -2535,7 +2563,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>405 700</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -2543,7 +2571,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>366 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>034</td>
@@ -2551,39 +2579,39 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>39 700</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td></td>
 <td></td>
 <td>Охрана окружающей среды</td>
-<td>2 320 174</td>
+<td>2 770 392</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>700</td>
 <td></td>
 <td>Управление недропользования, окружающей среды и водных ресурсов области</td>
-<td>2 320 174</td>
+<td>2 770 392</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>017</td>
 <td>Мероприятия по охране окружающей среды</td>
-<td>194 721</td>
+<td>187 628</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>022</td>
 <td>Развитие объектов охраны окружающей среды</td>
-<td>2 125 453</td>
+<td>2 582 764</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -2591,7 +2619,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>100 760</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>251</td>
 <td></td>
@@ -2599,7 +2627,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>100 760</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2607,7 +2635,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>95 156</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -2615,15 +2643,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>5 604</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Прочие услуги в области сельского, водного, лесного, рыбного хозяйства, охраны окружающей среды и земельных отношений</td>
-<td>49 986</td>
+<td>20 241</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>266</td>
 <td></td>
@@ -2631,7 +2659,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>035</td>
@@ -2639,103 +2667,103 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>719</td>
 <td></td>
 <td>Управление ветеринарии области</td>
-<td>49 985</td>
+<td>20 240</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>033</td>
 <td>Идентификация безнадзорных и бродячих животных</td>
-<td>17 051</td>
+<td>7 050</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>034</td>
 <td>Вакцинация и стерилизация бродячих животных</td>
-<td>26 562</td>
+<td>7 500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>035</td>
 <td>Идентификация домашних животных, владельцы которых относятся к социально уязвимым слоям населения</td>
-<td>6 372</td>
+<td>5 690</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Промышленность, архитектурная, градостроительная и строительная деятельность</td>
-<td>20 394 526</td>
+<td>22 472 044</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Архитектурная, градостроительная и строительная деятельность</td>
-<td>20 394 526</td>
+<td>22 472 044</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
 <td>Управление строительства области</td>
-<td>20 192 252</td>
+<td>22 271 311</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по реализации государственной политики на местном уровне в области строительства</td>
+<td>134 017</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>113</td>
+<td>Целевые текущие трансферты нижестоящим бюджетам</td>
+<td>8 997 176</td>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
+<th>2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 <th>6</th>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>001</td>
-<td>Услуги по реализации государственной политики на местном уровне в области строительства</td>
-<td>131 772</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td>113</td>
-<td>Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>6 673 600</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>114</td>
 <td>Целевые трансферты на развитие нижестоящим бюджетам</td>
-<td>13 386 880</td>
+<td>13 140 118</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>272</td>
 <td></td>
 <td>Управление архитектуры и градостроительства области</td>
-<td>92 105</td>
+<td>89 105</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2743,95 +2771,119 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>80 074</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
 <td>Капитальные расходы государственного органа</td>
-<td>12 031</td>
+<td>9 031</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>724</td>
 <td></td>
 <td>Управление государственного архитектурно-строительного контроля области</td>
-<td>110 169</td>
+<td>111 628</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере государственного архитектурно-строительного контроля и контроля за использованием и охраной земель</td>
-<td>110 169</td>
+<td>111 628</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>21 522 735</td>
+<td>21 440 807</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>4 592 940</td>
+<td>4 473 036</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>268</td>
 <td></td>
 <td>Управление пассажирского транспорта и автомобильных дорог области</td>
-<td>4 592 940</td>
+<td>4 473 036</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Обеспечение функционирования автомобильных дорог</td>
-<td>1 162 753</td>
+<td>1 147 445</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>028</td>
 <td>Реализация приоритетных проектов транспортной инфраструктуры</td>
-<td>3 430 187</td>
+<td>3 325 591</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
+<td></td>
+<td>4</td>
 <td></td>
 <td></td>
-<td>Прочие услуги в сфере транспорта и коммуникаций</td>
-<td>16 929 795</td>
+<td>Воздушный транспорт</td>
+<td>130 890</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>268</td>
 <td></td>
 <td>Управление пассажирского транспорта и автомобильных дорог области</td>
-<td>16 929 795</td>
+<td>130 890</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>031</td>
+<td>Субсидирование аэропортов, находящихся в коммунальной собственности</td>
+<td>130 890</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие услуги в сфере транспорта и коммуникаций</td>
+<td>16 836 881</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>268</td>
+<td></td>
+<td>Управление пассажирского транспорта и автомобильных дорог области</td>
+<td>16 836 881</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области транспорта и коммуникаций</td>
-<td>117 646</td>
+<td>118 595</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -2839,79 +2891,79 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>138 664</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>113</td>
 <td>Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>14 189 629</td>
+<td>14 096 220</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>114</td>
 <td>Целевые трансферты на развитие нижестоящим бюджетам</td>
-<td>2 483 856</td>
+<td>2 483 402</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>9 271 127</td>
+<td>8 847 297</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Регулирование экономической деятельности</td>
-<td>3 629 760</td>
+<td>2 829 760</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
 <td>Управление строительства области</td>
-<td>3 629 760</td>
+<td>2 829 760</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>040</td>
 <td>Развитие инфраструктуры специальных экономических зон, индустриальных зон, индустриальных парков</td>
-<td>3 629 760</td>
+<td>2 829 760</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Поддержка предпринимательской деятельности и защита конкуренции</td>
-<td>2 090 275</td>
+<td>2 489 557</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>266</td>
 <td></td>
 <td>Управление предпринимательства и индустриально-инновационного развития области</td>
-<td>1 972 109</td>
+<td>2 371 391</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>005</td>
 <td>Поддержка частного предпринимательства в рамках национального проекта по развитию предпринимательства на 2021 – 2025 годы</td>
-<td>82 000</td>
+<td>81 282</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -2919,15 +2971,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 939</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>010</td>
 <td>Субсидирование процентной ставки по кредитам в рамках национального проекта по развитию предпринимательства на 2021 – 2025 годы и Механизма кредитования приоритетных проектов</td>
-<td>1 736 040</td>
+<td>2 136 040</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -2935,7 +2987,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>150 130</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -2943,7 +2995,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>118 166</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>051</td>
@@ -2951,15 +3003,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>118 166</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>3 551 092</td>
+<td>3 527 980</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -2967,7 +3019,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>122 575</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>058</td>
@@ -2975,7 +3027,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>58 274</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>096</td>
@@ -2983,23 +3035,23 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>64 301</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
 <td>Управление координации занятости и социальных программ области</td>
-<td>35 321</td>
+<td>20 602</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>096</td>
 <td>Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
-<td>35 321</td>
+<td>20 602</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -3007,7 +3059,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>890 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -3015,15 +3075,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>890 000</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>258</td>
 <td></td>
@@ -3031,7 +3083,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 743</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -3039,39 +3091,39 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 743</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>261</td>
 <td></td>
 <td>Управление образования области</td>
-<td>1 591 771</td>
+<td>1 580 152</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>079</td>
 <td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта «Ауыл-Ел бесігі»</td>
-<td>1 591 771</td>
+<td>1 580 152</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>266</td>
 <td></td>
 <td>Управление предпринимательства и индустриально-инновационного развития области</td>
-<td>448 786</td>
+<td>452 971</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области развития предпринимательства и индустриально-инновационной деятельности</td>
-<td>255 533</td>
+<td>259 718</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -3079,7 +3131,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>13 864</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -3087,23 +3139,23 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>179 389</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
 <td>Управление строительства области</td>
-<td>396 144</td>
+<td>395 185</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>097</td>
 <td>Развитие социальной и инженерной инфраструктуры в сельских населенных пунктах в рамках проекта «Ауыл-Ел бесігі»</td>
-<td>396 144</td>
+<td>395 185</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>279</td>
 <td></td>
@@ -3111,7 +3163,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>55 752</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>096</td>
@@ -3119,47 +3171,47 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>55 752</td>
 </tr>
 <tr>
-<td colspan="2">14</td>
+<td>14</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Обслуживание долга</td>
-<td>2 392 649</td>
+<td>2 403 052</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Обслуживание долга</td>
-<td>2 392 649</td>
+<td>2 403 052</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
 <td>Управление финансов области</td>
-<td>2 392 649</td>
+<td>2 403 052</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>004</td>
 <td>Обслуживание долга местных исполнительных органов</td>
-<td>2 380 608</td>
+<td>2 388 510</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>016</td>
 <td>Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из республиканского бюджета</td>
-<td>12 041</td>
+<td>14 542</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3167,7 +3219,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 051 966</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -3175,7 +3227,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 051 966</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -3183,7 +3235,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 051 966</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -3191,7 +3243,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 566 002</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -3199,7 +3251,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>361 175</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>053</td>
@@ -3207,87 +3259,87 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 124 789</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>3. Чистое бюджетное кредитование</td>
-<td>9 975 164</td>
+<td>10 468 561</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>17 782 592</td>
+<td>18 474 619</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>804 625</td>
+<td>785 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>804 625</td>
+<td>785 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>256</td>
 <td></td>
 <td>Управление координации занятости и социальных программ области</td>
-<td>804 625</td>
+<td>785 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>063</td>
 <td>Предоставление бюджетных кредитов для содействия предпринимательской инициативе молодежи</td>
-<td>804 625</td>
+<td>785 000</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>4 515 417</td>
+<td>5 227 069</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>4 515 417</td>
+<td>5 227 069</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>271</td>
 <td></td>
 <td>Управление строительства области</td>
-<td>4 515 417</td>
+<td>5 227 069</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>009</td>
 <td>Кредитование районных (городов областного значения) бюджетов на проектирование и (или) строительство жилья</td>
-<td>4 515 417</td>
+<td>5 227 069</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3295,7 +3347,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>12 462 550</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -3303,7 +3355,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>11 500 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>255</td>
 <td></td>
@@ -3311,7 +3363,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>11 500 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td>087</td>
@@ -3319,15 +3379,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 500 000</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>092</td>
@@ -3335,7 +3387,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 000 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -3343,7 +3395,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>962 550</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>258</td>
 <td></td>
@@ -3351,7 +3403,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>962 550</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -3359,31 +3411,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>962 550</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>7 807 428</td>
+<td>8 006 058</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>7 807 428</td>
+<td>8 006 058</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>7 807 428</td>
+<td>8 006 058</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3391,7 +3443,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>482 157</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3399,7 +3451,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>482 157</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3407,7 +3459,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>482 157</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -3415,7 +3467,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>482 157</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>266</td>
 <td></td>
@@ -3423,7 +3475,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>282 157</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>065</td>
@@ -3431,7 +3483,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>282 157</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>268</td>
 <td></td>
@@ -3439,7 +3491,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>200 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>065</td>
@@ -3447,47 +3499,47 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>200 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>-10 442 502</td>
+<td>-11 305 777</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>10 442 502</td>
+<td>11 305 777</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Поступления займов</td>
-<td>17 762 967</td>
+<td>18 474 619</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>17 762 967</td>
+<td>18 474 619</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
 <td>Государственные эмиссионные ценные бумаги</td>
-<td>4 515 417</td>
+<td>5 227 069</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td></td>
@@ -3495,31 +3547,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>13 247 550</td>
 </tr>
 <tr>
-<td colspan="2">16</td>
+<td>16</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>7 794 344</td>
+<td>7 891 542</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>7 794 344</td>
+<td>7 891 542</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>257</td>
 <td></td>
 <td>Управление финансов области</td>
-<td>7 794 344</td>
+<td>7 891 542</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -3527,35 +3579,35 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>5 835 467</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>015</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>1 958 877</td>
+<td>2 056 075</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>473 879</td>
+<td>722 700</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>473 879</td>
+<td>722 700</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>473 879</td>
+<td>722 700</td>
 </tr>
 </table>

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
+source: https://zan.gov.kz/client/#!/doc/175446/rus/04.10.2023
 ---
 
 > *Приложение 3*  
@@ -9,239 +9,239 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 > *от 9 декабря 2022 года*  
 > *№ 211/19*
 
-## Областной бюджет на 2025 год (с изменениями и дополнениями)
+## Областной бюджет на 2025 год (с изменениями и дополнением)
 
-> *Сноска. Приложение 3 в редакции решения Павлодарского областного маслихата от 27.04.2023 № 6/2 (вводится в действие с 01.01.2023).*
+> *Сноска. Приложение 3 в редакции решений Павлодарского областного маслихата от 27.04.2023 № 6/2 (вводится в действие с 01.01.2023); от 04.10.2023 № 64/5 (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Класс</td>
 <td>Наименование</td>
-<td>Сумма</td>
+<td colspan="2">Сумма</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
-<td>(тысяч тенге)</td>
+<td colspan="2">(тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
 <th>3</th>
 <th colspan="2">4</th>
-<th>5</th>
+<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. Доходы</td>
-<td>385 927 254</td>
+<td colspan="2">387 248 834</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td>53 895 333</td>
+<td colspan="2">53 895 333</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td>27 969 084</td>
+<td colspan="2">27 969 084</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>27 969 084</td>
+<td colspan="2">27 969 084</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
 <td></td>
 <td colspan="2">Социальный налог</td>
-<td>18 925 903</td>
+<td colspan="2">18 925 903</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Социальный налог</td>
-<td>18 925 903</td>
+<td colspan="2">18 925 903</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td>7 000 346</td>
+<td colspan="2">7 000 346</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td>6 412 224</td>
+<td colspan="2">6 412 224</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>588 122</td>
+<td colspan="2">588 122</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td></td>
 <td colspan="2">Неналоговые поступления</td>
-<td>2 823 536</td>
+<td colspan="2">2 823 536</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td>1 556 782</td>
+<td colspan="2">1 556 782</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Поступления части чистого дохода государственных предприятий</td>
-<td>28 140</td>
+<td colspan="2">28 140</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Доходы на доли участия в юридических лицах, находящиеся в государственной собственности</td>
-<td>1 895</td>
+<td colspan="2">1 895</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>86 561</td>
+<td colspan="2">86 561</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>7</td>
 <td colspan="2">Вознаграждения по кредитам, выданным из государственного бюджета</td>
-<td>1 440 186</td>
+<td colspan="2">1 440 186</td>
 </tr>
 <tr>
 <td></td>
 <td>06</td>
 <td></td>
 <td colspan="2">Прочие неналоговые поступления</td>
-<td>1 266 754</td>
+<td colspan="2">1 266 754</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Прочие неналоговые поступления</td>
-<td>1 266 754</td>
+<td colspan="2">1 266 754</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>329 208 385</td>
+<td colspan="2">330 529 965</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Трансферты из нижестоящих органов государственного управления</td>
-<td>182 537 891</td>
+<td colspan="2">183 859 471</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>182 537 891</td>
+<td colspan="2">183 859 471</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>146 670 494</td>
+<td colspan="2">146 670 494</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Трансферты из республиканского бюджета</td>
-<td>146 670 494</td>
+<td colspan="2">146 670 494</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="6">Функциональная группа</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа Наименование</td>
+<td colspan="5">Функциональная подгруппа Наименование</td>
 <td>Сумма</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Администратор бюджетных программ</td>
 <td>(тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Программа</td>
 <td></td>
 </tr>
 <tr>
 <th>1</th>
-<th>2</th>
+<th colspan="2">2</th>
 <th>3</th>
 <th>4</th>
 <th>5</th>
 <th>6</th>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>385 653 412</td>
+<td>386 974 992</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -249,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>4 436 579</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -257,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 283 088</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>110</td>
 <td></td>
@@ -265,7 +265,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>137 317</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -273,7 +273,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>137 317</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>120</td>
 <td></td>
@@ -281,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 530 982</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -289,15 +289,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 296 216</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
-<td>Обеспечение и проведение выборов акимов городов районного значения, сел, поселков, сельских округов</td>
+<td>Обеспечение и проведение выборов акимов</td>
 <td>234 766</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>282</td>
 <td></td>
@@ -305,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>319 443</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -313,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>319 443</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>747</td>
 <td></td>
@@ -321,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>295 346</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>075</td>
@@ -329,7 +329,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>295 346</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -337,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>404 080</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -345,15 +345,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>295 361</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
-<td>Услуги по реализации государственной политики в области исполнения местного бюджета и управления коммунальной собственностью</td>
+<td>Услуги по реализации государственной политики в области исполнения местного бюджета, управления коммунальной собственностью и бюджетного планирования</td>
 <td>272 687</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -361,7 +361,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>22 674</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>718</td>
 <td></td>
@@ -369,7 +369,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>108 719</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -377,7 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>108 719</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -385,7 +385,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>372 040</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>258</td>
 <td></td>
@@ -393,7 +393,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>372 040</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -401,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>365 365</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>061</td>
@@ -409,7 +409,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 675</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -417,7 +417,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>377 371</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>269</td>
 <td></td>
@@ -425,7 +425,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>174 703</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -433,7 +433,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>87 699</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -441,7 +441,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>87 004</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>700</td>
 <td></td>
@@ -449,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>202 668</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -457,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>202 668</td>
 </tr>
 <tr>
-<td>02</td>
+<td colspan="2">02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -465,7 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>482 495</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -473,7 +473,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>120 261</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>736</td>
 <td></td>
@@ -481,7 +481,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>120 261</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -489,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>111 391</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -497,7 +497,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 870</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -505,7 +505,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>362 234</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>287</td>
 <td></td>
@@ -513,15 +513,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>44 353</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -529,7 +521,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>44 353</td>
 </tr>
 <tr>
-<td></td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td>736</td>
 <td></td>
@@ -537,7 +537,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>317 881</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -545,7 +545,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>83 224</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -553,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>230 139</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -561,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>4 518</td>
 </tr>
 <tr>
-<td>03</td>
+<td colspan="2">03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -569,7 +569,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 276 165</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -577,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 276 165</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>252</td>
 <td></td>
@@ -585,7 +585,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 276 165</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -593,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 269 265</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -601,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 900</td>
 </tr>
 <tr>
-<td>04</td>
+<td colspan="2">04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -609,7 +609,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>203 143 053</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -617,7 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>31 554 718</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -625,7 +625,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>31 554 718</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>081</td>
@@ -633,7 +633,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 603 820</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>200</td>
@@ -641,7 +641,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>145 897</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>202</td>
@@ -649,7 +649,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>27 805 001</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -657,7 +657,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>145 984 477</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -665,7 +665,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>137 467 847</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -673,7 +673,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 935 717</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -681,7 +681,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>7 433 386</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>055</td>
@@ -689,7 +689,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 936 584</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>082</td>
@@ -697,7 +697,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>80 503 483</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>083</td>
@@ -705,7 +705,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>716 717</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>203</td>
@@ -713,7 +713,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>37 941 960</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>285</td>
 <td></td>
@@ -721,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 516 630</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -729,7 +729,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>7 428 706</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -737,7 +737,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 087 924</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -745,7 +745,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>17 089 329</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -753,7 +753,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>729 983</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>043</td>
@@ -761,7 +761,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>729 983</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -769,7 +769,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>16 359 346</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>024</td>
@@ -777,7 +777,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>16 251 053</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>025</td>
@@ -785,7 +785,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>108 293</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -793,7 +793,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 031 161</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>120</td>
 <td></td>
@@ -801,7 +801,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 392</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>019</td>
@@ -809,7 +809,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 392</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -817,7 +817,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>27 844</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -825,7 +825,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>27 844</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -833,7 +833,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 000 925</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>052</td>
@@ -841,15 +841,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 000 925</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -857,7 +849,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>678 994</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -865,7 +857,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>678 994</td>
 </tr>
 <tr>
-<td></td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>057</td>
@@ -873,7 +873,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>678 994</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -881,7 +881,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>5 804 374</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -889,7 +889,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>5 804 374</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -897,7 +897,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>999 741</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -905,15 +905,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>108 058</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
-<td>Приобретение и доставка учебников, учебно-методических комплексов для государственных организациях образования</td>
+<td>Приобретение и доставка учебников, учебно-методических комплексов для государственных организаций образования</td>
 <td>1 175 684</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -921,7 +921,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>315 467</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -929,15 +929,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>569 896</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>019</td>
-<td>Присуждение грантов государственным учреждениям образования за высокие показатели работы</td>
+<td>Присуждение грантов областным государственным учреждениям образования за высокие показатели работы</td>
 <td>56 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -945,7 +945,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 923 043</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>080</td>
@@ -953,7 +953,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>182 138</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>086</td>
@@ -961,7 +961,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>9 189</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>087</td>
@@ -969,7 +969,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>465 158</td>
 </tr>
 <tr>
-<td>05</td>
+<td colspan="2">05</td>
 <td></td>
 <td></td>
 <td></td>
@@ -977,7 +977,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>11 549 318</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -985,7 +985,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 844 110</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -993,7 +993,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 844 110</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1001,7 +1001,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>399 185</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1009,7 +1009,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>23 916</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>041</td>
@@ -1017,7 +1017,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 446 347</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>042</td>
@@ -1025,7 +1025,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 320</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>050</td>
@@ -1033,7 +1033,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>971 342</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1041,7 +1041,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 460 548</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -1049,7 +1049,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 460 548</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>027</td>
@@ -1057,7 +1057,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 460 548</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -1065,7 +1065,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>276 975</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -1073,7 +1073,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>276 975</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>039</td>
@@ -1081,7 +1081,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>276 975</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -1089,7 +1089,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>164 875</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -1097,7 +1097,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>164 875</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -1105,7 +1105,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>164 875</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1113,7 +1113,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>5 802 810</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>253</td>
 <td></td>
@@ -1121,7 +1121,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>5 802 810</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1129,7 +1129,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>285 512</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1137,15 +1137,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>282 217</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -1153,7 +1145,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 143</td>
 </tr>
 <tr>
-<td></td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1161,7 +1161,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>31 583</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -1169,7 +1169,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>100 500</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>033</td>
@@ -1177,31 +1177,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>5 092 855</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>24 931 065</td>
+<td>26 252 645</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Социальное обеспечение</td>
-<td>7 623 666</td>
+<td>8 612 544</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>256</td>
 <td></td>
 <td>Управление координации занятости и социальных программ области</td>
-<td>5 788 618</td>
+<td>6 777 496</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1209,7 +1209,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 563 853</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1217,7 +1217,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>455 093</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1225,7 +1225,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 772 634</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1233,7 +1233,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>397 300</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1241,7 +1241,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>599 738</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
+<td></td>
+<td>064</td>
+<td>Обеспечение деятельности центров трудовой мобильности и карьерных центров по социальной поддержке граждан по вопросам занятости</td>
+<td>988 878</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td>261</td>
 <td></td>
@@ -1249,7 +1257,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 835 048</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1257,7 +1265,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 660 821</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>092</td>
@@ -1265,7 +1273,31 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>174 227</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td>2</td>
 <td></td>
+<td></td>
+<td>Социальная помощь</td>
+<td>332 702</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>256</td>
+<td></td>
+<td>Управление координации занятости и социальных программ области</td>
+<td>332 702</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>068</td>
+<td>Программа занятости</td>
+<td>332 702</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1273,7 +1305,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>17 307 399</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>256</td>
 <td></td>
@@ -1281,7 +1313,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>17 165 463</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1289,7 +1321,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>231 068</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1297,7 +1329,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>348 391</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>044</td>
@@ -1305,7 +1337,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>25 653</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>053</td>
@@ -1313,7 +1345,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>45 948</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -1321,7 +1353,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>16 514 403</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>297</td>
 <td></td>
@@ -1329,7 +1361,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>141 936</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1337,7 +1369,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>141 936</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1345,7 +1377,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 369 841</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1353,7 +1385,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>767 531</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>279</td>
 <td></td>
@@ -1361,7 +1393,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>767 531</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1369,7 +1401,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>339 418</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>032</td>
@@ -1377,7 +1409,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>428 113</td>
 </tr>
 <tr>
-<td></td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1385,7 +1425,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>602 310</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>700</td>
 <td></td>
@@ -1393,15 +1433,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>602 310</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>041</td>
@@ -1409,7 +1441,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>602 310</td>
 </tr>
 <tr>
-<td>08</td>
+<td colspan="2">08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1417,7 +1449,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>13 413 841</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1425,7 +1457,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>4 198 916</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>748</td>
 <td></td>
@@ -1433,7 +1465,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>4 198 916</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1441,7 +1473,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 289 905</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1449,7 +1481,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>938 823</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1457,7 +1489,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 970 188</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1465,7 +1497,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 364 871</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>285</td>
 <td></td>
@@ -1473,7 +1505,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 364 871</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1481,7 +1513,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>125 978</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1489,7 +1521,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>109 246</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1497,7 +1529,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 129 647</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1505,7 +1537,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 004 955</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>743</td>
 <td></td>
@@ -1513,7 +1545,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>249 479</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1521,7 +1553,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>249 479</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>747</td>
 <td></td>
@@ -1529,7 +1561,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>737 184</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1537,7 +1569,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>737 184</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>748</td>
 <td></td>
@@ -1545,7 +1577,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 018 292</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1553,7 +1585,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>63 803</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -1561,7 +1593,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>359 283</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1569,7 +1601,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>595 206</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -1577,7 +1609,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>59 043</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>266</td>
 <td></td>
@@ -1585,7 +1617,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>59 043</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -1593,7 +1625,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>49 047</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>044</td>
@@ -1601,7 +1633,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>9 996</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1609,7 +1641,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>786 056</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>747</td>
 <td></td>
@@ -1617,7 +1649,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>580 707</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1625,7 +1657,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>227 904</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1633,7 +1665,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>352 803</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>748</td>
 <td></td>
@@ -1641,7 +1673,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>205 349</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1649,7 +1681,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>205 349</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1657,7 +1689,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>31 263 246</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1665,7 +1697,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>29 855 183</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>255</td>
 <td></td>
@@ -1673,7 +1705,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>26 771 753</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1681,7 +1713,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>219 333</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1689,7 +1721,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>968 093</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1697,7 +1729,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 707 866</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1705,7 +1737,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>340 234</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>029</td>
@@ -1713,7 +1745,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>12 400</td>
 </tr>
 <tr>
-<td></td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -1721,15 +1761,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>49 140</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>047</td>
@@ -1737,7 +1769,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>998 541</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>050</td>
@@ -1745,7 +1777,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 148 171</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>051</td>
@@ -1753,7 +1785,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>23 136</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>053</td>
@@ -1761,7 +1793,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>7 495 218</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>056</td>
@@ -1769,7 +1801,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 359 879</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>057</td>
@@ -1777,7 +1809,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>449 742</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>719</td>
 <td></td>
@@ -1785,7 +1817,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 083 430</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1793,7 +1825,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>201 581</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1801,7 +1833,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>20 476</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -1809,7 +1841,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>3 565</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1817,7 +1849,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 640</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1825,7 +1857,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>63 201</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1833,7 +1865,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>44 518</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1841,7 +1873,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>20 801</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1849,7 +1881,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 647 917</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>028</td>
@@ -1857,7 +1889,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>4 066</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -1865,7 +1897,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>70 665</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1873,7 +1905,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>862 232</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>700</td>
 <td></td>
@@ -1881,7 +1913,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>862 232</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1889,7 +1921,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>862 232</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -1897,7 +1929,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>86 800</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>700</td>
 <td></td>
@@ -1905,7 +1937,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>86 800</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>034</td>
@@ -1913,7 +1945,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>86 800</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -1921,7 +1953,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>300 564</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>700</td>
 <td></td>
@@ -1929,7 +1961,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>300 564</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -1937,7 +1969,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>300 564</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -1945,7 +1977,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>103 883</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>251</td>
 <td></td>
@@ -1953,7 +1985,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>103 883</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1961,7 +1993,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>103 883</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1969,7 +2001,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>54 584</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>719</td>
 <td></td>
@@ -1977,7 +2009,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>54 584</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>033</td>
@@ -1985,7 +2017,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>18 620</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>034</td>
@@ -1993,7 +2025,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>29 006</td>
 </tr>
 <tr>
-<td></td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>035</td>
@@ -2001,15 +2041,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>6 958</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td>11</td>
+<td colspan="2">11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2017,7 +2049,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>348 736</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -2025,7 +2057,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>348 736</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>271</td>
 <td></td>
@@ -2033,7 +2065,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>142 101</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2041,7 +2073,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>142 101</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>272</td>
 <td></td>
@@ -2049,7 +2081,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>87 428</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2057,7 +2089,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>87 428</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>724</td>
 <td></td>
@@ -2065,7 +2097,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>119 207</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2073,7 +2105,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>119 207</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2081,7 +2113,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 352 619</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2089,7 +2121,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 422 853</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>268</td>
 <td></td>
@@ -2097,7 +2129,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 422 853</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -2105,7 +2137,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 422 853</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -2113,7 +2145,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 929 766</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>268</td>
 <td></td>
@@ -2121,7 +2153,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 929 766</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2129,7 +2161,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>127 448</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -2137,7 +2169,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>8 802 318</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2145,7 +2177,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>62 865 361</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -2153,7 +2185,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 372 472</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>266</td>
 <td></td>
@@ -2161,7 +2193,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 372 472</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -2169,7 +2201,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>82 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -2177,7 +2209,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>4 302</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -2185,7 +2217,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 136 040</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -2193,7 +2225,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>150 130</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -2201,7 +2233,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>60 492 889</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>256</td>
 <td></td>
@@ -2209,7 +2241,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>50 707</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>096</td>
@@ -2217,7 +2249,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>50 707</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2225,7 +2257,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 100 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -2233,7 +2265,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>1 100 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>258</td>
 <td></td>
@@ -2241,7 +2273,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>58 883 433</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -2249,7 +2281,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>11 731</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -2257,7 +2289,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>58 871 702</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>266</td>
 <td></td>
@@ -2265,7 +2297,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>458 749</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -2273,7 +2305,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>262 855</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -2281,7 +2313,15 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>195 894</td>
 </tr>
 <tr>
-<td>14</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<td colspan="2">14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2289,7 +2329,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 066 769</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2297,15 +2337,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 066 769</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2313,7 +2345,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 066 769</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -2321,7 +2353,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 056 348</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -2329,7 +2361,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>10 421</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2337,7 +2369,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>9 154 324</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2345,7 +2377,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>9 154 324</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2353,7 +2385,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>9 154 324</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -2361,7 +2393,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>9 154 324</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2369,7 +2401,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>-2 462 429</td>
 </tr>
 <tr>
-<td>5</td>
+<td colspan="2">5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2377,7 +2409,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 462 429</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -2385,7 +2417,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 462 429</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -2393,7 +2425,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 462 429</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2401,7 +2433,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>282 157</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2409,7 +2441,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>282 157</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2417,7 +2449,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>282 157</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -2425,7 +2457,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>282 157</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>266</td>
 <td></td>
@@ -2433,7 +2465,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>282 157</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>065</td>
@@ -2441,7 +2473,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>282 157</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2449,7 +2481,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 454 114</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2457,7 +2489,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>-2 454 114</td>
 </tr>
 <tr>
-<td>16</td>
+<td colspan="2">16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2465,7 +2497,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 454 114</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2473,7 +2505,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 454 114</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>257</td>
 <td></td>
@@ -2481,7 +2513,7 @@ source: https://zan.gov.kz/client/#!/doc/175446/rus/27.06.2023
 <td>2 454 114</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
