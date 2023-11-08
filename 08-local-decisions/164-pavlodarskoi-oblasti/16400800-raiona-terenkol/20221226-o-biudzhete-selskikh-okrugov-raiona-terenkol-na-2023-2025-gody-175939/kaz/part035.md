@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/175939/kaz/03.05.2023
+source: https://zan.gov.kz/client/#!/doc/175939/kaz/08.11.2023
 ---
 
 > *Тереңкөл аудандық*  
