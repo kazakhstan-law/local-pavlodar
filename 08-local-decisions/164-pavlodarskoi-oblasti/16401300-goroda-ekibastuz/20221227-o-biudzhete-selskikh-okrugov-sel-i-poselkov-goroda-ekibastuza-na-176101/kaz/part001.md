@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
+source: https://zan.gov.kz/client/#!/doc/176101/kaz/21.11.2023
 ---
 
 > *Екібастұз қалалық*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 
 ## 2023 жылға арналған Солнечный поселкесінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 04.05.2023 № 19/3 ( 01.01.2023 бастап қолданысқа енгізіледі); 29.08.2023 № 48/6 ( 01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 04.05.2023 № 19/3 ( 01.01.2023 бастап қолданысқа енгізіледі); 29.08.2023 № 48/6 ( 01.01.2023 бастап қолданысқа енгізіледі); 21.11.2023 № 91/10 ( 01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5">1. Кірістер</td>
-<td>143 299</td>
+<td>147 621</td>
 </tr>
 <tr>
 <td>1</td>
@@ -153,21 +153,21 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферттердің түсімдері</td>
-<td>41 785</td>
+<td>46 107</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="5">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>41 785</td>
+<td>46 107</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="5">Аудандардың (облыстықмаңызы бар қаланың) бюджетінен трансферттер</td>
-<td>41 785</td>
+<td>46 107</td>
 </tr>
 </table>
 
@@ -212,7 +212,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">2. Шығындар</td>
-<td>148 663</td>
+<td>152 985</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -220,7 +220,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>57 173</td>
+<td>61 345</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -228,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>57 173</td>
+<td>61 345</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -236,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>57 173</td>
+<td>61 345</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -244,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>56 173</td>
+<td>60 495</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -252,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td>032</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td>1 000</td>
+<td>850</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -260,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>59 577</td>
+<td>59 252</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -268,7 +268,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>59 577</td>
+<td>59 252</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -276,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>59 577</td>
+<td>59 252</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -284,7 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td>008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>12 070</td>
+<td>11 853</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -292,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td>009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>11 126</td>
+<td>11 064</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -300,7 +300,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td>011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>36 381</td>
+<td>36 335</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -308,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңiстiк</td>
-<td>26 031</td>
+<td>26 643</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -316,7 +316,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Мәдениет саласындағы қызмет</td>
-<td>26 031</td>
+<td>26 643</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -324,7 +324,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>26 031</td>
+<td>26 643</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -332,7 +332,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td>006</td>
 <td colspan="2">Жергiлiктi деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td>26 031</td>
+<td>26 643</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -340,7 +340,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Көлiк және коммуникация</td>
-<td>5 882</td>
+<td>5 745</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -348,7 +348,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Автомобиль көлiгi</td>
-<td>5 882</td>
+<td>5 745</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -356,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3">124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5 882</td>
+<td>5 745</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -364,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td>013</td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>5 882</td>
+<td>5 745</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1310,7 +1310,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 
 ## 2023 жылға арналған Шідерті поселкесінің бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 04.05.2023 № 19/3 ( 01.01.2023 бастап қолданысқа енгізіледі); 29.08.2023 № 48/6 ( 01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 04.05.2023 № 19/3 ( 01.01.2023 бастап қолданысқа енгізіледі); 29.08.2023 № 48/6 ( 01.01.2023 бастап қолданысқа енгізіледі); 21.11.2023 № 91/10 ( 01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1347,35 +1347,35 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">1. Кірістер</td>
-<td>145 161</td>
+<td>138 837</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">Салықтық түсімдер</td>
-<td>16 455</td>
+<td>16 647</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="7">Табыс салығы</td>
-<td>14</td>
+<td>1 514</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="7">Жеке табыс салығы</td>
-<td>14</td>
+<td>1 514</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="7">Меншiкке салынатын салықтар</td>
-<td>13 111</td>
+<td>11 803</td>
 </tr>
 <tr>
 <td></td>
@@ -1389,7 +1389,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="7">Жер салығы</td>
-<td>3 941</td>
+<td>2 641</td>
 </tr>
 <tr>
 <td></td>
@@ -1403,7 +1403,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="7">Бірыңғай жер салығы</td>
-<td>8</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1466,21 +1466,21 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">Трансферттердің түсімдері</td>
-<td>127 764</td>
+<td>121 248</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="7">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>127 764</td>
+<td>121 248</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="7">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>127 764</td>
+<td>121 248</td>
 </tr>
 </table>
 
@@ -1525,7 +1525,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4">2. Шығындар</td>
-<td>145 759</td>
+<td>139 435</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1533,7 +1533,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>57 035</td>
+<td>61 217</td>
 </tr>
 <tr>
 <td></td>
@@ -1541,7 +1541,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>57 035</td>
+<td>61 217</td>
 </tr>
 <tr>
 <td></td>
@@ -1549,7 +1549,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>57 035</td>
+<td>61 217</td>
 </tr>
 <tr>
 <td></td>
@@ -1557,15 +1557,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>56 285</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">032</td>
-<td colspan="4">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td>750</td>
+<td>61 217</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1573,7 +1565,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>63 430</td>
+<td>53 724</td>
 </tr>
 <tr>
 <td></td>
@@ -1581,7 +1573,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4">Коммуналдық шаруашылық</td>
-<td>19 796</td>
+<td>20 236</td>
 </tr>
 <tr>
 <td></td>
@@ -1589,7 +1581,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>19 796</td>
+<td>20 236</td>
 </tr>
 <tr>
 <td></td>
@@ -1597,7 +1589,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3">014</td>
 <td colspan="4">Елдi мекендердi сумен жабдықтауды ұйымдастыру</td>
-<td>19 796</td>
+<td>20 236</td>
 </tr>
 <tr>
 <td></td>
@@ -1605,7 +1597,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4">Елді-мекендерді көркейту</td>
-<td>43 634</td>
+<td>33 488</td>
 </tr>
 <tr>
 <td></td>
@@ -1613,7 +1605,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>43 634</td>
+<td>33 488</td>
 </tr>
 <tr>
 <td></td>
@@ -1621,7 +1613,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3">008</td>
 <td colspan="4">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>17 092</td>
+<td>14 092</td>
 </tr>
 <tr>
 <td></td>
@@ -1629,7 +1621,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td colspan="4">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>26 542</td>
+<td>19 396</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1669,7 +1661,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4">Көлiк және коммуникация</td>
-<td>4 590</td>
+<td>3 790</td>
 </tr>
 <tr>
 <td></td>
@@ -1677,7 +1669,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="4">Автомобиль көлiгi</td>
-<td>4 590</td>
+<td>3 790</td>
 </tr>
 <tr>
 <td></td>
@@ -1685,7 +1677,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>4 590</td>
+<td>3 790</td>
 </tr>
 <tr>
 <td></td>
@@ -1701,7 +1693,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3">045</td>
 <td colspan="4">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td>2 000</td>
+<td>1 200</td>
 </tr>
 <tr>
 <td></td>
@@ -1744,14 +1736,6 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td>0</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="3">4</th>
-<th colspan="4">5</th>
-<th>6</th>
-</tr>
-<tr>
 <td>6</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1766,6 +1750,14 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="3"></td>
 <td colspan="4">5. Бюджет тапшылығы (профициті)</td>
 <td>-598</td>
+</tr>
+<tr>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+<th colspan="4">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2679,7 +2671,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 
 ## 2023 жылға арналған Ақкөл ауылдық округінің бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 04.05.2023 № 19/3 ( 01.01.2023 бастап қолданысқа енгізіледі); 29.08.2023 № 48/6 ( 01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 04.05.2023 № 19/3 ( 01.01.2023 бастап қолданысқа енгізіледі); 29.08.2023 № 48/6 ( 01.01.2023 бастап қолданысқа енгізіледі); 21.11.2023 № 91/10 ( 01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -2716,35 +2708,35 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">1. Кірістер</td>
-<td>57 363</td>
+<td>59 304</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">Салықтық түсімдер</td>
-<td>1 957</td>
+<td>2 194</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="7">Табыс салығы</td>
-<td>229</td>
+<td>291</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="7">Жеке табыс салығы</td>
-<td>229</td>
+<td>291</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="7">Меншiкке салынатын салықтар</td>
-<td>1 465</td>
+<td>1 592</td>
 </tr>
 <tr>
 <td></td>
@@ -2758,14 +2750,14 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="7">Жер салығы</td>
-<td>150</td>
+<td>154</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="7">Көлiк құралдарына салынатын салық</td>
-<td>1 227</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -2779,14 +2771,14 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="7">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td>263</td>
+<td>311</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="7">Табиғи және басқа да ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
-<td>263</td>
+<td>311</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2807,21 +2799,21 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="7">Трансферттердің түсімдері</td>
-<td>55 406</td>
+<td>57 110</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="7">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>55 406</td>
+<td>57 110</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="7">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>55 406</td>
+<td>57 110</td>
 </tr>
 </table>
 
@@ -2866,7 +2858,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">2. Шығындар</td>
-<td>57 363</td>
+<td>59 304</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2874,7 +2866,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>32 843</td>
+<td>34 547</td>
 </tr>
 <tr>
 <td></td>
@@ -2882,7 +2874,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>32 843</td>
+<td>34 547</td>
 </tr>
 <tr>
 <td></td>
@@ -2890,7 +2882,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">124</td>
 <td colspan="4"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>32 843</td>
+<td>34 547</td>
 </tr>
 <tr>
 <td></td>
@@ -2898,7 +2890,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="4">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>32 843</td>
+<td>34 547</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2906,7 +2898,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>22 496</td>
+<td>22 733</td>
 </tr>
 <tr>
 <td></td>
@@ -2938,7 +2930,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="3">Елді-мекендерді көркейту</td>
-<td>6 351</td>
+<td>6 588</td>
 </tr>
 <tr>
 <td></td>
@@ -2946,7 +2938,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">124</td>
 <td colspan="4"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>6 351</td>
+<td>6 588</td>
 </tr>
 <tr>
 <td></td>
@@ -2970,7 +2962,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="4">011</td>
 <td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>370</td>
+<td>607</td>
 </tr>
 <tr>
 <td>12</td>
@@ -3840,7 +3832,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 
 ## 2023 жылға арналған Бәйет ауылдық округінің бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 04.05.2023 № 19/3 ( 01.01.2023 бастап қолданысқа енгізіледі); 29.08.2023 № 48/6 ( 01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 10-қосымша жаңа редакцияда – Павлодар облысы Екібастұз қалалық мәслихатының 04.05.2023 № 19/3 ( 01.01.2023 бастап қолданысқа енгізіледі); 29.08.2023 № 48/6 ( 01.01.2023 бастап қолданысқа енгізіледі); 21.11.2023 № 91/10 ( 01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -3877,49 +3869,49 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">1. Кірістер</td>
-<td colspan="2">180 324</td>
+<td colspan="2">192 491</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">Салықтық түсімдер</td>
-<td colspan="2">3 188</td>
+<td colspan="2">3 765</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="6">Табыс салығы</td>
-<td colspan="2">0</td>
+<td colspan="2">302</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="6">Жеке табыс салығы</td>
-<td colspan="2">0</td>
+<td colspan="2">302</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="6">Меншiкке салынатын салықтар</td>
-<td colspan="2">3 151</td>
+<td colspan="2">3 168</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="6">Мүлікке салынатын салықтар</td>
-<td colspan="2">34</td>
+<td colspan="2">43</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="6">Жер салығы</td>
-<td colspan="2">294</td>
+<td colspan="2">302</td>
 </tr>
 <tr>
 <td></td>
@@ -3940,14 +3932,14 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="6">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td colspan="2">37</td>
+<td colspan="2">295</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="6">Табиғи және басқа да ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
-<td colspan="2">37</td>
+<td colspan="2">295</td>
 </tr>
 <tr>
 <td>2</td>
@@ -3968,21 +3960,21 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="6">Трансферттердің түсімдері</td>
-<td colspan="2">177 136</td>
+<td colspan="2">188 726</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="6">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">177 136</td>
+<td colspan="2">188 726</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="6">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">177 136</td>
+<td colspan="2">188 726</td>
 </tr>
 </table>
 
@@ -4027,7 +4019,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">2. Шығындар</td>
-<td colspan="2">180 924</td>
+<td colspan="2">193 091</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4035,7 +4027,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">36 563</td>
+<td colspan="2">39 677</td>
 </tr>
 <tr>
 <td></td>
@@ -4043,7 +4035,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">36 563</td>
+<td colspan="2">39 677</td>
 </tr>
 <tr>
 <td></td>
@@ -4051,7 +4043,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">36 563</td>
+<td colspan="2">39 677</td>
 </tr>
 <tr>
 <td></td>
@@ -4059,7 +4051,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">36 563</td>
+<td colspan="2">39 677</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4067,7 +4059,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">46 196</td>
+<td colspan="2">37 691</td>
 </tr>
 <tr>
 <td></td>
@@ -4099,7 +4091,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Елді-мекендерді көркейту</td>
-<td colspan="2">41 196</td>
+<td colspan="2">32 691</td>
 </tr>
 <tr>
 <td></td>
@@ -4107,7 +4099,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">41 196</td>
+<td colspan="2">32 691</td>
 </tr>
 <tr>
 <td></td>
@@ -4115,7 +4107,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3">008</td>
 <td colspan="3">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">2 518</td>
+<td colspan="2">2 268</td>
 </tr>
 <tr>
 <td></td>
@@ -4131,7 +4123,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">35 560</td>
+<td colspan="2">27 305</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4139,7 +4131,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Көлiк және коммуникация</td>
-<td colspan="2">98 165</td>
+<td colspan="2">115 723</td>
 </tr>
 <tr>
 <td></td>
@@ -4147,7 +4139,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Автомобиль көлiгi</td>
-<td colspan="2">98 165</td>
+<td colspan="2">115 723</td>
 </tr>
 <tr>
 <td></td>
@@ -4155,7 +4147,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">98 165</td>
+<td colspan="2">115 723</td>
 </tr>
 <tr>
 <td></td>
@@ -4163,7 +4155,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3">013</td>
 <td colspan="3">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="2">1 192</td>
+<td colspan="2">950</td>
 </tr>
 <tr>
 <td></td>
@@ -4171,7 +4163,7 @@ source: https://zan.gov.kz/client/#!/doc/176101/kaz/29.08.2023
 <td colspan="2"></td>
 <td colspan="3">045</td>
 <td colspan="3">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td colspan="2">96 973</td>
+<td colspan="2">114 773</td>
 </tr>
 <tr>
 <td></td>
