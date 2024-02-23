@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/190975/kaz/28.12.2023
+source: https://zan.gov.kz/client/#!/doc/190975/kaz/23.02.2024
 ---
 
 > *Ақсу қалалық*  
