@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
+source: https://zan.gov.kz/client/#!/doc/190311/kaz/27.03.2024
 ---
 
 > *Павлодар облыстық*  
@@ -8,7 +8,9 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 > *19 желтоқсандағы № 91/7*  
 > *шешiмiне 2-қосымша*
 
-## 2025 жылға арналған облыстық бюджет
+## 2025 жылға арналған облыстық бюджет (өзгерістермен)
+
+> *Ескерту. 2-қосымша жаңа редакцияда - Павлодар облыстық мәслихатының 27.03.2024 № 115/10 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -34,11 +36,11 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -234,12 +236,12 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td colspan="3">5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -255,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
-<td colspan="2">4 594 899</td>
+<td colspan="2">4 483 078</td>
 </tr>
 <tr>
 <td></td>
@@ -263,7 +265,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">3 458 611</td>
+<td colspan="2">3 346 790</td>
 </tr>
 <tr>
 <td></td>
@@ -287,7 +289,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td>120</td>
 <td colspan="3"></td>
 <td>Облыс әкімінің аппараты</td>
-<td colspan="2">2 663 857</td>
+<td colspan="2">2 552 036</td>
 </tr>
 <tr>
 <td></td>
@@ -295,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 <td colspan="3">001</td>
 <td>Облыс әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">2 429 091</td>
+<td colspan="2">2 317 270</td>
 </tr>
 <tr>
 <td></td>
@@ -522,20 +524,20 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td colspan="2">44 353</td>
 </tr>
 <tr>
+<th>1</th>
+<th>2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
+</tr>
+<tr>
 <td></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">004</td>
 <td>Облыс ауқымдағы төтенше жағдайлардың алдын алу және оларды жою</td>
 <td colspan="2">44 353</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td colspan="3">5</td>
-<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -866,6 +868,14 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td colspan="2">713 536</td>
 </tr>
 <tr>
+<th>1</th>
+<th>2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
+</tr>
+<tr>
 <td></td>
 <td colspan="2"></td>
 <td></td>
@@ -880,14 +890,6 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td colspan="3"></td>
 <td>Облыстың білім басқармасы</td>
 <td colspan="2">13 536</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td colspan="3">5</td>
-<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1162,20 +1164,20 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td colspan="2">274 263</td>
 </tr>
 <tr>
+<th>1</th>
+<th>2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
+</tr>
+<tr>
 <td></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">008</td>
 <td>Қазақстан Республикасында ЖИТС профилактикасы және оған қарсы күрес жөніндегі іс-шараларды іске асыру</td>
 <td colspan="2">282 217</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td colspan="3">5</td>
-<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1402,12 +1404,12 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td colspan="2">21 250</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td colspan="3">5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1700,26 +1702,10 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td>266</td>
-<td colspan="3"></td>
-<td>Облыстың кәсіпкерлік және индустриалдық-инновациялық даму басқармасы</td>
-<td colspan="2">9 996</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3">044</td>
-<td>Туристік қызмет объектілерін салу, реконструкциялау кезінде кәсіпкерлік субъектілері шығындарының бір бөлігін өтеу</td>
-<td colspan="2">9 996</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
 <td>285</td>
 <td colspan="3"></td>
 <td>Облыстың дене шынықтыру және спорт басқармасы</td>
-<td colspan="2">46 667</td>
+<td colspan="2">56 663</td>
 </tr>
 <tr>
 <td></td>
@@ -1730,12 +1716,20 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td colspan="2">46 667</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td colspan="3">5</td>
-<td>6</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3">044</td>
+<td>Туристік қызмет объектілерін салу, реконструкциялау кезінде кәсіпкерлік субъектілері шығындарының бір бөлігін өтеу</td>
+<td colspan="2">9 996</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1978,12 +1972,12 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td colspan="2">31 966</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td colspan="3">5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2167,7 +2161,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 <td colspan="3"></td>
 <td>Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
-<td colspan="2">323 496</td>
+<td colspan="2">331 097</td>
 </tr>
 <tr>
 <td></td>
@@ -2175,7 +2169,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 <td colspan="3"></td>
 <td>Сәулет, қала құрылысы және құрылыс қызметі</td>
-<td colspan="2">323 496</td>
+<td colspan="2">331 097</td>
 </tr>
 <tr>
 <td></td>
@@ -2215,7 +2209,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td>724</td>
 <td colspan="3"></td>
 <td>Облыстың мемлекеттік сәулет-құрылыс бақылауы басқармасы</td>
-<td colspan="2">111 581</td>
+<td colspan="2">119 182</td>
 </tr>
 <tr>
 <td></td>
@@ -2223,7 +2217,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 <td colspan="3">001</td>
 <td>Жергілікті деңгейде мемлекеттік сәулет-құрылыс бақылау саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">111 581</td>
+<td colspan="2">119 182</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2290,12 +2284,12 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td colspan="2">277 329</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td colspan="3">5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2311,7 +2305,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 <td colspan="3"></td>
 <td>Басқалар</td>
-<td colspan="2">56 434 651</td>
+<td colspan="2">56 538 871</td>
 </tr>
 <tr>
 <td></td>
@@ -2367,7 +2361,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 <td colspan="3"></td>
 <td>Басқалар</td>
-<td colspan="2">54 462 179</td>
+<td colspan="2">54 566 399</td>
 </tr>
 <tr>
 <td></td>
@@ -2407,7 +2401,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td>258</td>
 <td colspan="3"></td>
 <td>Облыстың экономика және бюджеттік жоспарлау басқармасы</td>
-<td colspan="2">52 799 489</td>
+<td colspan="2">52 903 709</td>
 </tr>
 <tr>
 <td></td>
@@ -2423,7 +2417,7 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td></td>
 <td colspan="3">008</td>
 <td>Жаңа бастамаларға арналған шығыстар</td>
-<td colspan="2">52 787 758</td>
+<td colspan="2">52 891 978</td>
 </tr>
 <tr>
 <td></td>
@@ -2610,20 +2604,20 @@ source: https://zan.gov.kz/client/#!/doc/190311/kaz/19.12.2023
 <td colspan="2">7 380 478</td>
 </tr>
 <tr>
+<th>1</th>
+<th>2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
+</tr>
+<tr>
 <td></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3"></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td colspan="2">-7 380 478</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td colspan="3">3</td>
-<td>4</td>
-<td colspan="3">5</td>
-<td>6</td>
 </tr>
 <tr>
 <td>16</td>
