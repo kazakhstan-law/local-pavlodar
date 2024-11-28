@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
+source: https://zan.gov.kz/client/#!/doc/190947/rus/28.11.2024
 ---
 
 > *Приложение 1*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 
 ## Бюджет поселка Солнечный на 2024 год
 
-> *Сноска. Приложение 1 в редакции решений Экибастузского городского маслихата Павлодарской области 10.04.2024 № 138/17 (вводится в действие с 01.01.2024); 21.08.2024 № 175/21 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 в редакции решений Экибастузского городского маслихата Павлодарской области 10.04.2024 № 138/17 (вводится в действие с 01.01.2024); 21.08.2024 № 175/21 (вводится в действие с 01.01.2024); 28.11.2024 № 200/24 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -46,35 +46,35 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5">1. Доходы</td>
-<td>254 699</td>
+<td>265 473</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5">Налоговые поступления</td>
-<td>109 465</td>
+<td>112 070</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">01</td>
 <td colspan="2"></td>
 <td colspan="5">Подоходный налог</td>
-<td>4 322</td>
+<td>7 274</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4"></td>
 <td colspan="2">2</td>
 <td colspan="5">Индивидуальный подоходный налог</td>
-<td>4 322</td>
+<td>7 274</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">04</td>
 <td colspan="2"></td>
 <td colspan="5">Налоги на собственность</td>
-<td>16 103</td>
+<td>15 723</td>
 </tr>
 <tr>
 <td></td>
@@ -88,7 +88,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="2">3</td>
 <td colspan="5">Земельный налог</td>
-<td>562</td>
+<td>160</td>
 </tr>
 <tr>
 <td></td>
@@ -102,14 +102,14 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="2">5</td>
 <td colspan="5">Единый земельный налог</td>
-<td>10</td>
+<td>32</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">05</td>
 <td colspan="2"></td>
 <td colspan="5">Внутренние налоги на товары, работы и услуги</td>
-<td>89 040</td>
+<td>89 073</td>
 </tr>
 <tr>
 <td></td>
@@ -119,11 +119,18 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td>89 040</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2">4</td>
+<td colspan="5">Сборы за ведение предпринимательской и профессиональной деятельности</td>
+<td>33</td>
+</tr>
+<tr>
 <td>2</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5">Неналоговые поступления</td>
-<td>842</td>
+<td>845</td>
 </tr>
 <tr>
 <td></td>
@@ -140,6 +147,20 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td>842</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="4">06</td>
+<td colspan="2"></td>
+<td colspan="5">Прочие неналоговые поступления</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="5">Прочие неналоговые поступления</td>
+<td>3</td>
+</tr>
+<tr>
 <td>3</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
@@ -151,21 +172,21 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>144 392</td>
+<td>152 558</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">02</td>
 <td colspan="2"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>144 392</td>
+<td>152 558</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4"></td>
 <td colspan="2">3</td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>144 392</td>
+<td>152 558</td>
 </tr>
 </table>
 
@@ -210,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>2. Затраты</td>
-<td>261 217</td>
+<td>271 991</td>
 </tr>
 <tr>
 <td>01</td>
@@ -218,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>64 118</td>
+<td>63 946</td>
 </tr>
 <tr>
 <td></td>
@@ -226,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>64 118</td>
+<td>63 946</td>
 </tr>
 <tr>
 <td></td>
@@ -234,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>64 118</td>
+<td>63 946</td>
 </tr>
 <tr>
 <td></td>
@@ -242,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>63 698</td>
+<td>63 660</td>
 </tr>
 <tr>
 <td></td>
@@ -250,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>420</td>
+<td>286</td>
 </tr>
 <tr>
 <td>07</td>
@@ -258,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>105 242</td>
+<td>117 466</td>
 </tr>
 <tr>
 <td></td>
@@ -266,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>105 242</td>
+<td>117 466</td>
 </tr>
 <tr>
 <td></td>
@@ -274,7 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>105 242</td>
+<td>117 466</td>
 </tr>
 <tr>
 <td></td>
@@ -282,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>17 962</td>
+<td>17 762</td>
 </tr>
 <tr>
 <td></td>
@@ -290,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>6 350</td>
+<td>7 678</td>
 </tr>
 <tr>
 <td></td>
@@ -298,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>80 930</td>
+<td>92 026</td>
 </tr>
 <tr>
 <td>08</td>
@@ -306,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>33 402</td>
+<td>34 102</td>
 </tr>
 <tr>
 <td></td>
@@ -314,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Деятельность в области культуры</td>
-<td>33 402</td>
+<td>34 102</td>
 </tr>
 <tr>
 <td></td>
@@ -322,7 +343,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>33 402</td>
+<td>34 102</td>
 </tr>
 <tr>
 <td></td>
@@ -330,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3">006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>33 402</td>
+<td>34 102</td>
 </tr>
 <tr>
 <td>12</td>
@@ -338,7 +359,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Транспорт и коммуникации</td>
-<td>58 454</td>
+<td>56 476</td>
 </tr>
 <tr>
 <td></td>
@@ -346,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Автомобильный транспорт</td>
-<td>58 454</td>
+<td>56 476</td>
 </tr>
 <tr>
 <td></td>
@@ -354,7 +375,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>58 454</td>
+<td>56 476</td>
 </tr>
 <tr>
 <td></td>
@@ -362,7 +383,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="5"></td>
 <td colspan="3">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>58 454</td>
+<td>56 476</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1322,7 +1343,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 
 ## Бюджет поселка Шидерты на 2024 год
 
-> *Сноска. Приложение 4 в редакции решений Экибастузского городского маслихата Павлодарской области от 10.04.2024 № 138/17 (вводится в действие с 01.01.2024); от 21.08.2024 № 175/21 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 4 в редакции решений Экибастузского городского маслихата Павлодарской области от 10.04.2024 № 138/17 (вводится в действие с 01.01.2024); от 21.08.2024 № 175/21 (вводится в действие с 01.01.2024); от 28.11.2024 № 200/24 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -1354,35 +1375,35 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">1. Доходы</td>
-<td colspan="2">249 100</td>
+<td colspan="2">252 208</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">Налоговые поступления</td>
-<td colspan="2">17 887</td>
+<td colspan="2">21 072</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="6">Подоходный налог</td>
-<td colspan="2">2 090</td>
+<td colspan="2">6 875</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="6">Индивидуальный подоходный налог</td>
-<td colspan="2">2 090</td>
+<td colspan="2">6 875</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="6">Налоги на собственность</td>
-<td colspan="2">12 267</td>
+<td colspan="2">10 667</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1403,14 +1424,14 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="6">Налог на транспортные средства</td>
-<td colspan="2">9 383</td>
+<td colspan="2">7 791</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">5</td>
 <td colspan="6">Единый земельный налог</td>
-<td colspan="2">8</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1473,21 +1494,21 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">Поступления трансфертов</td>
-<td colspan="2">228 131</td>
+<td colspan="2">228 054</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="6">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">228 131</td>
+<td colspan="2">228 054</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="6">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">228 131</td>
+<td colspan="2">228 054</td>
 </tr>
 </table>
 
@@ -1532,7 +1553,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="2">249 341</td>
+<td colspan="2">252 449</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1540,7 +1561,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">99 273</td>
+<td colspan="2">112 048</td>
 </tr>
 <tr>
 <td></td>
@@ -1548,7 +1569,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">99 273</td>
+<td colspan="2">112 048</td>
 </tr>
 <tr>
 <td></td>
@@ -1556,7 +1577,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">99 273</td>
+<td colspan="2">112 048</td>
 </tr>
 <tr>
 <td></td>
@@ -1564,7 +1585,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">55 983</td>
+<td colspan="2">70 381</td>
 </tr>
 <tr>
 <td></td>
@@ -1572,7 +1593,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td colspan="2">43 290</td>
+<td colspan="2">41 667</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1580,7 +1601,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">112 883</td>
+<td colspan="2">101 851</td>
 </tr>
 <tr>
 <td></td>
@@ -1588,7 +1609,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Коммунальное хозяйство</td>
-<td colspan="2">19 366</td>
+<td colspan="2">17 948</td>
 </tr>
 <tr>
 <td></td>
@@ -1596,7 +1617,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">19 366</td>
+<td colspan="2">17 948</td>
 </tr>
 <tr>
 <td></td>
@@ -1604,7 +1625,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">014</td>
 <td colspan="2">Организация водоснабжения населенных пунктов</td>
-<td colspan="2">19 366</td>
+<td colspan="2">17 948</td>
 </tr>
 <tr>
 <td></td>
@@ -1612,7 +1633,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">93 517</td>
+<td colspan="2">83 903</td>
 </tr>
 <tr>
 <td></td>
@@ -1620,7 +1641,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">93 517</td>
+<td colspan="2">83 903</td>
 </tr>
 <tr>
 <td></td>
@@ -1628,7 +1649,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">008</td>
 <td colspan="2">Освещение улиц в населенных пунктах</td>
-<td colspan="2">28 143</td>
+<td colspan="2">24 865</td>
 </tr>
 <tr>
 <td></td>
@@ -1636,7 +1657,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">44 265</td>
+<td colspan="2">39 812</td>
 </tr>
 <tr>
 <td></td>
@@ -1644,7 +1665,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">21 109</td>
+<td colspan="2">19 226</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1684,7 +1705,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Транспорт и коммуникации</td>
-<td colspan="2">5 918</td>
+<td colspan="2">7 283</td>
 </tr>
 <tr>
 <td></td>
@@ -1692,7 +1713,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Автомобильный транспорт</td>
-<td colspan="2">5 918</td>
+<td colspan="2">7 283</td>
 </tr>
 <tr>
 <td></td>
@@ -1700,7 +1721,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">5 918</td>
+<td colspan="2">7 283</td>
 </tr>
 <tr>
 <td></td>
@@ -1708,15 +1729,18 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">3 189</td>
+<td colspan="2">6 129</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3">045</td>
-<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">2 729</td>
+<td colspan="2">
+Капитальный и средний ремонт автомобильных
+дорог в городах районного значения, селах, поселках, сельских округах
+</td>
+<td colspan="2">1 154</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2724,7 +2748,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 
 ## Бюджет Аккольского сельского округа на 2024 год
 
-> *Сноска. Приложение 7 в редакции решений Экибастузского городского маслихата Павлодарской области 10.04.2024 № 138/17 (вводится в действие с 01.01.2024); 21.08.2024 № 175/21 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 7 в редакции решений Экибастузского городского маслихата Павлодарской области 10.04.2024 № 138/17 (вводится в действие с 01.01.2024); 21.08.2024 № 175/21 (вводится в действие с 01.01.2024); 28.11.2024 № 200/24 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -2756,7 +2780,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">1. Доходы</td>
-<td colspan="2">209 970</td>
+<td colspan="2">213 194</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -2847,21 +2871,21 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">Поступления трансфертов</td>
-<td colspan="2">206 463</td>
+<td colspan="2">209 687</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="6">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">206 463</td>
+<td colspan="2">209 687</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="6">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">206 463</td>
+<td colspan="2">209 687</td>
 </tr>
 </table>
 
@@ -2906,7 +2930,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="2">210 023</td>
+<td colspan="2">213 247</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2914,7 +2938,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">35 181</td>
+<td colspan="2">35 101</td>
 </tr>
 <tr>
 <td></td>
@@ -2922,7 +2946,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">35 181</td>
+<td colspan="2">35 101</td>
 </tr>
 <tr>
 <td></td>
@@ -2930,7 +2954,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">35 181</td>
+<td colspan="2">35 101</td>
 </tr>
 <tr>
 <td></td>
@@ -2938,7 +2962,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">35 181</td>
+<td colspan="2">35 101</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2946,7 +2970,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">39 005</td>
+<td colspan="2">42 705</td>
 </tr>
 <tr>
 <td></td>
@@ -2978,7 +3002,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">19 053</td>
+<td colspan="2">22 753</td>
 </tr>
 <tr>
 <td></td>
@@ -2986,7 +3010,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">19 053</td>
+<td colspan="2">22 753</td>
 </tr>
 <tr>
 <td></td>
@@ -2994,7 +3018,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">008</td>
 <td colspan="2">Освещение улиц в населенных пунктах</td>
-<td colspan="2">9 260</td>
+<td colspan="2">12 960</td>
 </tr>
 <tr>
 <td></td>
@@ -3018,7 +3042,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Транспорт и коммуникации</td>
-<td colspan="2">135 837</td>
+<td colspan="2">135 441</td>
 </tr>
 <tr>
 <td></td>
@@ -3026,7 +3050,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Автомобильный транспорт</td>
-<td colspan="2">135 837</td>
+<td colspan="2">135 441</td>
 </tr>
 <tr>
 <td></td>
@@ -3034,7 +3058,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">135 837</td>
+<td colspan="2">135 441</td>
 </tr>
 <tr>
 <td></td>
@@ -3050,7 +3074,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">045</td>
 <td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">133 712</td>
+<td colspan="2">133 316</td>
 </tr>
 <tr>
 <td></td>
@@ -3926,7 +3950,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 
 ## Бюджет Байетского сельского округа на 2024 год
 
-> *Сноска. Приложение 10 в редакции решений Экибастузского городского маслихата Павлодарской области от 10.04.2024 № 138/17 (вводится в действие с 01.01.2024); от 21.08.2024 № 175/21 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 10 в редакции решений Экибастузского городского маслихата Павлодарской области от 10.04.2024 № 138/17 (вводится в действие с 01.01.2024); от 21.08.2024 № 175/21 (вводится в действие с 01.01.2024); от 28.11.2024 № 200/24 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -3958,7 +3982,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">1. Доходы</td>
-<td colspan="2">60 681</td>
+<td colspan="2">64 401</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -4049,21 +4073,21 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="6">Поступления трансфертов</td>
-<td colspan="2">56 831</td>
+<td colspan="2">60 551</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="6">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">56 831</td>
+<td colspan="2">60 551</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="6">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">56 831</td>
+<td colspan="2">60 551</td>
 </tr>
 </table>
 
@@ -4108,7 +4132,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">2. Затраты</td>
-<td colspan="2">60 910</td>
+<td colspan="2">64 630</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4116,7 +4140,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">38 801</td>
+<td colspan="2">39 994</td>
 </tr>
 <tr>
 <td></td>
@@ -4124,7 +4148,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">38 801</td>
+<td colspan="2">39 994</td>
 </tr>
 <tr>
 <td></td>
@@ -4132,7 +4156,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">38 801</td>
+<td colspan="2">39 994</td>
 </tr>
 <tr>
 <td></td>
@@ -4140,7 +4164,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">38 801</td>
+<td colspan="2">39 994</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4148,7 +4172,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">18 356</td>
+<td colspan="2">21 258</td>
 </tr>
 <tr>
 <td></td>
@@ -4156,7 +4180,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Коммунальное хозяйство</td>
-<td colspan="2">5 250</td>
+<td colspan="2">4 050</td>
 </tr>
 <tr>
 <td></td>
@@ -4164,7 +4188,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">5 250</td>
+<td colspan="2">4 050</td>
 </tr>
 <tr>
 <td></td>
@@ -4172,7 +4196,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">014</td>
 <td colspan="2">Организация водоснабжения населенных пунктов</td>
-<td colspan="2">5 250</td>
+<td colspan="2">4 050</td>
 </tr>
 <tr>
 <td></td>
@@ -4180,7 +4204,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">13 106</td>
+<td colspan="2">17 208</td>
 </tr>
 <tr>
 <td></td>
@@ -4188,7 +4212,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">13 106</td>
+<td colspan="2">17 208</td>
 </tr>
 <tr>
 <td></td>
@@ -4196,7 +4220,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">008</td>
 <td colspan="2">Освещение улиц в населенных пунктах</td>
-<td colspan="2">7 704</td>
+<td colspan="2">12 034</td>
 </tr>
 <tr>
 <td></td>
@@ -4212,7 +4236,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">228</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4220,7 +4244,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Транспорт и коммуникации</td>
-<td colspan="2">3 752</td>
+<td colspan="2">3 377</td>
 </tr>
 <tr>
 <td></td>
@@ -4228,7 +4252,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="2">Автомобильный транспорт</td>
-<td colspan="2">3 752</td>
+<td colspan="2">3 377</td>
 </tr>
 <tr>
 <td></td>
@@ -4236,7 +4260,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">3 752</td>
+<td colspan="2">3 377</td>
 </tr>
 <tr>
 <td></td>
@@ -4244,7 +4268,7 @@ source: https://zan.gov.kz/client/#!/doc/190947/rus/21.08.2024
 <td colspan="4"></td>
 <td colspan="3">013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">1 252</td>
+<td colspan="2">877</td>
 </tr>
 <tr>
 <td></td>
