@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204337/kaz/13.12.2024
+source: https://zan.gov.kz/client/#!/doc/204337/kaz/19.03.2025
 ---
 
 > *Павлодар облыстық*  
