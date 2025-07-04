@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
+source: https://zan.gov.kz/client/#!/doc/204337/rus/04.07.2025
 ---
 
 > *Приложение 1*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 
 ## Областной бюджет на 2025 год (с изменениями)
 
-> *Сноска. Приложение 1 в редакции решений Павлодарского областного маслихата от 19.03.2025 № 188/20 (вводится в действие с 01.01.2025); от 30.04.2025 № 192/21 (вводится в действие с 01.01.2025); от 20.06.2025 № 200/22 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 1 в редакции решений Павлодарского областного маслихата от 19.03.2025 № 188/20 (вводится в действие с 01.01.2025); от 30.04.2025 № 192/21 (вводится в действие с 01.01.2025); от 20.06.2025 № 200/22 (вводится в действие с 01.01.2025); от 04.07.2025 № 211/23 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -39,11 +39,11 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -245,16 +245,13 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>Программа</td>
 <td></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -561,12 +558,12 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>12 406</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -702,7 +699,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>229 284 664</td>
+<td>229 804 118</td>
 </tr>
 <tr>
 <td></td>
@@ -873,12 +870,12 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>1 318 343</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1030,7 +1027,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>17 395 845</td>
+<td>17 915 299</td>
 </tr>
 <tr>
 <td></td>
@@ -1038,7 +1035,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>261</td>
 <td></td>
 <td>Управление образования области</td>
-<td>17 395 845</td>
+<td>17 915 299</td>
 </tr>
 <tr>
 <td></td>
@@ -1102,7 +1099,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td>067</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>11 364 339</td>
+<td>11 883 793</td>
 </tr>
 <tr>
 <td></td>
@@ -1177,12 +1174,12 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>3 320</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1441,12 +1438,12 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>2 158 972</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1582,7 +1579,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>29 501 935</td>
+<td>25 637 317</td>
 </tr>
 <tr>
 <td></td>
@@ -1614,7 +1611,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>25 823 951</td>
+<td>21 959 333</td>
 </tr>
 <tr>
 <td></td>
@@ -1622,7 +1619,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>279</td>
 <td></td>
 <td>Управление энергетики и жилищно-коммунального хозяйства области</td>
-<td>25 823 951</td>
+<td>21 959 333</td>
 </tr>
 <tr>
 <td></td>
@@ -1654,7 +1651,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td>114</td>
 <td>Целевые трансферты на развитие нижестоящим бюджетам</td>
-<td>21 838 764</td>
+<td>17 974 146</td>
 </tr>
 <tr>
 <td></td>
@@ -1801,12 +1798,12 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>5 901 414</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2121,12 +2118,12 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>47 668</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2369,12 +2366,12 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>6 205 609</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2686,7 +2683,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>8 719 731</td>
+<td>12 064 895</td>
 </tr>
 <tr>
 <td></td>
@@ -2737,12 +2734,12 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>82 000</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2774,7 +2771,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>5 827 104</td>
+<td>9 172 268</td>
 </tr>
 <tr>
 <td></td>
@@ -2798,7 +2795,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>257</td>
 <td></td>
 <td>Управление финансов области</td>
-<td>2 806 468</td>
+<td>6 151 632</td>
 </tr>
 <tr>
 <td></td>
@@ -2806,7 +2803,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td>012</td>
 <td>Резерв местного исполнительного органа области</td>
-<td>2 806 468</td>
+<td>6 151 632</td>
 </tr>
 <tr>
 <td></td>
@@ -3006,7 +3003,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>3. Чистое бюджетное кредитование</td>
-<td>15 107 075</td>
+<td>24 850 157</td>
 </tr>
 <tr>
 <td></td>
@@ -3014,7 +3011,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>23 655 973</td>
+<td>33 399 055</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3022,7 +3019,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>9 584 503</td>
+<td>19 327 585</td>
 </tr>
 <tr>
 <td></td>
@@ -3030,7 +3027,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>9 584 503</td>
+<td>19 327 585</td>
 </tr>
 <tr>
 <td></td>
@@ -3041,12 +3038,12 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>9 584 503</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -3063,6 +3060,22 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>011</td>
 <td>Кредитование районных (городов областного значения) бюджетов на приобретение жилья</td>
 <td>7 994 957</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>279</td>
+<td></td>
+<td>Управление энергетики и жилищно-коммунального хозяйства области</td>
+<td>9 743 082</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>046</td>
+<td>Кредитование районных (городов областного значения) бюджетов на реконструкцию и строительство систем тепло-, водоснабжения и водоотведения</td>
+<td>9 743 082</td>
 </tr>
 <tr>
 <td>10</td>
@@ -3206,7 +3219,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>-17 749 398</td>
+<td>-27 492 480</td>
 </tr>
 <tr>
 <td></td>
@@ -3214,7 +3227,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>17 749 398</td>
+<td>27 492 480</td>
 </tr>
 <tr>
 <td>7</td>
@@ -3222,7 +3235,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Поступления займов</td>
-<td>23 655 973</td>
+<td>33 399 055</td>
 </tr>
 <tr>
 <td></td>
@@ -3230,7 +3243,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td></td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>23 655 973</td>
+<td>33 399 055</td>
 </tr>
 <tr>
 <td></td>
@@ -3238,7 +3251,7 @@ source: https://zan.gov.kz/client/#!/doc/204337/rus/20.06.2025
 <td>1</td>
 <td></td>
 <td>Государственные эмиссионные ценные бумаги</td>
-<td>9 584 503</td>
+<td>19 327 585</td>
 </tr>
 <tr>
 <td></td>
