@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/205018/rus/26.06.2025
+source: https://zan.gov.kz/client/#!/doc/205018/rus/11.08.2025
 ---
 
 # О бюджетах сельских округов района Аққулы на 2025-2027 годы
