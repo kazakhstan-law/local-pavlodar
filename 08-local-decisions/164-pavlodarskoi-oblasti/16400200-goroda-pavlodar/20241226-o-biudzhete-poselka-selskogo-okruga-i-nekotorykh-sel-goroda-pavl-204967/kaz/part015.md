@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204967/kaz/24.09.2025
+source: https://zan.gov.kz/client/#!/doc/204967/kaz/10.12.2025
 ---
 
 > *Павлодар қалалық*  
