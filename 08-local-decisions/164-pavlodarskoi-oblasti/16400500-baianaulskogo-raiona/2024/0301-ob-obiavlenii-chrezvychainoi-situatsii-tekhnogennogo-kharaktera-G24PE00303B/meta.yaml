@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/193851/kaz/01.03.2024
   rus: https://zan.gov.kz/client/#!/doc/193851/rus/01.03.2024
+repealed_on: 2026-02-02
+repealed_by:
+  code: '221713'
+  key: G26PE00101B
+  requisite: Решение акима Баянаульского района Павлодарской области от 26 января 2026 года № 1/01
+  title:
+    rus: О признании утратившими силу некоторых решений акима Баянаульского района
+    kaz: Баянауыл ауданы әкімінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/221713/rus
