@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/221461/kaz/22.01.2026
+source: https://zan.gov.kz/client/#!/doc/221461/kaz/26.06.2026
 ---
 
 > *Павлодар қаласы әкімінің*  
