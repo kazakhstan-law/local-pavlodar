@@ -22,7 +22,7 @@
 
       трансферттер түсімдері - 20 869 456 мың теңге;
 
-   2) шығындар - 89 448 707 мың теңге;
+   2) шығындар - 88 515 250 мың теңге;
 
    3) таза бюджеттік кредиттеу - 7 861 917 мың теңге;
 
@@ -32,7 +32,9 @@
 
       бюджеттік кредиттерді өтеу - 151 440 мың теңге;
 
-   4) қаржы активтерімен операциялар бойынша сальдо - нөлге тең,
+   4) қаржы активтерімен операциялар
+
+      бойынша сальдо - нөлге тең,
 
       соның ішінде:
 
@@ -40,11 +42,11 @@
 
       мемлекеттің қаржы активтерін сатудан түсетін түсімдер - нөлге тең;
 
-   5) бюджет тапшылығы (профициті) - -9 182 198 мың теңге;
+   5) бюджет тапшылығы (профициті) - -8 248 741 мың теңге;
 
-   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) - 9 182 198 мың теңге.
+   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) - 8 248 741 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 02.04.2026 № 320/41 (01.01.2026 бастап қолданысқа енгізіледі); 13.05.2026 № 336/44 (01.01.2026 бастап қолданысқа енгізіледі); 09.07.2026 № 347/47 (01.01.2026 бастап қолданысқа енгізіледі); 27.08.2026 № 364/49 (01.01.2026 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-тармақ жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 02.04.2026 № 320/41 (01.01.2026 бастап қолданысқа енгізіледі); 13.05.2026 № 336/44 (01.01.2026 бастап қолданысқа енгізіледі); 09.07.2026 № 347/47 (01.01.2026 бастап қолданысқа енгізіледі); 27.08.2026 № 364/49 (01.01.2026 бастап қолданысқа енгізіледі); 05.10.2026 № 392/51 (01.01.2026 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <a id="p2"></a>
 
@@ -164,9 +166,11 @@
 
    3 800 мың теңге – Қоянды ауылдық округінің Бесқауға ауылында және Шиқылдақ ауылындағы әкім аппараты ғимараттарына күрделі жөндеуге ЖСҚ әзірлеуге;
 
-   6 500 мың теңге – Солнечный поселкесіне сегізбұрышты сатып алуға.
+   6 500 мың теңге – Солнечный поселкесіне сегізбұрышты сатып алуға;
 
-> *Ескерту. 9-тармақ жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 02.04.2026 № 320/41 (01.01.2026 бастап қолданысқа енгізіледі); 13.05.2026 №336/44 (01.01.2026 бастап қолданысқа енгізіледі); 09.07.2026 № 347/47 (01.01.2026 бастап қолданысқа енгізіледі); 27.08.2026 № 364/49 (01.01.2026 бастап қолданысқа енгізіледі) шешімдерімен.*
+   5 411 мың теңге – Сарықамыс ауылдық округінің ауылдық елді мекендерді сумен жабдықтауға.
+
+> *Ескерту. 9-тармақ жаңа редакцияда - Павлодар облысы Екібастұз қалалық мәслихатының 02.04.2026 № 320/41 (01.01.2026 бастап қолданысқа енгізіледі); 13.05.2026 №336/44 (01.01.2026 бастап қолданысқа енгізіледі); 09.07.2026 № 347/47 (01.01.2026 бастап қолданысқа енгізіледі); 27.08.2026 № 364/49 (01.01.2026 бастап қолданысқа енгізіледі); 05.10.2026 № 392/51 (01.01.2026 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <a id="p10"></a>
 
@@ -196,14 +200,14 @@
 
 ## 2026 жылға арналған Екібастұз қалалық бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Павлодароблысы Екібастұз қалалық мәслихатының 02.04.2026 № 320/41 (01.01.2026 бастап қолданысқа енгізіледі); 13.05.2026 № 336/44 (01.01.2026 бастап қолданысқа енгізіледі); 09.07.2026 № 347/47 (01.01.2026 бастап қолданысқа енгізіледі); 27.08.2026 № 364/49 (01.01.2026 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Павлодароблысы Екібастұз қалалық мәслихатының 02.04.2026 № 320/41 (01.01.2026 бастап қолданысқа енгізіледі); 13.05.2026 № 336/44 (01.01.2026 бастап қолданысқа енгізіледі); 09.07.2026 № 347/47 (01.01.2026 бастап қолданысқа енгізіледі); 27.08.2026 № 364/49 (01.01.2026 бастап қолданысқа енгізіледі); 05.10.2026 № 392/51 (01.01.2026 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2" rowspan="3">Сомасы (мың теңге)</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -219,343 +223,343 @@
 <th>2</th>
 <th colspan="3">3</th>
 <th>4</th>
-<th colspan="2">5</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3"></td>
 <td>1. Кірістер</td>
-<td colspan="2">88 128 426</td>
+<td>88 128 426</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="3"></td>
 <td>Салықтық түсімдер</td>
-<td colspan="2">64 542 998</td>
+<td>64 542 998</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="3"></td>
 <td>Табыс салығы</td>
-<td colspan="2">48 300 000</td>
+<td>48 300 000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">1</td>
 <td>Корпоративтік табыс салығы</td>
-<td colspan="2">15 900 000</td>
+<td>15 900 000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">2</td>
 <td>Жеке табыс салығы</td>
-<td colspan="2">32 400 000</td>
+<td>32 400 000</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
 <td colspan="3"></td>
 <td>Әлеуметтік салық</td>
-<td colspan="2">1 008 622</td>
+<td>1 008 622</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">1</td>
 <td>Әлеуметтік салық</td>
-<td colspan="2">1 008 622</td>
+<td>1 008 622</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td colspan="3"></td>
 <td>Меншiкке салынатын салықтар</td>
-<td colspan="2">13 078 989</td>
+<td>13 078 989</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">1</td>
 <td>Мүлікке салынатын салықтар</td>
-<td colspan="2">10 884 436</td>
+<td>10 884 436</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">3</td>
 <td>Жер салығы</td>
-<td colspan="2">1 470 753</td>
+<td>1 470 753</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td colspan="2">723 800</td>
+<td>723 800</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td colspan="3"></td>
 <td>Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td colspan="2">1 812 753</td>
+<td>1 812 753</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">2</td>
 <td>Акциздер</td>
-<td colspan="2">29 747</td>
+<td>29 747</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">3</td>
 <td>Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
-<td colspan="2">1 656 492</td>
+<td>1 656 492</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">4</td>
 <td>Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
-<td colspan="2">126 514</td>
+<td>126 514</td>
 </tr>
 <tr>
 <td></td>
 <td>08</td>
 <td colspan="3"></td>
 <td>Заңдық маңызы бар әрекеттердi жасағаны және (немесе) оған уәкiлеттiгi бар мемлекеттiк органдар немесе лауазымды адамдар құжаттар бергенi үшiн алынатын міндеттi төлемдер</td>
-<td colspan="2">342 634</td>
+<td>342 634</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">1</td>
 <td>Мемлекеттiк баж</td>
-<td colspan="2">342 634</td>
+<td>342 634</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td colspan="3"></td>
 <td>Салықтық емес түсімдер</td>
-<td colspan="2">222 088</td>
+<td>222 088</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="3"></td>
 <td>Мемлекеттік меншiктен түсетiн кірістер</td>
-<td colspan="2">146 125</td>
+<td>146 125</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">1</td>
 <td>Мемлекеттік кәсіпорындардың таза кірісі бөлігінің түсімдері</td>
-<td colspan="2">1 045</td>
+<td>1 045</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">4</td>
 <td>Мемлекет меншігіндегі заңды тұлғалардағы қатысу үлесіне кірістер</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">5</td>
 <td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td colspan="2">143 430</td>
+<td>143 430</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">7</td>
 <td>Мемлекеттік бюджеттен берілген кредиттер бойынша сыйақылар</td>
-<td colspan="2">1 267</td>
+<td>1 267</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">9</td>
 <td>Мемлекет меншігінен түсетін басқа да кірістер</td>
-<td colspan="2">283</td>
+<td>283</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
 <td colspan="3"></td>
 <td>Мемлекеттік бюджеттен қаржыландырылатын мемлекеттік мекемелер ұйымдастыратын мемлекеттік сатып алуды өткізуден түсетін ақша түсімдері</td>
-<td colspan="2">2 827</td>
+<td>2 827</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
 <th colspan="3">3</th>
 <th>4</th>
-<th colspan="2">5</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">1</td>
 <td>Мемлекеттік бюджеттен қаржыландырылатын мемлекеттік мекемелер ұйымдастыратын мемлекеттік сатып алуды өткізуден түсетін ақша түсімдері</td>
-<td colspan="2">2 827</td>
+<td>2 827</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td colspan="3"></td>
 <td>Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td colspan="2">908</td>
+<td>908</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">1</td>
 <td>Мұнай секторы ұйымдарынан түсетін, бюджеттен тыс қорға түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td colspan="2">908</td>
+<td>908</td>
 </tr>
 <tr>
 <td></td>
 <td>06</td>
 <td colspan="3"></td>
 <td>Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">72 228</td>
+<td>72 228</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">1</td>
 <td>Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">72 228</td>
+<td>72 228</td>
 </tr>
 <tr>
 <td>3</td>
 <td></td>
 <td colspan="3"></td>
 <td>Негізгі капиталды сатудан түсетін түсімдер</td>
-<td colspan="2">2 493 884</td>
+<td>2 493 884</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="3"></td>
 <td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
-<td colspan="2">2 304 884</td>
+<td>2 304 884</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">1</td>
 <td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
-<td colspan="2">2 304 884</td>
+<td>2 304 884</td>
 </tr>
 <tr>
 <td></td>
 <td>03</td>
 <td colspan="3"></td>
 <td>Жердi және материалдық емес активтердi сату</td>
-<td colspan="2">189 000</td>
+<td>189 000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">1</td>
 <td>Жердi сату</td>
-<td colspan="2">100 000</td>
+<td>100 000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">2</td>
 <td>Материалдық емес активтердi сату</td>
-<td colspan="2">89 000</td>
+<td>89 000</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td colspan="3"></td>
 <td>Арнаулы түсімдер</td>
-<td colspan="2">0</td>
+<td>0</td>
 </tr>
 <tr>
 <td>5</td>
 <td></td>
 <td colspan="3"></td>
 <td>Трансферттердің түсімдері</td>
-<td colspan="2">20 869 456</td>
+<td>20 869 456</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="3"></td>
 <td>Төмен тұрған мемлекеттiк басқару органдарынан трансферттер</td>
-<td colspan="2">34</td>
+<td>34</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">3</td>
 <td>Аудандық маңызы бар қалалардың, ауылдардың, кенттердің, ауылдық округтердің бюджеттерінен трансферттер</td>
-<td colspan="2">34</td>
+<td>34</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td colspan="3"></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">20 869 422</td>
+<td>20 869 422</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td colspan="2">20 869 422</td>
+<td>20 869 422</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="7">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td colspan="2" rowspan="5">
 Сомасы
 (мың теңге)
 </td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td colspan="4">Кiшi функция</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3">Бюджеттiк бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
+<th colspan="2">1</th>
 <th>2</th>
 <th>3</th>
 <th>4</th>
@@ -563,31 +567,31 @@
 <th colspan="2">6</th>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>2.Шығындар</td>
-<td colspan="2">89 448 707</td>
+<td colspan="2">88 515 250</td>
 </tr>
 <tr>
-<td colspan="3">01</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">4 180 009</td>
+<td colspan="2">4 229 820</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">952 898</td>
+<td colspan="2">966 898</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>112</td>
 <td></td>
@@ -595,39 +599,31 @@
 <td colspan="2">85 544</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудан (облыстық маңызы бар қала) мәслихатының қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">83 060</td>
+<td colspan="2">85 544</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td></td>
-<td></td>
-<td>005</td>
-<td>Мәслихаттар депутаттары қызметінің тиімділігін арттыру</td>
-<td colspan="2">2 484</td>
-</tr>
-<tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) әкiмiнiң аппараты</td>
-<td colspan="2">867 354</td>
+<td colspan="2">881 354</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудан (облыстық маңызы бар қала) әкiмiнiң қызметiн қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">720 865</td>
+<td colspan="2">734 865</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -635,7 +631,7 @@
 <td colspan="2">136 189</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>113</td>
@@ -643,7 +639,7 @@
 <td colspan="2">10 300</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -651,7 +647,7 @@
 <td colspan="2">1 019 695</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -659,7 +655,7 @@
 <td colspan="2">1 019 695</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -667,7 +663,7 @@
 <td colspan="2">8 193</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -675,7 +671,7 @@
 <td colspan="2">2 880</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>028</td>
@@ -683,23 +679,26 @@
 <td colspan="2">1 008 622</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы өзге де мемлекеттiк қызметтер</td>
-<td colspan="2">2 207 416</td>
+<td colspan="2">2 243 227</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td colspan="2">1 267 970</td>
+<td>
+Ауданның (облыстық маңызы бар қаланың) тұрғын
+үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі
+</td>
+<td colspan="2">1 273 381</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -707,7 +706,7 @@
 <td colspan="2">470 326</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -715,39 +714,31 @@
 <td colspan="2">22 072</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>113</td>
 <td>Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="2">775 572</td>
+<td colspan="2">780 983</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td colspan="2">530 212</td>
+<td colspan="2">560 612</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономикалық саясаттын қалыптастыру мен дамыту, мемлекеттік жоспарлау, бюджеттік атқару және коммуналдық меншігін басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">530 212</td>
+<td colspan="2">560 612</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
-</tr>
-<tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -755,7 +746,15 @@
 <td colspan="2">409 234</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<th colspan="2">1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th colspan="2">6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -763,39 +762,39 @@
 <td colspan="2">409 234</td>
 </tr>
 <tr>
-<td colspan="3">02</td>
+<td colspan="2">02</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қорғаныс</td>
-<td colspan="2">732 850</td>
+<td colspan="2">718 850</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Әскери мұқтаждар</td>
-<td colspan="2">159 619</td>
+<td colspan="2">145 619</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) әкiмiнiңаппараты</td>
-<td colspan="2">159 619</td>
+<td colspan="2">145 619</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
 <td>Жалпыға бiрдей әскери мiндеттi атқару шеңберiндегi iс-шаралар</td>
-<td colspan="2">159 619</td>
+<td colspan="2">145 619</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -803,7 +802,7 @@
 <td colspan="2">573 231</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -811,7 +810,7 @@
 <td colspan="2">573 231</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -819,7 +818,7 @@
 <td colspan="2">39 392</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -827,7 +826,7 @@
 <td colspan="2">533 839</td>
 </tr>
 <tr>
-<td colspan="3">03</td>
+<td colspan="2">03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -835,7 +834,7 @@
 <td colspan="2">233 107</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -843,7 +842,7 @@
 <td colspan="2">233 107</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -851,7 +850,7 @@
 <td colspan="2">233 107</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -859,7 +858,7 @@
 <td colspan="2">233 107</td>
 </tr>
 <tr>
-<td colspan="3">06</td>
+<td colspan="2">06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -867,7 +866,7 @@
 <td colspan="2">3 845 702</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -875,7 +874,7 @@
 <td colspan="2">390 491</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -883,7 +882,7 @@
 <td colspan="2">390 491</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -891,7 +890,7 @@
 <td colspan="2">390 491</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -899,7 +898,7 @@
 <td colspan="2">2 187 457</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -907,7 +906,7 @@
 <td colspan="2">1 758 821</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -915,7 +914,7 @@
 <td colspan="2">20 948</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -923,7 +922,7 @@
 <td colspan="2">16 712</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -931,15 +930,7 @@
 <td colspan="2">623 135</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
-</tr>
-<tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -947,7 +938,15 @@
 <td colspan="2">8 956</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<th colspan="2">1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th colspan="2">6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -955,7 +954,7 @@
 <td colspan="2">146 098</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -963,7 +962,7 @@
 <td colspan="2">284 348</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -971,7 +970,7 @@
 <td colspan="2">658 624</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -979,7 +978,7 @@
 <td colspan="2">428 636</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>068</td>
@@ -987,7 +986,7 @@
 <td colspan="2">428 636</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -995,7 +994,7 @@
 <td colspan="2">1 267 754</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -1003,7 +1002,7 @@
 <td colspan="2">1 267 754</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1011,7 +1010,7 @@
 <td colspan="2">168 192</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1019,7 +1018,7 @@
 <td colspan="2">6 300</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -1027,7 +1026,7 @@
 <td colspan="2">824</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>050</td>
@@ -1035,7 +1034,7 @@
 <td colspan="2">635 241</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>054</td>
@@ -1043,7 +1042,7 @@
 <td colspan="2">361 197</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>094</td>
@@ -1051,47 +1050,39 @@
 <td colspan="2">96 000</td>
 </tr>
 <tr>
-<td colspan="3">07</td>
+<td colspan="2">07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">22 469 382</td>
+<td colspan="2">21 485 301</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td colspan="2">9 583 491</td>
+<td colspan="2">8 681 034</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлiгi және автомобиль жолдары бөлiмi</td>
-<td colspan="2">174 898</td>
+<td colspan="2">204 898</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Мемлекеттік тұрғын үй қорын сақтауды ұйымдастыру</td>
-<td colspan="2">90 898</td>
+<td colspan="2">120 898</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
-</tr>
-<tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -1099,15 +1090,23 @@
 <td colspan="2">84 000</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<th colspan="2">1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th colspan="2">6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td colspan="2">9 307 376</td>
+<td colspan="2">8 374 919</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1115,23 +1114,23 @@
 <td colspan="2">4 141 835</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
 <td>Инженерлік-коммуникациялық инфрақұрылымды жобалау, дамыту және (немесе) жайластыру</td>
-<td colspan="2">638 401</td>
+<td colspan="2">639 401</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>098</td>
 <td>Коммуналдық тұрғын үй қорының тұрғын үйлерін сатып алу</td>
-<td colspan="2">4 527 140</td>
+<td colspan="2">3 593 683</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>479</td>
 <td></td>
@@ -1139,7 +1138,7 @@
 <td colspan="2">101 217</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1147,15 +1146,15 @@
 <td colspan="2">101 217</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td colspan="2">8 057 203</td>
+<td colspan="2">8 056 203</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1163,7 +1162,7 @@
 <td colspan="2">4 614 426</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1171,7 +1170,7 @@
 <td colspan="2">81 651</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>026</td>
@@ -1179,7 +1178,7 @@
 <td colspan="2">1 165 075</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>048</td>
@@ -1187,23 +1186,23 @@
 <td colspan="2">3 367 700</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td colspan="2">3 442 777</td>
+<td colspan="2">3 441 777</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
 <td>Сумен жабдықтау және су бұру жүйесін дамыту</td>
-<td colspan="2">3 037 435</td>
+<td colspan="2">3 036 435</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1211,7 +1210,7 @@
 <td colspan="2">404 342</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>058</td>
@@ -1219,23 +1218,23 @@
 <td colspan="2">1 000</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Елді мекендерді көркейту</td>
-<td colspan="2">4 828 688</td>
+<td colspan="2">4 748 064</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлiгi және автомобиль жолдары бөлiмi</td>
-<td colspan="2">4 828 688</td>
+<td colspan="2">4 748 064</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1243,7 +1242,7 @@
 <td colspan="2">891 102</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -1251,7 +1250,7 @@
 <td colspan="2">343 796</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -1259,15 +1258,15 @@
 <td colspan="2">14 000</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>018</td>
 <td>Елдi мекендердi абаттандыру және көгалдандыру</td>
-<td colspan="2">3 579 790</td>
+<td colspan="2">3 499 166</td>
 </tr>
 <tr>
-<td colspan="3">08</td>
+<td colspan="2">08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1275,7 +1274,7 @@
 <td colspan="2">2 252 929</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1283,7 +1282,7 @@
 <td colspan="2">1 493 118</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>457</td>
 <td></td>
@@ -1291,15 +1290,7 @@
 <td colspan="2">1 493 118</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
-</tr>
-<tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1307,7 +1298,7 @@
 <td colspan="2">1 493 118</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1315,7 +1306,15 @@
 <td colspan="2">74 042</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<th colspan="2">1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th colspan="2">6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td>457</td>
 <td></td>
@@ -1323,7 +1322,7 @@
 <td colspan="2">64 720</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1331,7 +1330,7 @@
 <td colspan="2">25 710</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -1339,7 +1338,7 @@
 <td colspan="2">23 810</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -1347,7 +1346,7 @@
 <td colspan="2">15 200</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -1355,7 +1354,7 @@
 <td colspan="2">9 322</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1363,7 +1362,7 @@
 <td colspan="2">9 322</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1371,7 +1370,7 @@
 <td colspan="2">430 926</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1379,7 +1378,7 @@
 <td colspan="2">146 426</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1387,7 +1386,7 @@
 <td colspan="2">146 426</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>457</td>
 <td></td>
@@ -1395,7 +1394,7 @@
 <td colspan="2">284 500</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1403,7 +1402,7 @@
 <td colspan="2">279 500</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1411,7 +1410,7 @@
 <td colspan="2">5 000</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1419,7 +1418,7 @@
 <td colspan="2">254 843</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1427,7 +1426,7 @@
 <td colspan="2">186 319</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1435,7 +1434,7 @@
 <td colspan="2">78 466</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1443,7 +1442,7 @@
 <td colspan="2">107 853</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>457</td>
 <td></td>
@@ -1451,7 +1450,7 @@
 <td colspan="2">68 524</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1459,7 +1458,7 @@
 <td colspan="2">68 524</td>
 </tr>
 <tr>
-<td colspan="3">09</td>
+<td colspan="2">09</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1467,7 +1466,7 @@
 <td colspan="2">7 386 244</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1475,7 +1474,7 @@
 <td colspan="2">7 386 244</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1483,7 +1482,7 @@
 <td colspan="2">7 386 244</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>019</td>
@@ -1491,15 +1490,7 @@
 <td colspan="2">7 386 244</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
-</tr>
-<tr>
-<td colspan="3">10</td>
+<td colspan="2">10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1507,7 +1498,15 @@
 <td colspan="2">187 453</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<th colspan="2">1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th colspan="2">6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1515,7 +1514,7 @@
 <td colspan="2">47 188</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>462</td>
 <td></td>
@@ -1523,7 +1522,7 @@
 <td colspan="2">47 188</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1531,7 +1530,7 @@
 <td colspan="2">47 188</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -1539,7 +1538,7 @@
 <td colspan="2">124 395</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>463</td>
 <td></td>
@@ -1547,7 +1546,7 @@
 <td colspan="2">124 395</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1555,7 +1554,7 @@
 <td colspan="2">124 395</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1563,7 +1562,7 @@
 <td colspan="2">15 870</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -1571,7 +1570,7 @@
 <td colspan="2">15 870</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>099</td>
@@ -1579,7 +1578,7 @@
 <td colspan="2">15 870</td>
 </tr>
 <tr>
-<td colspan="3">11</td>
+<td colspan="2">11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1587,7 +1586,7 @@
 <td colspan="2">328 048</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1595,7 +1594,7 @@
 <td colspan="2">328 048</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -1603,7 +1602,7 @@
 <td colspan="2">276 279</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1611,7 +1610,7 @@
 <td colspan="2">216 154</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -1619,7 +1618,7 @@
 <td colspan="2">60 125</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>468</td>
 <td></td>
@@ -1627,7 +1626,7 @@
 <td colspan="2">51 769</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1635,7 +1634,7 @@
 <td colspan="2">51 269</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1643,7 +1642,7 @@
 <td colspan="2">500</td>
 </tr>
 <tr>
-<td colspan="3">12</td>
+<td colspan="2">12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1651,7 +1650,7 @@
 <td colspan="2">9 701 389</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1659,7 +1658,7 @@
 <td colspan="2">8 112 489</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1667,7 +1666,7 @@
 <td colspan="2">8 112 489</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -1675,7 +1674,7 @@
 <td colspan="2">7 000</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -1683,7 +1682,7 @@
 <td colspan="2">8 105 489</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1691,15 +1690,7 @@
 <td colspan="2">1 588 900</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
-</tr>
-<tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1707,7 +1698,23 @@
 <td colspan="2">1 588 900</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<th colspan="2">1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th colspan="2">6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>037</td>
@@ -1715,23 +1722,23 @@
 <td colspan="2">1 588 900</td>
 </tr>
 <tr>
-<td colspan="3">13</td>
+<td colspan="2">13</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td colspan="2">5 520 264</td>
+<td colspan="2">5 533 264</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Кәсiпкерлiк қызметтi қолдау және бәсекелестікті қорғау</td>
-<td colspan="2">3 079 080</td>
+<td colspan="2">3 092 080</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -1739,7 +1746,7 @@
 <td colspan="2">2 997 240</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>026</td>
@@ -1747,23 +1754,23 @@
 <td colspan="2">2 997 240</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>469</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік бөлімі</td>
-<td colspan="2">81 840</td>
+<td colspan="2">94 840</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Жергілікті деңгейде кәсіпкерлікті дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">81 840</td>
+<td colspan="2">94 840</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1771,7 +1778,7 @@
 <td colspan="2">2 441 184</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1779,7 +1786,7 @@
 <td colspan="2">100</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>085</td>
@@ -1787,7 +1794,7 @@
 <td colspan="2">100</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -1795,7 +1802,7 @@
 <td colspan="2">755 392</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1803,7 +1810,7 @@
 <td colspan="2">755 392</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -1811,7 +1818,7 @@
 <td colspan="2">1 685 692</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>079</td>
@@ -1819,7 +1826,7 @@
 <td colspan="2">299 549</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>085</td>
@@ -1827,39 +1834,39 @@
 <td colspan="2">1 386 143</td>
 </tr>
 <tr>
-<td colspan="3">14</td>
+<td colspan="2">14</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td colspan="2">1 120 770</td>
+<td colspan="2">1 122 583</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td colspan="2">1 120 770</td>
+<td colspan="2">1 122 583</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td colspan="2">1 120 770</td>
+<td colspan="2">1 122 583</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>021</td>
 <td>Жергілікті атқарушы органдардың облыстық бюджеттен қарыздар бойынша сыйақылар мен өзге де төлемдерді төлеу бойынша борышына қызмет көрсету</td>
-<td colspan="2">1 120 770</td>
+<td colspan="2">1 122 583</td>
 </tr>
 <tr>
-<td colspan="3">15</td>
+<td colspan="2">15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1867,7 +1874,7 @@
 <td colspan="2">31 490 560</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1875,7 +1882,7 @@
 <td colspan="2">31 490 560</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -1883,15 +1890,7 @@
 <td colspan="2">31 490 560</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
-</tr>
-<tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1899,7 +1898,15 @@
 <td colspan="2">3 746</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<th colspan="2">1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th colspan="2">6</th>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1907,7 +1914,7 @@
 <td colspan="2">30 812 241</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>038</td>
@@ -1915,7 +1922,7 @@
 <td colspan="2">674 573</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1923,7 +1930,7 @@
 <td colspan="2">7 861 917</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1931,7 +1938,7 @@
 <td colspan="2">8 013 357</td>
 </tr>
 <tr>
-<td colspan="3">07</td>
+<td colspan="2">07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1939,7 +1946,7 @@
 <td colspan="2">7 978 011</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1947,7 +1954,7 @@
 <td colspan="2">7 978 011</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1955,7 +1962,7 @@
 <td colspan="2">7 978 011</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>053</td>
@@ -1963,7 +1970,7 @@
 <td colspan="2">7 978 011</td>
 </tr>
 <tr>
-<td colspan="3">10</td>
+<td colspan="2">10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1971,7 +1978,7 @@
 <td colspan="2">35 346</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1979,7 +1986,7 @@
 <td colspan="2">35 346</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -1987,7 +1994,7 @@
 <td colspan="2">35 346</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1995,7 +2002,7 @@
 <td colspan="2">35 346</td>
 </tr>
 <tr>
-<td colspan="3">6</td>
+<td colspan="2">6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2003,7 +2010,7 @@
 <td colspan="2">151 440</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -2011,7 +2018,7 @@
 <td colspan="2">151 440</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -2019,7 +2026,7 @@
 <td colspan="2">151 440</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2027,7 +2034,7 @@
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2035,7 +2042,7 @@
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="3">7</td>
+<td colspan="2">7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2043,47 +2050,47 @@
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>5.Бюджет тапшылығы (профициті)</td>
-<td colspan="2">-9 182 198</td>
+<td colspan="2">-8 248 741</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>6.Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="2">9 182 198</td>
+<td colspan="2">8 248 741</td>
 </tr>
 <tr>
-<td colspan="3">8</td>
+<td colspan="2">8</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарыздар түсімдері</td>
-<td colspan="2">14 239 130</td>
+<td colspan="2">13 305 673</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Мемлекеттік ішкі қарыздар</td>
-<td colspan="2">14 239 130</td>
+<td colspan="2">13 305 673</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>2</td>
 <td></td>
 <td>Қарыз алу келісім-шарттары</td>
-<td colspan="2">14 239 130</td>
+<td colspan="2">13 305 673</td>
 </tr>
 <tr>
-<td colspan="3">16</td>
+<td colspan="2">16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2091,7 +2098,7 @@
 <td colspan="2">5 481 125</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -2099,7 +2106,7 @@
 <td colspan="2">5 481 125</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>459</td>
 <td></td>
@@ -2107,7 +2114,7 @@
 <td colspan="2">5 481 125</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -2115,7 +2122,7 @@
 <td colspan="2">5 481 125</td>
 </tr>
 <tr>
-<td colspan="3">9</td>
+<td colspan="2">9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2123,7 +2130,7 @@
 <td colspan="2">424 193</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -2131,7 +2138,7 @@
 <td colspan="2">424 193</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td></td>
